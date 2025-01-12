@@ -26,13 +26,13 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
-2. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
-3. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
-4. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
-5. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-6. ⭐ Starred [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
-7. 📝 Committed to a private repo
+1. ⭐ Starred [pester/Pester](https://github.com/pester/Pester)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
+3. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
+4. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
+5. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
+6. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. ⭐ Starred [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
