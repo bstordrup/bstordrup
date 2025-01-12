@@ -26,6 +26,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
+2. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
+3. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
+4. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
+5. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+6. ⭐ Starred [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
