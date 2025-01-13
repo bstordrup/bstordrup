@@ -24,16 +24,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [pester/Pester](https://github.com/pester/Pester)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
-3. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
-4. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
-5. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
-6. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-7. 🗑️ Deleted a branch `ConditionsOnSigningAdditionalFiles` in a private repo
-8. 📝 Committed to a private repo
-9. 🔀 Merged a PR in a private repo
-10. 📥 Opened a PR in a private repo
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/358324cc2063ca668bc33760484fbbe95c268b51)
+2. ⭐ Starred [pester/Pester](https://github.com/pester/Pester)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
+4. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
+5. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
+6. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
+7. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+8. 🗑️ Deleted a branch `ConditionsOnSigningAdditionalFiles` in a private repo
+9. 📝 Committed to a private repo
+10. 🔀 Merged a PR in a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
