@@ -13,7 +13,7 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href=https://github.com/bstordrup" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/github.svg" alt=GitHub height="30" width="40"></a>
+<a href=https://github.com/bstordrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/github.svg" alt=bstordrup height="30" width="40"></a>
 <a href="https://twitter.com/bennytordrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bennytordrup" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bennytordrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bennytordrup" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2435661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2435661" height="30" width="40" /></a>
