@@ -32,10 +32,10 @@ I have been working with software development since I was hired in a Danish comp
 4. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
 5. ⭐ Starred [NebojsaKrtolica/vscodium](https://github.com/NebojsaKrtolica/vscodium)
 6. ⭐ Starred [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-7. ⭐ Starred [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
+7. 🗑️ Deleted a branch `ConditionsOnSigningAdditionalFiles` in a private repo
 8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+9. 🔀 Merged a PR in a private repo
+10. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
