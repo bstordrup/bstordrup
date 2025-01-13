@@ -7,11 +7,9 @@
 
 I have been working with software development since I was hired in a Danish company FK-DATA A/S in September 1996 - a company that was acquired by Visma Software in 2005. Since early 2008, I have been working in the Visma Business team. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bstordrup&label=Profile%20views&color=0e75b6&style=flat" alt="bstordrup" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bstordrup&label=Profile%20views&color=0e75b6&style=flat" alt="bstordrup" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bstordrup" alt="bstordrup" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bennytordrup" target="blank"><img src="https://img.shields.io/twitter/follow/bennytordrup?logo=twitter&style=for-the-badge" alt="bennytordrup" /></a> </p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
