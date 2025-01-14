@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🍴 Forked [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2839d3d5c7655ee237d6a95892fc893900f6e592)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/fe8d8b03ae02aae34da048d4f0f8067c4c952930)
-4. 🗣 Commented on issue [#873](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): [View Comment](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873#issuecomment-2586413843)
-5. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/358324cc2063ca668bc33760484fbbe95c268b51)
-7. ⭐ Starred [pester/Pester](https://github.com/pester/Pester)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
-9. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
-10. ⭐ Starred [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub)
+1. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2589374630)
+2. 🍴 Forked [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2839d3d5c7655ee237d6a95892fc893900f6e592)
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/fe8d8b03ae02aae34da048d4f0f8067c4c952930)
+5. 🗣 Commented on issue [#873](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): [View Comment](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873#issuecomment-2586413843)
+6. ⭐ Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/358324cc2063ca668bc33760484fbbe95c268b51)
+8. ⭐ Starred [pester/Pester](https://github.com/pester/Pester)
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b20c59867245244852fa196f595eefcb56454070)
+10. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
