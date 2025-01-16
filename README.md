@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks)
-2. ⭐ Starred [microsoft/XmlNotepad](https://github.com/microsoft/XmlNotepad)
-3. ⭐ Starred [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons)
-4. ⭐ Starred [microsoft/kiota-dotnet](https://github.com/microsoft/kiota-dotnet)
-5. ⭐ Starred [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
-6. ⭐ Starred [microsoft/vs-validation](https://github.com/microsoft/vs-validation)
-7. ⭐ Starred [microsoft/vssdktestfx](https://github.com/microsoft/vssdktestfx)
-8. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)
-9. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-10. ⭐ Starred [microsoft/vstest](https://github.com/microsoft/vstest)
+1. ⭐ Starred [microsoft/near-duplicate-code-detector](https://github.com/microsoft/near-duplicate-code-detector)
+2. ⭐ Starred [microsoft/devhome](https://github.com/microsoft/devhome)
+3. ⭐ Starred [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
+4. ⭐ Starred [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks)
+5. ⭐ Starred [microsoft/XmlNotepad](https://github.com/microsoft/XmlNotepad)
+6. ⭐ Starred [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons)
+7. ⭐ Starred [microsoft/kiota-dotnet](https://github.com/microsoft/kiota-dotnet)
+8. ⭐ Starred [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
+9. ⭐ Starred [microsoft/vs-validation](https://github.com/microsoft/vs-validation)
+10. ⭐ Starred [microsoft/vssdktestfx](https://github.com/microsoft/vssdktestfx)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
