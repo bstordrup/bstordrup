@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🔔 Watching [microsoft/PullRequestQuantifier](https://github.com/microsoft/PullRequestQuantifier)
-2. ⭐ Starred [microsoft/near-duplicate-code-detector](https://github.com/microsoft/near-duplicate-code-detector)
-3. ⭐ Starred [microsoft/devhome](https://github.com/microsoft/devhome)
-4. ⭐ Starred [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
-5. ⭐ Starred [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks)
-6. ⭐ Starred [microsoft/XmlNotepad](https://github.com/microsoft/XmlNotepad)
-7. ⭐ Starred [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons)
-8. ⭐ Starred [microsoft/kiota-dotnet](https://github.com/microsoft/kiota-dotnet)
-9. ⭐ Starred [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
-10. ⭐ Starred [microsoft/vs-validation](https://github.com/microsoft/vs-validation)
+1. ⭐ Starred [microsoft/VS-PPT](https://github.com/microsoft/VS-PPT)
+2. ⭐ Starred [microsoft/sarif-visualstudio-extension](https://github.com/microsoft/sarif-visualstudio-extension)
+3. ⭐ Starred [microsoft/vscode-remote-try-dotnet](https://github.com/microsoft/vscode-remote-try-dotnet)
+4. 🔔 Watching [microsoft/PullRequestQuantifier](https://github.com/microsoft/PullRequestQuantifier)
+5. ⭐ Starred [microsoft/near-duplicate-code-detector](https://github.com/microsoft/near-duplicate-code-detector)
+6. ⭐ Starred [microsoft/devhome](https://github.com/microsoft/devhome)
+7. ⭐ Starred [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream)
+8. ⭐ Starred [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks)
+9. ⭐ Starred [microsoft/XmlNotepad](https://github.com/microsoft/XmlNotepad)
+10. ⭐ Starred [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
