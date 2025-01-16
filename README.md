@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/vs-validation](https://github.com/microsoft/vs-validation)
-2. ⭐ Starred [microsoft/vssdktestfx](https://github.com/microsoft/vssdktestfx)
-3. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)
-4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ⭐ Starred [microsoft/vstest](https://github.com/microsoft/vstest)
-6. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2589374630)
-7. 🍴 Forked [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2839d3d5c7655ee237d6a95892fc893900f6e592)
-9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/fe8d8b03ae02aae34da048d4f0f8067c4c952930)
-10. 🗣 Commented on issue [#873](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): [View Comment](https://github.com/rahuldkjain/github-profile-readme-generator/issues/873#issuecomment-2586413843)
+1. ⭐ Starred [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks)
+2. ⭐ Starred [microsoft/XmlNotepad](https://github.com/microsoft/XmlNotepad)
+3. ⭐ Starred [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons)
+4. ⭐ Starred [microsoft/kiota-dotnet](https://github.com/microsoft/kiota-dotnet)
+5. ⭐ Starred [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)
+6. ⭐ Starred [microsoft/vs-validation](https://github.com/microsoft/vs-validation)
+7. ⭐ Starred [microsoft/vssdktestfx](https://github.com/microsoft/vssdktestfx)
+8. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)
+9. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+10. ⭐ Starred [microsoft/vstest](https://github.com/microsoft/vstest)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
