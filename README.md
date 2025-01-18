@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#44404](https://github.com/dotnet/docs/issues/44404) in [dotnet/docs](https://github.com/dotnet/docs)
-2. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659988)
-3. ❌ Closed an issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
-4. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659080)
-5. ⭐ Starred [microsoft/wslg](https://github.com/microsoft/wslg)
-6. ⭐ Starred [microsoft/wil](https://github.com/microsoft/wil)
-7. ⭐ Starred [microsoft/VS-PPT](https://github.com/microsoft/VS-PPT)
-8. ⭐ Starred [microsoft/sarif-visualstudio-extension](https://github.com/microsoft/sarif-visualstudio-extension)
-9. ⭐ Starred [microsoft/vscode-remote-try-dotnet](https://github.com/microsoft/vscode-remote-try-dotnet)
-10. 🔔 Watching [microsoft/PullRequestQuantifier](https://github.com/microsoft/PullRequestQuantifier)
+1. ⭐ Starred [devexlead/onboarding-winget](https://github.com/devexlead/onboarding-winget)
+2. 🆕 Opened an issue [#44404](https://github.com/dotnet/docs/issues/44404) in [dotnet/docs](https://github.com/dotnet/docs)
+3. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659988)
+4. ❌ Closed an issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
+5. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659080)
+6. ⭐ Starred [microsoft/wslg](https://github.com/microsoft/wslg)
+7. ⭐ Starred [microsoft/wil](https://github.com/microsoft/wil)
+8. ⭐ Starred [microsoft/VS-PPT](https://github.com/microsoft/VS-PPT)
+9. ⭐ Starred [microsoft/sarif-visualstudio-extension](https://github.com/microsoft/sarif-visualstudio-extension)
+10. ⭐ Starred [microsoft/vscode-remote-try-dotnet](https://github.com/microsoft/vscode-remote-try-dotnet)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
