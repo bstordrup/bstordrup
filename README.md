@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [dotnet/dotnet](https://github.com/dotnet/dotnet)
-2. ⭐ Starred [dotnet/dotNext](https://github.com/dotnet/dotNext)
-3. ⭐ Starred [microsoftgraph/msgraph-snippets-dotnet](https://github.com/microsoftgraph/msgraph-snippets-dotnet)
-4. ⭐ Starred [devexlead/onboarding-winget](https://github.com/devexlead/onboarding-winget)
-5. 🆕 Opened an issue [#44404](https://github.com/dotnet/docs/issues/44404) in [dotnet/docs](https://github.com/dotnet/docs)
-6. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659988)
-7. ❌ Closed an issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
-8. 🗣 Commented on issue [#436](https://github.com/serilog/serilog-settings-configuration/issues/436) in [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration): [View Comment](https://github.com/serilog/serilog-settings-configuration/issues/436#issuecomment-2594659080)
-9. ⭐ Starred [microsoft/wslg](https://github.com/microsoft/wslg)
-10. ⭐ Starred [microsoft/wil](https://github.com/microsoft/wil)
+1. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
+2. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
+3. ⭐ Starred [dotnet/command-line-api](https://github.com/dotnet/command-line-api)
+4. ⭐ Starred [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)
+5. ⭐ Starred [dotnet/NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks)
+6. ⭐ Starred [dotnet/templating](https://github.com/dotnet/templating)
+7. ⭐ Starred [dotnet/dotnet](https://github.com/dotnet/dotnet)
+8. ⭐ Starred [dotnet/dotNext](https://github.com/dotnet/dotNext)
+9. ⭐ Starred [microsoftgraph/msgraph-snippets-dotnet](https://github.com/microsoftgraph/msgraph-snippets-dotnet)
+10. ⭐ Starred [devexlead/onboarding-winget](https://github.com/devexlead/onboarding-winget)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
