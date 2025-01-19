@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler)
-2. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
-3. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
-4. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
-5. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
-6. ⭐ Starred [dotnet/command-line-api](https://github.com/dotnet/command-line-api)
-7. ⭐ Starred [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)
-8. ⭐ Starred [dotnet/NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks)
-9. ⭐ Starred [dotnet/templating](https://github.com/dotnet/templating)
-10. ⭐ Starred [dotnet/dotnet](https://github.com/dotnet/dotnet)
+1. ⭐ Starred [git/git](https://github.com/git/git)
+2. ⭐ Starred [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler)
+3. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
+4. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
+5. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
+6. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
+7. ⭐ Starred [dotnet/command-line-api](https://github.com/dotnet/command-line-api)
+8. ⭐ Starred [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)
+9. ⭐ Starred [dotnet/NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks)
+10. ⭐ Starred [dotnet/templating](https://github.com/dotnet/templating)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
