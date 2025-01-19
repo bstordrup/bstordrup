@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
-2. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
-3. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
-4. ⭐ Starred [dotnet/command-line-api](https://github.com/dotnet/command-line-api)
-5. ⭐ Starred [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)
-6. ⭐ Starred [dotnet/NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks)
-7. ⭐ Starred [dotnet/templating](https://github.com/dotnet/templating)
-8. ⭐ Starred [dotnet/dotnet](https://github.com/dotnet/dotnet)
-9. ⭐ Starred [dotnet/dotNext](https://github.com/dotnet/dotNext)
-10. ⭐ Starred [microsoftgraph/msgraph-snippets-dotnet](https://github.com/microsoftgraph/msgraph-snippets-dotnet)
+1. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
+2. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
+3. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
+4. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
+5. ⭐ Starred [dotnet/command-line-api](https://github.com/dotnet/command-line-api)
+6. ⭐ Starred [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)
+7. ⭐ Starred [dotnet/NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks)
+8. ⭐ Starred [dotnet/templating](https://github.com/dotnet/templating)
+9. ⭐ Starred [dotnet/dotnet](https://github.com/dotnet/dotnet)
+10. ⭐ Starred [dotnet/dotNext](https://github.com/dotnet/dotNext)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
