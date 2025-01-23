@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-2. ⭐ Starred [actions/runner-images](https://github.com/actions/runner-images)
-3. ⭐ Starred [alex289/CleanArchitecture](https://github.com/alex289/CleanArchitecture)
-4. ⭐ Starred [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings)
-5. ⭐ Starred [git/git](https://github.com/git/git)
-6. ⭐ Starred [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler)
-7. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
-8. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
-9. ⭐ Starred [dotnet/apisof.net](https://github.com/dotnet/apisof.net)
-10. ⭐ Starred [dotnet/roslynator](https://github.com/dotnet/roslynator)
+1. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+2. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)
+3. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+4. ⭐ Starred [actions/runner-images](https://github.com/actions/runner-images)
+5. ⭐ Starred [alex289/CleanArchitecture](https://github.com/alex289/CleanArchitecture)
+6. ⭐ Starred [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings)
+7. ⭐ Starred [git/git](https://github.com/git/git)
+8. ⭐ Starred [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler)
+9. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
+10. 🆕 Opened an issue [#58](https://github.com/ErikEJ/erikej.github.io/issues/58) in [ErikEJ/erikej.github.io](https://github.com/ErikEJ/erikej.github.io)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
