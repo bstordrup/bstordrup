@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-2. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-3. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)
-4. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-5. ⭐ Starred [actions/runner-images](https://github.com/actions/runner-images)
-6. ⭐ Starred [alex289/CleanArchitecture](https://github.com/alex289/CleanArchitecture)
-7. ⭐ Starred [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings)
-8. ⭐ Starred [git/git](https://github.com/git/git)
-9. ⭐ Starred [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler)
-10. ⭐ Starred [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions)
+1. ⭐ Starred [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
+2. ⭐ Starred [PowerShell/PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC)
+3. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+4. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+5. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)
+6. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+7. ⭐ Starred [actions/runner-images](https://github.com/actions/runner-images)
+8. ⭐ Starred [alex289/CleanArchitecture](https://github.com/alex289/CleanArchitecture)
+9. ⭐ Starred [nblumhardt/serilog-timings](https://github.com/nblumhardt/serilog-timings)
+10. ⭐ Starred [git/git](https://github.com/git/git)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
