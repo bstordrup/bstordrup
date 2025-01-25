@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🍴 Forked [agileobjects/ReadableExpressions](https://github.com/agileobjects/ReadableExpressions)
-2. ⭐ Starred [sbaeumlisberger/VirtualizingWrapPanel](https://github.com/sbaeumlisberger/VirtualizingWrapPanel)
-3. ⭐ Starred [serilog/serilog](https://github.com/serilog/serilog)
-4. ⭐ Starred [unvell/ReoGrid](https://github.com/unvell/ReoGrid)
-5. ⭐ Starred [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
-6. ⭐ Starred [PowerShell/PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC)
-7. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-8. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-9. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)
-10. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+1. ⭐ Starred [progit/progit2](https://github.com/progit/progit2)
+2. 🍴 Forked [agileobjects/ReadableExpressions](https://github.com/agileobjects/ReadableExpressions)
+3. ⭐ Starred [sbaeumlisberger/VirtualizingWrapPanel](https://github.com/sbaeumlisberger/VirtualizingWrapPanel)
+4. ⭐ Starred [serilog/serilog](https://github.com/serilog/serilog)
+5. ⭐ Starred [unvell/ReoGrid](https://github.com/unvell/ReoGrid)
+6. ⭐ Starred [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
+7. ⭐ Starred [PowerShell/PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC)
+8. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+9. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+10. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
