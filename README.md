@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [leandromonaco/digital-knowledge-garden](https://github.com/leandromonaco/digital-knowledge-garden)
-2. ⭐ Starred [progit/progit2](https://github.com/progit/progit2)
-3. 🍴 Forked [agileobjects/ReadableExpressions](https://github.com/agileobjects/ReadableExpressions)
-4. ⭐ Starred [sbaeumlisberger/VirtualizingWrapPanel](https://github.com/sbaeumlisberger/VirtualizingWrapPanel)
-5. ⭐ Starred [serilog/serilog](https://github.com/serilog/serilog)
-6. ⭐ Starred [unvell/ReoGrid](https://github.com/unvell/ReoGrid)
-7. ⭐ Starred [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
-8. ⭐ Starred [PowerShell/PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC)
-9. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-10. ⭐ Starred [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+1. ⭐ Starred [microsoftgraph/microsoft-graph-docs-contrib](https://github.com/microsoftgraph/microsoft-graph-docs-contrib)
+2. ⭐ Starred [serilog/serilog-sinks-eventlog](https://github.com/serilog/serilog-sinks-eventlog)
+3. ⭐ Starred [aspnet-contrib/AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
+4. ⭐ Starred [leandromonaco/digital-knowledge-garden](https://github.com/leandromonaco/digital-knowledge-garden)
+5. ⭐ Starred [progit/progit2](https://github.com/progit/progit2)
+6. 🍴 Forked [agileobjects/ReadableExpressions](https://github.com/agileobjects/ReadableExpressions)
+7. ⭐ Starred [sbaeumlisberger/VirtualizingWrapPanel](https://github.com/sbaeumlisberger/VirtualizingWrapPanel)
+8. ⭐ Starred [serilog/serilog](https://github.com/serilog/serilog)
+9. ⭐ Starred [unvell/ReoGrid](https://github.com/unvell/ReoGrid)
+10. ⭐ Starred [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
