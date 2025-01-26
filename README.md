@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
-2. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
-3. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
-4. ⭐ Starred [atifaziz/Gratt](https://github.com/atifaziz/Gratt)
-5. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
-6. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
-7. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
-8. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
-9. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
-10. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
+1. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
+2. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
+3. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+4. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
+5. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
+6. ⭐ Starred [multilang-depends/depends](https://github.com/multilang-depends/depends)
+7. ⭐ Starred [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+8. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
+9. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
+10. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
