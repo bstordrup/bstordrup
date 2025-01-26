@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
-2. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
-3. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
-4. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
-5. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
-6. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
-7. ⭐ Starred [serilog/serilog-sinks-trace](https://github.com/serilog/serilog-sinks-trace)
-8. ⭐ Starred [serilog/serilog-enrichers-thread](https://github.com/serilog/serilog-enrichers-thread)
-9. ⭐ Starred [serilog/serilog-enrichers-process](https://github.com/serilog/serilog-enrichers-process)
-10. ⭐ Starred [serilog/serilog-sinks-textwriter](https://github.com/serilog/serilog-sinks-textwriter)
+1. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
+2. ⭐ Starred [atifaziz/Gratt](https://github.com/atifaziz/Gratt)
+3. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
+4. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
+5. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
+6. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
+7. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
+8. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
+9. ⭐ Starred [serilog/serilog-sinks-trace](https://github.com/serilog/serilog-sinks-trace)
+10. ⭐ Starred [serilog/serilog-enrichers-thread](https://github.com/serilog/serilog-enrichers-thread)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
