@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [serilog-contrib/brand](https://github.com/serilog-contrib/brand)
-2. ⭐ Starred [serilog-contrib/serilog-diagnostics-tracelistener](https://github.com/serilog-contrib/serilog-diagnostics-tracelistener)
-3. ⭐ Starred [serilog-contrib/Serilog.Enrichers.Sensitive](https://github.com/serilog-contrib/Serilog.Enrichers.Sensitive)
-4. ⭐ Starred [serilog-contrib/serilog-sinks-slack](https://github.com/serilog-contrib/serilog-sinks-slack)
-5. ⭐ Starred [serilog-contrib/serilog-enrichers-memory](https://github.com/serilog-contrib/serilog-enrichers-memory)
-6. ⭐ Starred [serilog-contrib/serilog-sinks-notepad](https://github.com/serilog-contrib/serilog-sinks-notepad)
-7. ⭐ Starred [serilog-contrib/serilog-ui](https://github.com/serilog-contrib/serilog-ui)
-8. ⭐ Starred [microsoftgraph/microsoft-graph-docs-contrib](https://github.com/microsoftgraph/microsoft-graph-docs-contrib)
-9. ⭐ Starred [serilog/serilog-sinks-eventlog](https://github.com/serilog/serilog-sinks-eventlog)
-10. ⭐ Starred [aspnet-contrib/AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
+1. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
+2. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
+3. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
+4. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
+5. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
+6. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
+7. ⭐ Starred [serilog/serilog-sinks-trace](https://github.com/serilog/serilog-sinks-trace)
+8. ⭐ Starred [serilog/serilog-enrichers-thread](https://github.com/serilog/serilog-enrichers-thread)
+9. ⭐ Starred [serilog/serilog-enrichers-process](https://github.com/serilog/serilog-enrichers-process)
+10. ⭐ Starred [serilog/serilog-sinks-textwriter](https://github.com/serilog/serilog-sinks-textwriter)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
