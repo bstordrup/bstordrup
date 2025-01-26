@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
-2. ⭐ Starred [atifaziz/Gratt](https://github.com/atifaziz/Gratt)
-3. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
-4. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
-5. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
-6. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
-7. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
-8. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
-9. ⭐ Starred [serilog/serilog-sinks-trace](https://github.com/serilog/serilog-sinks-trace)
-10. ⭐ Starred [serilog/serilog-enrichers-thread](https://github.com/serilog/serilog-enrichers-thread)
+1. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
+2. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
+3. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
+4. ⭐ Starred [atifaziz/Gratt](https://github.com/atifaziz/Gratt)
+5. ⭐ Starred [andrewlock/dotnet-creator-cards](https://github.com/andrewlock/dotnet-creator-cards)
+6. ⭐ Starred [andrewlock/PwnedPasswords](https://github.com/andrewlock/PwnedPasswords)
+7. ⭐ Starred [andrewlock/Polyfill](https://github.com/andrewlock/Polyfill)
+8. ⭐ Starred [andrewlock/CommonPasswordsValidator](https://github.com/andrewlock/CommonPasswordsValidator)
+9. ⭐ Starred [nblumhardt/SerilogAnalyzer](https://github.com/nblumhardt/SerilogAnalyzer)
+10. ⭐ Starred [serilog/serilog-sinks-console](https://github.com/serilog/serilog-sinks-console)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
