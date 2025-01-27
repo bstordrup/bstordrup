@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
-2. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
-3. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
-4. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-5. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
-6. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
-7. ⭐ Starred [multilang-depends/depends](https://github.com/multilang-depends/depends)
-8. ⭐ Starred [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
-9. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
-10. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
+1. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
+2. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
+3. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
+4. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
+5. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
+6. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
+7. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
+8. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+9. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
+10. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
