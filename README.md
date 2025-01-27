@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
-2. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
-3. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-4. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
-5. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
-6. ⭐ Starred [multilang-depends/depends](https://github.com/multilang-depends/depends)
-7. ⭐ Starred [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
-8. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
-9. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
-10. ⭐ Starred [kimwalisch/calculator](https://github.com/kimwalisch/calculator)
+1. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
+2. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
+3. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
+4. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+5. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
+6. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
+7. ⭐ Starred [multilang-depends/depends](https://github.com/multilang-depends/depends)
+8. ⭐ Starred [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+9. ⭐ Starred [ronnieholm/ExpressionParsers](https://github.com/ronnieholm/ExpressionParsers)
+10. ⭐ Starred [Whiteknight/ParserObjects](https://github.com/Whiteknight/ParserObjects)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
