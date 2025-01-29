@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-2. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
-3. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
-4. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
-5. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
-6. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
-7. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
-8. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-9. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
-10. ⭐ Starred [drewnoakes/dependency-analyser](https://github.com/drewnoakes/dependency-analyser)
+1. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
+2. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
+3. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
+4. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
+5. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
+6. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
+7. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
+8. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
+9. ⭐ Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+10. ⭐ Starred [danmar/cppcheck](https://github.com/danmar/cppcheck)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
