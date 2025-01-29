@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
-2. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
-3. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
-4. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-5. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
-6. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
-7. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
-8. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
-9. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
-10. ⭐ Starred [dspinellis/cscout](https://github.com/dspinellis/cscout)
+1. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
+2. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
+3. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
+4. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
+5. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
+6. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
+7. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
+8. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
+9. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
+10. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
