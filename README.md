@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. ➕ Created a new branch `dev_Reorganization` in a private repo
-3. 📥 Opened a PR in a private repo
-4. ➕ Created a new branch `ExportSelectedItems` in a private repo
-5. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
-6. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
-7. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
-8. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
-9. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-10. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
+1. 🗑️ Deleted a branch `dev_Reorganization` in a private repo
+2. 📝 Committed to a private repo
+3. 🔀 Merged a PR in a private repo
+4. 📥 Opened a PR in a private repo
+5. ➕ Created a new branch `dev_Reorganization` in a private repo
+6. 📥 Opened a PR in a private repo
+7. ➕ Created a new branch `ExportSelectedItems` in a private repo
+8. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
+9. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
+10. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
