@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
-2. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
-3. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
-4. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
-5. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-6. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
-7. ⭐ Starred [lancaster-university/codal-microbit-v2](https://github.com/lancaster-university/codal-microbit-v2)
-8. ⭐ Starred [lancaster-university/microbit-dal](https://github.com/lancaster-university/microbit-dal)
-9. 🍴 Forked [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill)
-10. ⭐ Starred [splintchecker/splint](https://github.com/splintchecker/splint)
+1. 📥 Opened a PR in a private repo
+2. ➕ Created a new branch `dev_Reorganization` in a private repo
+3. 📥 Opened a PR in a private repo
+4. ➕ Created a new branch `ExportSelectedItems` in a private repo
+5. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
+6. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
+7. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
+8. ⭐ Starred [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs)
+9. ⭐ Starred [lancaster-university/microbit](https://github.com/lancaster-university/microbit)
+10. ⭐ Starred [lancaster-university/microbit-v2-samples](https://github.com/lancaster-university/microbit-v2-samples)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
