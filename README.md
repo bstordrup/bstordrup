@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. ➕ Created a new branch `VB-16139_SEServiceToSeparateOutputFolder` in a private repo
-3. 🗑️ Deleted a branch `AddMethod_TryFind` in a private repo
-4. 📝 Committed to a private repo
-5. 🔀 Merged a PR in a private repo
-6. 📥 Opened a PR in a private repo
-7. ➕ Created a new branch `AddMethod_TryFind` in a private repo
-8. 🔀 Merged a PR in a private repo
-9. 📝 Committed to a private repo
-10. 🗑️ Deleted a branch `ExportSelectedItems` in a private repo
+1. 📝 Committed to a private repo
+2. 📥 Opened a PR in a private repo
+3. ➕ Created a new branch `VB-16139_SEServiceToSeparateOutputFolder` in a private repo
+4. 🗑️ Deleted a branch `AddMethod_TryFind` in a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
+7. 📥 Opened a PR in a private repo
+8. ➕ Created a new branch `AddMethod_TryFind` in a private repo
+9. 🔀 Merged a PR in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
