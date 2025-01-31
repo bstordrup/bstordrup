@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `dev_Reorganization` in a private repo
+1. 🔀 Merged a PR in a private repo
 2. 📝 Committed to a private repo
-3. 🔀 Merged a PR in a private repo
-4. 📥 Opened a PR in a private repo
-5. ➕ Created a new branch `dev_Reorganization` in a private repo
-6. 📥 Opened a PR in a private repo
-7. ➕ Created a new branch `ExportSelectedItems` in a private repo
-8. 🍴 Forked [AdamWhiteHat/ShowMeTheTemplates-v3](https://github.com/AdamWhiteHat/ShowMeTheTemplates-v3)
-9. 🔔 Watching [martincostello/api](https://github.com/martincostello/api)
-10. ⭐ Starred [trbenning/serilog-sinks-xunit](https://github.com/trbenning/serilog-sinks-xunit)
+3. 🗑️ Deleted a branch `ExportSelectedItems` in a private repo
+4. 🗑️ Deleted a branch `dev_Reorganization` in a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
+7. 📥 Opened a PR in a private repo
+8. ➕ Created a new branch `dev_Reorganization` in a private repo
+9. 📥 Opened a PR in a private repo
+10. ➕ Created a new branch `ExportSelectedItems` in a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
