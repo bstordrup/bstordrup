@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
-2. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
-3. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
-4. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
-5. ⭐ Starred [rafaelfgx/Docker](https://github.com/rafaelfgx/Docker)
-6. ⭐ Starred [rafaelfgx/SOLID](https://github.com/rafaelfgx/SOLID)
-7. ⭐ Starred [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture)
-8. ⭐ Starred [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
-9. 📝 Committed to a private repo
-10. 📥 Opened a PR in a private repo
+1. ⭐ Starred [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
+2. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
+3. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
+4. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
+5. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
+6. ⭐ Starred [rafaelfgx/Docker](https://github.com/rafaelfgx/Docker)
+7. ⭐ Starred [rafaelfgx/SOLID](https://github.com/rafaelfgx/SOLID)
+8. ⭐ Starred [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture)
+9. ⭐ Starred [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
