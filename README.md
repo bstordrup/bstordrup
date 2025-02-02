@@ -25,16 +25,16 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. ⭐ Starred [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
-2. 📝 Committed to a private repo
-3. 📥 Opened a PR in a private repo
-4. ➕ Created a new branch `VB-16139_SEServiceToSeparateOutputFolder` in a private repo
-5. 🗑️ Deleted a branch `AddMethod_TryFind` in a private repo
+1. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
+2. ⭐ Starred [rafaelfgx/Docker](https://github.com/rafaelfgx/Docker)
+3. ⭐ Starred [rafaelfgx/SOLID](https://github.com/rafaelfgx/SOLID)
+4. ⭐ Starred [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture)
+5. ⭐ Starred [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 6. 📝 Committed to a private repo
-7. 🔀 Merged a PR in a private repo
-8. 📥 Opened a PR in a private repo
-9. ➕ Created a new branch `AddMethod_TryFind` in a private repo
-10. 🔀 Merged a PR in a private repo
+7. 📥 Opened a PR in a private repo
+8. ➕ Created a new branch `VB-16139_SEServiceToSeparateOutputFolder` in a private repo
+9. 🗑️ Deleted a branch `AddMethod_TryFind` in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
