@@ -26,15 +26,15 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📥 Opened a PR in a private repo
-3. ➕ Created a new branch `AddVismaGui` in a private repo
-4. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📥 Opened a PR in a private repo
+4. ➕ Created a new branch `AddVismaGui` in a private repo
 5. 📝 Committed to a private repo
-6. ⭐ Starred [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
-7. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
-8. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
-9. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
-10. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
+6. 📝 Committed to a private repo
+7. ⭐ Starred [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
+8. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
+9. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
+10. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
