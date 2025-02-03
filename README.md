@@ -26,15 +26,15 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. ⭐ Starred [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
-4. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
-5. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
-6. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
-7. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
-8. ⭐ Starred [rafaelfgx/Docker](https://github.com/rafaelfgx/Docker)
-9. ⭐ Starred [rafaelfgx/SOLID](https://github.com/rafaelfgx/SOLID)
-10. ⭐ Starred [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture)
+2. 📥 Opened a PR in a private repo
+3. ➕ Created a new branch `AddVismaGui` in a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. ⭐ Starred [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
+7. ⭐ Starred [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
+8. ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)
+9. ⭐ Starred [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)
+10. ⭐ Starred [rafaelfgx/DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
