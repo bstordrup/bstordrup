@@ -25,16 +25,18 @@ I have been working with software development since I was hired in a Danish comp
 
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🔎 Reviewed a PR in a private repo
-3. 🗑️ Deleted a branch `AddVismaGui` in a private repo
-4. 📝 Committed to a private repo
-5. 🔀 Merged a PR in a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📥 Opened a PR in a private repo
-9. ➕ Created a new branch `AddVismaGui` in a private repo
-10. 📝 Committed to a private repo
+<ol>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
+<li>🗑️ Deleted a branch <code>AddVismaGui</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📥 Opened a PR in a private repo</li>
+<li>➕ Created a new branch <code>AddVismaGui</code> in a private repo</li>
+</ol>
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
