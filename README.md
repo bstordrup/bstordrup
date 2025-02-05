@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/4db8bc044d471e5eb44d3fceb08870da857c26fd">bstordrup/bstordrup</a></li>
 <li>🍴 Forked <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <code>AO-1456_CreateVersion19.10</code> in a private repo</li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch <code>SimplifyingWorkflowspart2</code> in a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
