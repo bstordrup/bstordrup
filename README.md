@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>🔎 Reviewed a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>StrongNameVismaExtensions</code> in a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639668751">View Comment</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2636438369">View Comment</a></li>
-<li>🗑️ Deleted a branch <code>UpdateVudArtifactsPath</code> in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
