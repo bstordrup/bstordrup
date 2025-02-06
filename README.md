@@ -26,16 +26,16 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>StrongNameVismaExtensions</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📥 Opened a PR in a private repo</li>
+<li>➕ Created a new branch <code>StrongNameVismaExtensions</code> in a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639668751">View Comment</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2636438369">View Comment</a></li>
 <li>🗑️ Deleted a branch <code>UpdateVudArtifactsPath</code> in a private repo</li>
-<li>📝 Committed to a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>📥 Opened a PR in a private repo</li>
-<li>➕ Created a new branch <code>UpdateVudArtifactsPath</code> in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/4db8bc044d471e5eb44d3fceb08870da857c26fd">bstordrup/bstordrup</a></li>
-<li>🍴 Forked <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
