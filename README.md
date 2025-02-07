@@ -26,16 +26,16 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to <a href="https://github.com/bstordrup/dotnetinstaller/commit/b1f67f0a46150b8a1be3276ea3c57a281f0b6ec4">bstordrup/dotnetinstaller</a></li>
-<li>⭐ Starred <a href="https://github.com/dotnetinstaller/dotnetinstaller">dotnetinstaller/dotnetinstaller</a></li>
 <li>🗑️ Deleted a branch in a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📥 Opened a PR in a private repo</li>
-<li>➕ Created a new branch in a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2640754711">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/eb912d47ce423f2edfa2cf390f6d78172992b1ec">bstordrup/bstordrup</a></li>
+<li>➕ Created a new branch in a private repo</li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/dotnetinstaller/commit/b1f67f0a46150b8a1be3276ea3c57a281f0b6ec4">bstordrup/dotnetinstaller</a></li>
+<li>⭐ Starred <a href="https://github.com/dotnetinstaller/dotnetinstaller">dotnetinstaller/dotnetinstaller</a></li>
+<li>🗑️ Deleted a branch in a private repo</li>
+<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
