@@ -26,6 +26,9 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>📥 Opened a PR in a private repo</li>
 <li>➕ Created a new branch in a private repo</li>
 <li>⭐ Starred <a href="https://github.com/Qewertyy/TimeTracker">Qewertyy/TimeTracker</a></li>
@@ -33,9 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>⭐ Starred <a href="https://github.com/KDAB/Charm">KDAB/Charm</a></li>
 <li>⭐ Starred <a href="https://github.com/Amunak/TimeTracker">Amunak/TimeTracker</a></li>
 <li>⭐ Starred <a href="https://github.com/ZiggyCreatures/FusionCache">ZiggyCreatures/FusionCache</a></li>
-<li>⭐ Starred <a href="https://github.com/pengweiqhca/System.Diagnostics.Runtime">pengweiqhca/System.Diagnostics.Runtime</a></li>
-<li>⭐ Starred <a href="https://github.com/pengweiqhca/Xunit.DependencyInjection">pengweiqhca/Xunit.DependencyInjection</a></li>
-<li>🗑️ Deleted a branch in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
