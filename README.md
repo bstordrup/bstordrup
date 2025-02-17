@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch in a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>⭐ Starred <a href="https://github.com/llvm/llvm-project">llvm/llvm-project</a></li>
 <li>🗣 Commented on an issue in a private repo</li>
 <li>⭐ Starred <a href="https://github.com/emmabostian/developer-portfolios">emmabostian/developer-portfolios</a></li>
-<li>🔎 Reviewed a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
