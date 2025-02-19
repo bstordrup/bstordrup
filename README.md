@@ -48,8 +48,8 @@ I have been working with software development since I was hired in a Danish comp
 
 <br/>
 
-<h3 align)="left">🔝 Top Contributed Repo</>
-![](https://github-contributor-stats.vercel.app/api?username=Bstordrup&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">🔝 Top Contributed Repo</>
+<p align="left"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Bstordrup&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="bstordrup" /></p>
 
 
 <!--
