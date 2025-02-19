@@ -49,6 +49,9 @@ I have been working with software development since I was hired in a Danish comp
 <p align="left"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Bstordrup&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="bstordrup" /></p>
 
 
+
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <!--
 **bstordrup/bstordrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
