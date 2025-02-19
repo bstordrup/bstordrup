@@ -26,16 +26,16 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/828412f6608c0b361e92b1f444055eed07082389">bstordrup/bstordrup</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/edb26b9ca2112bd8f7da28ede4feb3c746c978ac">bstordrup/bstordrup</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/a192d842f3ac3fe0d4a29ad4b3844d10646b19bb">bstordrup/bstordrup</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/01d74e9a5af82ebc18000b76085b8ddfc6f2904c">bstordrup/bstordrup</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/2d4d84974c7a2d455b8833b87ff93d12f332726e">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/7c432f8c4d935152020750659d7a97056cdbb9e9">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/48528a516a911984a3499fd8b305f3b1f2b25595">bstordrup/bstordrup</a></li>
 <li>⭐ Starred <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/c67925e0238228b2140f2a0a067860193dc40d11">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/0753c20013744bd011ee6d7219c4e7847d1a2660">bstordrup/bstordrup</a></li>
-<li>⭐ Starred <a href="https://github.com/commandlineparser/commandline">commandlineparser/commandline</a></li>
-<li>🔎 Reviewed a PR in a private repo</li>
-<li>🗣 Commented on a review of a PR in a private repo</li>
-<li>🔎 Reviewed a PR in a private repo</li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
