@@ -42,8 +42,6 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Statistics</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bstordrup&show_icons=true&locale=en" alt="bstordrup" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bstordrup)](https://git.io/streak-stats)
-
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bstordrup&" alt="bstordrup" /></p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstordrup&show_icons=true&locale=en&layout=compact" alt="bstordrup" /></p>
