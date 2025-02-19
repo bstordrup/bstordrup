@@ -26,7 +26,6 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
-<li>⭐ Starred <a href="https://github.com/commandlineparser/commandline">commandlineparser/commandline</a></li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on a review of a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
@@ -36,20 +35,18 @@ I have been working with software development since I was hired in a Danish comp
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
+<li>🗑️ Deleted a branch in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bstordrup&show_icons=true&locale=en" alt="bstordrup" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bstordrup&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="bstordrup" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bstordrup&" alt="bstordrup" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bstordrup&theme=dark" alt="bstordrup" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstordrup&show_icons=true&locale=en&layout=compact" alt="bstordrup" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstordrup&show_icons=true&locale=en&layout=compact&theme=dark" alt="bstordrup" /></p>
 
-<br/>
-
-<h3 align="left">🔝 Top Contributed Repo</h3>
-<p align="left"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Bstordrup&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="bstordrup" /></p>
+<p align="left"><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Bstordrup&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="bstordrup" /></p>
 
 
 <!--
@@ -70,6 +67,8 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bstordrup&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bstordrup&theme=dark&hide_border=true)<br/>
