@@ -26,6 +26,8 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/0f7f770dea4a5b7893b774b698bacdbdeaa91d55">bstordrup/bstordrup</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/625734f81eb3d781a255c170bfc8dd81f5d608e8">bstordrup/bstordrup</a></li>
 <li>⭐ Starred <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/436067ac305b9d8bef1112c12b0164181ed2feaa">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/587251f30210261882f75a4d0c4a07dd408dfb78">bstordrup/bstordrup</a></li>
@@ -34,8 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/a192d842f3ac3fe0d4a29ad4b3844d10646b19bb">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/01d74e9a5af82ebc18000b76085b8ddfc6f2904c">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/2d4d84974c7a2d455b8833b87ff93d12f332726e">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/7c432f8c4d935152020750659d7a97056cdbb9e9">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/48528a516a911984a3499fd8b305f3b1f2b25595">bstordrup/bstordrup</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
