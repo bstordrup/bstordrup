@@ -26,16 +26,16 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on a review of a PR in a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
+<li>🗣 Commented on a review of a PR in a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/69f9c6c71a6215fa0b104ae84adce71df5baeb88">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/2a9a57a28ad1735c33b3b1293c3e2d0c0a5c616e">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/d47a4ef70762c4c3cb8492d09a639a132c9c7e02">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/0f7f770dea4a5b7893b774b698bacdbdeaa91d55">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/625734f81eb3d781a255c170bfc8dd81f5d608e8">bstordrup/bstordrup</a></li>
 <li>⭐ Starred <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/436067ac305b9d8bef1112c12b0164181ed2feaa">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/587251f30210261882f75a4d0c4a07dd408dfb78">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/828412f6608c0b361e92b1f444055eed07082389">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/edb26b9ca2112bd8f7da28ede4feb3c746c978ac">bstordrup/bstordrup</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
