@@ -30,12 +30,12 @@ I have been working with software development since I was hired in a Danish comp
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on a review of a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
+<li>🗣 Commented on a review of a PR in a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/69f9c6c71a6215fa0b104ae84adce71df5baeb88">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/2a9a57a28ad1735c33b3b1293c3e2d0c0a5c616e">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/d47a4ef70762c4c3cb8492d09a639a132c9c7e02">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/0f7f770dea4a5b7893b774b698bacdbdeaa91d55">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/625734f81eb3d781a255c170bfc8dd81f5d608e8">bstordrup/bstordrup</a></li>
-<li>⭐ Starred <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
