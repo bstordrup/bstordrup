@@ -26,6 +26,8 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a></li>
+<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/5f65db828b6ba1a8ad2336db1ad5a05b24929918">bstordrup/bstordrup</a></li>
 <li>⭐ Starred <a href="https://github.com/CodingChallengesFYI/SharedSolutions">CodingChallengesFYI/SharedSolutions</a></li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on a review of a PR in a private repo</li>
@@ -34,8 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on a review of a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/69f9c6c71a6215fa0b104ae84adce71df5baeb88">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/2a9a57a28ad1735c33b3b1293c3e2d0c0a5c616e">bstordrup/bstordrup</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
