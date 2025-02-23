@@ -42,7 +42,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Statistics</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bstordrup&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="bstordrup" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bstordrup&theme=dark&hide_border=true" alt="bstordrup" /></p>
+<p align="left"><img align="left" src="<img align=" left" src='https://streak-stats.demolab.com?user=bstordrup&theme=dark&hide_border=true' alt="bstordrup" /></p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstordrup&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="bstordrup" /></p>
 
@@ -51,6 +51,8 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true
 -->
 
 <!--
