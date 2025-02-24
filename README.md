@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a">bstordrup/github-readme-stats</a></li>
 <li>🍴 Forked <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
 <li>🍴 Forked <a href="https://github.com/microsoft/referencesource">microsoft/referencesource</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/dotnet_runtime/commit/cae0e0f1deee8f7cea236bd6369f79584e7b35df">bstordrup/dotnet_runtime</a></li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on a review of a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
-<li>🗣 Commented on a review of a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
