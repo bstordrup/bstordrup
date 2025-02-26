@@ -17,5 +17,5 @@ jobs:
         with:
           GITHUB_USERNAME: "bstordrup"
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_LOG_TOKEN }} # Ensure this matches the secret name in repository settings
-          OUTPUT_STYLE: "HTML"
+          # OUTPUT_STYLE: "HTML"
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
