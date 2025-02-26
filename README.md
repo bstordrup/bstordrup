@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/mak-thevar/TotpCleanArch">mak-thevar/TotpCleanArch</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/1926ab9d918a02e85e0189a20ae7271253e89cb9">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/7bc85fdc255b0bd6f2598335495e270cd12fce5b">bstordrup/bstordrup</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a">bstordrup/github-readme-stats</a></li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>⭐ Starred <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/5f65db828b6ba1a8ad2336db1ad5a05b24929918">bstordrup/bstordrup</a></li>
 <li>⭐ Starred <a href="https://github.com/CodingChallengesFYI/SharedSolutions">CodingChallengesFYI/SharedSolutions</a></li>
-<li>🔎 Reviewed a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 
