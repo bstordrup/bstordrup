@@ -32,18 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-<ol>
-<li>⭐ Starred <a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a></li>
-<li>⭐ Starred <a href="https://github.com/martincostello/github-automation">martincostello/github-automation</a></li>
-<li>⭐ Starred <a href="https://github.com/ookii-dialogs/ookii-dialogs-wpf">ookii-dialogs/ookii-dialogs-wpf</a></li>
-<li>⭐ Starred <a href="https://github.com/mak-thevar/TotpCleanArch">mak-thevar/TotpCleanArch</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/1926ab9d918a02e85e0189a20ae7271253e89cb9">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/bstordrup/commit/7bc85fdc255b0bd6f2598335495e270cd12fce5b">bstordrup/bstordrup</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a">bstordrup/github-readme-stats</a></li>
-<li>🍴 Forked <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
-<li>🍴 Forked <a href="https://github.com/microsoft/referencesource">microsoft/referencesource</a></li>
-<li>📝 Committed to <a href="https://github.com/bstordrup/dotnet_runtime/commit/cae0e0f1deee8f7cea236bd6369f79584e7b35df">bstordrup/dotnet_runtime</a></li>
-</ol>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. ⭐ Starred [martincostello/github-automation](https://github.com/martincostello/github-automation)
+3. ⭐ Starred [ookii-dialogs/ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf)
+4. ⭐ Starred [mak-thevar/TotpCleanArch](https://github.com/mak-thevar/TotpCleanArch)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1926ab9d918a02e85e0189a20ae7271253e89cb9)
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/7bc85fdc255b0bd6f2598335495e270cd12fce5b)
+7. 📝 Committed to [bstordrup/github-readme-stats](https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a)
+8. 🍴 Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+9. 🍴 Forked [microsoft/referencesource](https://github.com/microsoft/referencesource)
+10. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/cae0e0f1deee8f7cea236bd6369f79584e7b35df)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
