@@ -26,6 +26,7 @@ I have been working with software development since I was hired in a Danish comp
 <h3 align="left">Recent activity</h3>
 <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a></li>
 <li>⭐ Starred <a href="https://github.com/martincostello/github-automation">martincostello/github-automation</a></li>
 <li>⭐ Starred <a href="https://github.com/ookii-dialogs/ookii-dialogs-wpf">ookii-dialogs/ookii-dialogs-wpf</a></li>
 <li>⭐ Starred <a href="https://github.com/mak-thevar/TotpCleanArch">mak-thevar/TotpCleanArch</a></li>
@@ -35,7 +36,6 @@ I have been working with software development since I was hired in a Danish comp
 <li>🍴 Forked <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
 <li>🍴 Forked <a href="https://github.com/microsoft/referencesource">microsoft/referencesource</a></li>
 <li>📝 Committed to <a href="https://github.com/bstordrup/dotnet_runtime/commit/cae0e0f1deee8f7cea236bd6369f79584e7b35df">bstordrup/dotnet_runtime</a></li>
-<li>⭐ Starred <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a></li>
 </ol>
 <!--END_SECTION:activity-->
 
