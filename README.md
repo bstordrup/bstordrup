@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
-3. 🔀 Merged [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-4. 📥 Opened [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-5. ➕ Created a new branch [`UpdateReadme`](https://github.com/bstordrup/bstordrup/tree/UpdateReadme) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-6. 📝 Committed to [bstordrup/github-repository-contribution-stats](https://github.com/bstordrup/github-repository-contribution-stats/commit/ea826a91f82735f26d669d85d315ff6b80041f5b)
-7. 🍴 Forked [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
-8. ➕ Created a new branch [`vercel`](https://github.com/bstordrup/github-readme-streak-stats/tree/vercel) in [bstordrup/github-readme-streak-stats](https://github.com/bstordrup/github-readme-streak-stats)
-9. 🍴 Forked [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-10. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
+2. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
+4. 🔀 Merged [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+5. 📥 Opened [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+6. ➕ Created a new branch [`UpdateReadme`](https://github.com/bstordrup/bstordrup/tree/UpdateReadme) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+7. 📝 Committed to [bstordrup/github-repository-contribution-stats](https://github.com/bstordrup/github-repository-contribution-stats/commit/ea826a91f82735f26d669d85d315ff6b80041f5b)
+8. 🍴 Forked [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
+9. ➕ Created a new branch [`vercel`](https://github.com/bstordrup/github-readme-streak-stats/tree/vercel) in [bstordrup/github-readme-streak-stats](https://github.com/bstordrup/github-readme-streak-stats)
+10. 🍴 Forked [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
