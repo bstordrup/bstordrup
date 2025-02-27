@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-3. ⭐ Starred [martincostello/github-automation](https://github.com/martincostello/github-automation)
-4. ⭐ Starred [ookii-dialogs/ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf)
-5. ⭐ Starred [mak-thevar/TotpCleanArch](https://github.com/mak-thevar/TotpCleanArch)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1926ab9d918a02e85e0189a20ae7271253e89cb9)
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/7bc85fdc255b0bd6f2598335495e270cd12fce5b)
-8. 📝 Committed to [bstordrup/github-readme-stats](https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a)
-9. 🍴 Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-10. 🍴 Forked [microsoft/referencesource](https://github.com/microsoft/referencesource)
+1. 🍴 Forked [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
+2. ➕ Created a new branch [`vercel`](https://github.com/bstordrup/github-readme-streak-stats/tree/vercel) in [bstordrup/github-readme-streak-stats](https://github.com/bstordrup/github-readme-streak-stats)
+3. 🍴 Forked [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+5. ⭐ Starred [martincostello/github-automation](https://github.com/martincostello/github-automation)
+6. ⭐ Starred [ookii-dialogs/ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf)
+7. ⭐ Starred [mak-thevar/TotpCleanArch](https://github.com/mak-thevar/TotpCleanArch)
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1926ab9d918a02e85e0189a20ae7271253e89cb9)
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/7bc85fdc255b0bd6f2598335495e270cd12fce5b)
+10. 📝 Committed to [bstordrup/github-readme-stats](https://github.com/bstordrup/github-readme-stats/commit/93896057f8cde30a497b921ab7f280aaa242bf8a)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
