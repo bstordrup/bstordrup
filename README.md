@@ -54,7 +54,7 @@ I have been working with software development since I was hired in a Danish comp
 ![](https://github-readme-stats-woad-eight-55.vercel.app/api/top-langs/?username=bstordrup&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ### 🔝 Top Contributed Repo
-![Contributions to](https://github-contributor-stats.vercel.app/api?username=bstordrup&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+![Contributions to](https://github-repository-contribution-stats-psi.vercel.app/api?username=bstordrup&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
 
 <br>
 
