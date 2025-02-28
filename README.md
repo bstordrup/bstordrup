@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-2. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
-3. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
-4. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
-5. 🔎 Reviewed a PR in a private repo
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
-8. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
-10. 🔀 Merged [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+1. 🗣 Commented on an issue in a private repo
+2. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+3. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
+4. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+5. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
+6. 🔎 Reviewed a PR in a private repo
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
+9. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
