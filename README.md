@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
-4. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
-6. 🔀 Merged [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-7. 📥 Opened [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-8. ➕ Created a new branch [`UpdateReadme`](https://github.com/bstordrup/bstordrup/tree/UpdateReadme) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-9. 📝 Committed to [bstordrup/github-repository-contribution-stats](https://github.com/bstordrup/github-repository-contribution-stats/commit/ea826a91f82735f26d669d85d315ff6b80041f5b)
-10. 🍴 Forked [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
+1. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+2. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
+3. 🔎 Reviewed a PR in a private repo
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
+6. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
+8. 🔀 Merged [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+9. 📥 Opened [PR #2](https://github.com/bstordrup/bstordrup/pull/2) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+10. ➕ Created a new branch [`UpdateReadme`](https://github.com/bstordrup/bstordrup/tree/UpdateReadme) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
