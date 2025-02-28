@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on an issue in a private repo
-2. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-3. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
-4. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
-5. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
-6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/0b63684bb0304c9dc1b8989cc7a604ed5220fbd7)
-9. 🗑️ Deleted a branch `UpdateReadme` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/512331cdf5530acf64e25582d2872f4a477ad9ca)
+1. 📝 Committed to a private repo
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
+4. 🗣 Commented on an issue in a private repo
+5. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+6. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
+7. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+8. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
+9. 🔎 Reviewed a PR in a private repo
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
