@@ -66,6 +66,7 @@ Credits goes to:
 - The content on the page is digged up using [GPRM](https://visitcount.itsvg.in)
 - Github statistics and top language list are generated with a self-hosted fork of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Github streak statstics are generated with a self-hosted fork of [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- Github top contributed repos is generated with a self-hosted fork of [github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
 - Self-hosted forks are hosted on [Vercel](https://vercel.com/)
 
 <!--
