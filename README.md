@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
-4. 🗣 Commented on an issue in a private repo
-5. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-6. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
-7. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
-8. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
-9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/77ea8ebf0ff6830e43e8b2742a8d1d0f7c551ad8)
+1. 📥 Opened a PR in a private repo
+2. ➕ Created a new branch in a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
+6. 🗣 Commented on an issue in a private repo
+7. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+8. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
+9. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+10. ⭐ Starred [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
