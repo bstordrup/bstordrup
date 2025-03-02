@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b3a452d3a386dda5ba320b78cd0a663b4ab0b1bb)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/8adbf27ef0fb9b4853a003a736e6abd363cb9643)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/373091254e4b78481f71231e3f9c62935a94bcab)
-4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c86f0b687214b23a9571c082e9bb7e88b9dc73e4)
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d240d27e49a2507c63173af80cef44f4c152befb)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/5e487b25fe3adfe838e719b36a5ca6831fc9d844)
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b147422063bee54b28bf0cb459cb53e27d01884e)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1927b57bfa56e5e6ed57f50c0bc3b6d79794d338)
-9. 🍴 Forked [lowlighter/metrics](https://github.com/lowlighter/metrics)
-10. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/49a435a3c80885ff6bc7dd7f1e553c213394ead2)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/af5d9adabb37ca3d6aef7275bba780f3768ac872)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b3a452d3a386dda5ba320b78cd0a663b4ab0b1bb)
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/8adbf27ef0fb9b4853a003a736e6abd363cb9643)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/373091254e4b78481f71231e3f9c62935a94bcab)
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c86f0b687214b23a9571c082e9bb7e88b9dc73e4)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d240d27e49a2507c63173af80cef44f4c152befb)
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/5e487b25fe3adfe838e719b36a5ca6831fc9d844)
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b147422063bee54b28bf0cb459cb53e27d01884e)
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1927b57bfa56e5e6ed57f50c0bc3b6d79794d338)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
