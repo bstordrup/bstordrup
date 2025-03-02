@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: bstordrup/metrics@latest
+      - uses: bstordrup/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -31,7 +31,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
 
-      - uses: bstordrup/metrics@latest
+      - uses: bstordrup/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
