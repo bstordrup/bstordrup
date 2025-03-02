@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
-2. 📥 Opened a PR in a private repo
-3. ➕ Created a new branch in a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
-7. 🗣 Commented on an issue in a private repo
-8. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-9. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
-10. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+1. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+2. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
+3. 📥 Opened a PR in a private repo
+4. ➕ Created a new branch in a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
+8. 🗣 Commented on an issue in a private repo
+9. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+10. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
