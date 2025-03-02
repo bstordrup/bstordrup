@@ -71,9 +71,12 @@ jobs:
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: repositories, history
-          repositories_skipped: |
+          plugin_lines_skipped: |
             bstordrup/bd*
             bstordrup/top*
+          # repositories_skipped: |
+          #   bstordrup/bd*
+          #   bstordrup/top*
 
       - name: iso-calendar metrics
         uses: lowlighter/metrics@latest
@@ -84,6 +87,28 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
+      - name: languages metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: languages-metrics.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          #plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          #plugin_languages_analysis_timeout: 15
+          #plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          #plugin_languages_recent_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          # plugin_languages_recent_days: 14
+          # plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 2%
 
       - uses: lowlighter/metrics@latest
         with:
@@ -109,17 +134,6 @@ jobs:
           #plugin_achievements_threshold: C
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
