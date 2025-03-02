@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/373091254e4b78481f71231e3f9c62935a94bcab)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c86f0b687214b23a9571c082e9bb7e88b9dc73e4)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d240d27e49a2507c63173af80cef44f4c152befb)
-4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/5e487b25fe3adfe838e719b36a5ca6831fc9d844)
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b147422063bee54b28bf0cb459cb53e27d01884e)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1927b57bfa56e5e6ed57f50c0bc3b6d79794d338)
-7. 🍴 Forked [lowlighter/metrics](https://github.com/lowlighter/metrics)
-8. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-9. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
-10. 📥 Opened a PR in a private repo
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/8adbf27ef0fb9b4853a003a736e6abd363cb9643)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/373091254e4b78481f71231e3f9c62935a94bcab)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c86f0b687214b23a9571c082e9bb7e88b9dc73e4)
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d240d27e49a2507c63173af80cef44f4c152befb)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/5e487b25fe3adfe838e719b36a5ca6831fc9d844)
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/b147422063bee54b28bf0cb459cb53e27d01884e)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1927b57bfa56e5e6ed57f50c0bc3b6d79794d338)
+8. 🍴 Forked [lowlighter/metrics](https://github.com/lowlighter/metrics)
+9. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+10. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
