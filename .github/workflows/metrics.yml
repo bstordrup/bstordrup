@@ -39,7 +39,7 @@ jobs:
           user: bstordrup
           template: classic
           base: ""
-          config_timezone: Europe/Copenhagen
+          #config_timezone: Europe/Copenhagen
           plugin_activity: yes
           plugin_activity_days: 30
           plugin_activity_filter: all
@@ -61,7 +61,7 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 500
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
 
@@ -75,9 +75,9 @@ jobs:
           base: 
           config_timezone: Europe/Copenhagen
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_sections: repositories, history
 
       - uses: lowlighter/metrics@latest
         with:
