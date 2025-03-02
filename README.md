@@ -49,8 +49,9 @@ I have been working with software development since I was hired in a Danish comp
 
 ### 📊 GitHub Stats
 
-![](/basicmetrics.svg)
-![](https://github-readme-streak-stats-iw4v.vercel.app?user=bstordrup&theme=transparent&hide_border=true)  
+![Basic](/basic-metrics.svg)  
+![Streak](https://github-readme-streak-stats-iw4v.vercel.app?user=bstordrup&theme=transparent&hide_border=true)  
+![Habits](/habit-metrics.svg)  
 ![](https://github-readme-stats-woad-eight-55.vercel.app/api/top-langs/?username=bstordrup&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ### 🔝 Top Contributed Repo
