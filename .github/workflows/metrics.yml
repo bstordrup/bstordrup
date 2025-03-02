@@ -28,7 +28,8 @@ jobs:
           user: bstordrup
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Copenhagen
+          repositories_affiliations: owner, organization-member, collaborator
+          #config_timezone: Europe/Copenhagen
 
       - name: activity metrics
         uses: lowlighter/metrics@latest
@@ -37,14 +38,14 @@ jobs:
           filename: activity-metrics.svg
           user: bstordrup
           template: classic
-          base: 
+          base: ""
           config_timezone: Europe/Copenhagen
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_load: 500
+          plugin_activity_visibility: public
 
       - name: habits metrics
         uses: lowlighter/metrics@latest
@@ -53,11 +54,12 @@ jobs:
           filename: habit-metrics.svg
           user: bstordrup
           template: classic
-          base: 
+          base: ""
           config_timezone: Europe/Copenhagen
           plugin_habits: yes
+          plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
