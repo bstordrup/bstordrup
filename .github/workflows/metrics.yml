@@ -71,9 +71,7 @@ jobs:
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: repositories, history
-          plugin_lines_skipped: |
-            bstordrup/bd*
-            bstordrup/top*
+          plugin_lines_skipped: bd*, top*
           # repositories_skipped: |
           #   bstordrup/bd*
           #   bstordrup/top*
@@ -108,7 +106,19 @@ jobs:
           # plugin_languages_recent_days: 14
           # plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 2%
+          #plugin_languages_threshold: 2%
+
+      - name: notable metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: notable-metrics.svg
+          base: ""
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
+          plugin_notable_indepth: yes
+
 
       - uses: lowlighter/metrics@latest
         with:
@@ -134,8 +144,5 @@ jobs:
           #plugin_achievements_threshold: C
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 5
