@@ -5,14 +5,13 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main", "IncludeMetrics"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - run: basicmetrics
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -30,7 +29,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
 
-      - run: activitymetrics
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
