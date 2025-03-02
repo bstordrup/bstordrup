@@ -71,10 +71,14 @@ jobs:
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: repositories, history
-          plugin_lines_skipped: bd*, top*
-          # repositories_skipped: |
-          #   bstordrup/bd*
-          #   bstordrup/top*
+          # plugin_lines_skipped: | 
+          #   @use.patterns
+          #   bd*, top*
+          repositories_skipped: |
+            @use.patterns
+            
+            bstordrup/bd*
+            bstordrup/top*
 
       - name: iso-calendar metrics
         uses: lowlighter/metrics@latest
