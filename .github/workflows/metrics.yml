@@ -35,6 +35,7 @@ jobs:
           filename: activitymetrics.svg
           user: bstordrup
           template: classic
+          base: 
           config_timezone: Europe/Copenhagen
           plugin_activity: yes
           plugin_activity_days: 14
