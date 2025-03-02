@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-2. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
-3. 📥 Opened a PR in a private repo
-4. ➕ Created a new branch in a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
-8. 🗣 Commented on an issue in a private repo
-9. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-10. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/1927b57bfa56e5e6ed57f50c0bc3b6d79794d338)
+2. 🍴 Forked [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. ➕ Created a new branch [`IncludeMetrics`](https://github.com/bstordrup/bstordrup/tree/IncludeMetrics) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+4. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
+5. 📥 Opened a PR in a private repo
+6. ➕ Created a new branch in a private repo
+7. 📝 Committed to a private repo
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
+10. 🗣 Commented on an issue in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
