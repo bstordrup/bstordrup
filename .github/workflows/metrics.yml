@@ -76,7 +76,7 @@ jobs:
           #   bd*, top*
           repositories_skipped: |
             @use.patterns
-            
+
             bstordrup/bd*
             bstordrup/top*
 
@@ -120,7 +120,8 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: commit
+          plugin_notable_types: commit, pull-request, issue
+          plugin_notable_repositories: yes
           plugin_notable_indepth: yes
 
 
