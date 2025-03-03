@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📥 Opened a PR in a private repo
-3. 📝 Committed to a private repo
-4. 🗑️ Deleted a branch in a private repo
-5. 🔀 Merged a PR in a private repo
-6. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📥 Opened a PR in a private repo
+4. 📝 Committed to a private repo
+5. 🗑️ Deleted a branch in a private repo
+6. 🔀 Merged a PR in a private repo
 7. 📝 Committed to a private repo
-8. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/640a19e28b90deb37da67107a304f7d634596de2)
-10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/a44a03bd43cb8419b9df8edf85500ec4d4708847)
+8. 📝 Committed to a private repo
+9. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/640a19e28b90deb37da67107a304f7d634596de2)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
