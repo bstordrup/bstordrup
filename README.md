@@ -50,10 +50,11 @@ I have been working with software development since I was hired in a Danish comp
 ### 📊 GitHub Stats
 
 ![Basic](/basic-metrics.svg)  
+![Commit calendar](/iso-calendar-metrics.svg)  
 ![Lines pushed](/line-metrics.svg)  
-![Streak](https://github-readme-streak-stats-iw4v.vercel.app?user=bstordrup&theme=transparent&hide_border=true)  
 ![Habits](/habit-metrics.svg)  
-![](https://github-readme-stats-woad-eight-55.vercel.app/api/top-langs/?username=bstordrup&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![Languages](/languages-metrics.svg)  
+![Notable](/notable-metrics.svg)  
 
 ### 🔝 Top Contributed Repo
 ![Contributions to](https://github-repository-contribution-stats-psi.vercel.app/api?username=bstordrup&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
@@ -72,6 +73,11 @@ Credits goes to:
 - Self-hosted forks are hosted on [Vercel](https://vercel.com/)
 
 <!--
+
+![Streak](https://github-readme-streak-stats-iw4v.vercel.app?user=bstordrup&theme=transparent&hide_border=true)  
+![](https://github-readme-stats-woad-eight-55.vercel.app/api/top-langs/?username=bstordrup&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+
+
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true
