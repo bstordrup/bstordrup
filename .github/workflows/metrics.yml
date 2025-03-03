@@ -120,7 +120,7 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: commit, pull-request, issue
+          plugin_notable_types: commit, pull-request
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
 
