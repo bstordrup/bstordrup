@@ -32,15 +32,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/9c21566396745126722b40fb9406f5dc70250857)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d5b910e29b6bb096bb49a216772668df8475eb7e)
-3. 📝 Committed to a private repo
+1. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2695610755)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/9c21566396745126722b40fb9406f5dc70250857)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d5b910e29b6bb096bb49a216772668df8475eb7e)
 4. 📝 Committed to a private repo
-5. 📥 Opened a PR in a private repo
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
-8. 🔀 Merged a PR in a private repo
-9. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📥 Opened a PR in a private repo
+7. 📝 Committed to a private repo
+8. 🗑️ Deleted a branch in a private repo
+9. 🔀 Merged a PR in a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
