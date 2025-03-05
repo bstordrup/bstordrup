@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 🗣 Commented on a review of a PR in a private repo
+1. 🗣 Commented on a review of a PR in a private repo
+2. 🔎 Reviewed a PR in a private repo
 3. 🔎 Reviewed a PR in a private repo
 4. 🗣 Commented on a review of a PR in a private repo
 5. 🔎 Reviewed a PR in a private repo
-6. ⭐ Starred [kfrancis/tsqlanalyze-ssms-extension](https://github.com/kfrancis/tsqlanalyze-ssms-extension)
+6. 🗣 Commented on a review of a PR in a private repo
 7. 🔎 Reviewed a PR in a private repo
-8. ➕ Created a new branch in a private repo
-9. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2695610755)
-10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/9c21566396745126722b40fb9406f5dc70250857)
+8. ⭐ Starred [kfrancis/tsqlanalyze-ssms-extension](https://github.com/kfrancis/tsqlanalyze-ssms-extension)
+9. 🔎 Reviewed a PR in a private repo
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
