@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. ➕ Created a new branch in a private repo
-3. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2695610755)
-4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/9c21566396745126722b40fb9406f5dc70250857)
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d5b910e29b6bb096bb49a216772668df8475eb7e)
-6. 📝 Committed to a private repo
+1. ⭐ Starred [kfrancis/tsqlanalyze-ssms-extension](https://github.com/kfrancis/tsqlanalyze-ssms-extension)
+2. 🔎 Reviewed a PR in a private repo
+3. ➕ Created a new branch in a private repo
+4. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2695610755)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/9c21566396745126722b40fb9406f5dc70250857)
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/d5b910e29b6bb096bb49a216772668df8475eb7e)
 7. 📝 Committed to a private repo
-8. 📥 Opened a PR in a private repo
-9. 📝 Committed to a private repo
-10. 🗑️ Deleted a branch in a private repo
+8. 📝 Committed to a private repo
+9. 📥 Opened a PR in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
