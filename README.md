@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2706078002)
-2. 🗑️ Deleted a branch in a private repo
-3. 📝 Committed to a private repo
-4. 🔀 Merged a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on a review of a PR in a private repo
+1. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ⭐ Starred [PropertyTools/PropertyTools](https://github.com/PropertyTools/PropertyTools)
+3. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2706078002)
+4. 🗑️ Deleted a branch in a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
 7. 🔎 Reviewed a PR in a private repo
 8. 🗣 Commented on a review of a PR in a private repo
 9. 🔎 Reviewed a PR in a private repo
-10. 📥 Opened a PR in a private repo
+10. 🗣 Commented on a review of a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
