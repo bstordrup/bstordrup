@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [brakmic/keycloak-pkce-cpp](https://github.com/brakmic/keycloak-pkce-cpp)
-2. 📥 Opened a PR in a private repo
-3. ➕ Created a new branch in a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/99d1d25365f298ce139dab51b350de8aea768354)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/52ecfe5cfdb815b51c9ecca70a82b5c3da0e69d3)
-7. 🗣 Commented on an issue in a private repo
-8. ⭐ Starred [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-9. ⭐ Starred [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
-10. ⭐ Starred [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+1. 🔎 Reviewed a PR in a private repo
+2. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. ⭐ Starred [PropertyTools/PropertyTools](https://github.com/PropertyTools/PropertyTools)
+4. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2706078002)
+5. 🗑️ Deleted a branch in a private repo
+6. 📝 Committed to a private repo
+7. 🔀 Merged a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
@@ -51,7 +51,7 @@ I have been working with software development since I was hired in a Danish comp
 
 ![Basic](/basic-metrics.svg)  
 ![Commit calendar](/iso-calendar-metrics.svg)  
-![Lines pushed](/line-metrics.svg)  
+<!-- ![Lines pushed](/line-metrics.svg)   -->
 ![Habits](/habit-metrics.svg)  
 ![Languages](/languages-metrics.svg)  
 ![Notable](/notable-metrics.svg)  
