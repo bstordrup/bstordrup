@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. ⭐ Starred [PropertyTools/PropertyTools](https://github.com/PropertyTools/PropertyTools)
-4. 🗣 Commented on issue [#354](https://github.com/editorconfig/editorconfig-vscode/issues/354) in [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode): [View Comment](https://github.com/editorconfig/editorconfig-vscode/issues/354#issuecomment-2706078002)
-5. 🗑️ Deleted a branch in a private repo
-6. 📝 Committed to a private repo
-7. 🔀 Merged a PR in a private repo
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/ed29ce7c63c79cf11a8d2a6125012fa87f87a626)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/29ee20b8bb6c8b1cad57b9396eccef4e0a2ffa21)
+3. 🗑️ Deleted a branch `IncludeMetrics` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/925a47e99f8481be3e1095ce3d403a92b28bae06)
+5. 🔀 Merged [PR #3](https://github.com/bstordrup/bstordrup/pull/3) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+6. 📥 Opened [PR #3](https://github.com/bstordrup/bstordrup/pull/3) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/dbcdeb8213c77e7fe958d82b01d3604e1f053037)
 8. 🔎 Reviewed a PR in a private repo
-9. 🗣 Commented on a review of a PR in a private repo
-10. 🔎 Reviewed a PR in a private repo
+9. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+10. ⭐ Starred [PropertyTools/PropertyTools](https://github.com/PropertyTools/PropertyTools)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
