@@ -32,15 +32,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
+1. 🗣 Commented on a review of a PR in a private repo
 2. 🔎 Reviewed a PR in a private repo
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/ed29ce7c63c79cf11a8d2a6125012fa87f87a626)
-4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/29ee20b8bb6c8b1cad57b9396eccef4e0a2ffa21)
-5. 🗑️ Deleted a branch `IncludeMetrics` in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/925a47e99f8481be3e1095ce3d403a92b28bae06)
-7. 🔀 Merged [PR #3](https://github.com/bstordrup/bstordrup/pull/3) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-8. 📥 Opened [PR #3](https://github.com/bstordrup/bstordrup/pull/3) in [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup)
-9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/dbcdeb8213c77e7fe958d82b01d3604e1f053037)
+3. 🗣 Commented on a review of a PR in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 🗣 Commented on a review of a PR in a private repo
+6. 🔎 Reviewed a PR in a private repo
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
 10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
