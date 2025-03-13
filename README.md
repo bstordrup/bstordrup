@@ -38,10 +38,10 @@ I have been working with software development since I was hired in a Danish comp
 4. 🔎 Reviewed a PR in a private repo
 5. 🗣 Commented on a review of a PR in a private repo
 6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to a private repo
-8. 📥 Opened a PR in a private repo
-9. ➕ Created a new branch in a private repo
-10. 🔎 Reviewed a PR in a private repo
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 📝 Committed to a private repo
+10. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
