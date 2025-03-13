@@ -36,11 +36,11 @@ I have been working with software development since I was hired in a Danish comp
 2. 🔎 Reviewed a PR in a private repo
 3. 🗣 Commented on a review of a PR in a private repo
 4. 🔎 Reviewed a PR in a private repo
-5. 📝 Committed to a private repo
-6. 📥 Opened a PR in a private repo
-7. ➕ Created a new branch in a private repo
-8. 🔎 Reviewed a PR in a private repo
-9. 🔎 Reviewed a PR in a private repo
+5. 🗣 Commented on a review of a PR in a private repo
+6. 🔎 Reviewed a PR in a private repo
+7. 📝 Committed to a private repo
+8. 📥 Opened a PR in a private repo
+9. ➕ Created a new branch in a private repo
 10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
