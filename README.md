@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 🗣 Commented on a review of a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
+1. ⭐ Starred [winscripter/LangJsonSharp](https://github.com/winscripter/LangJsonSharp)
+2. ⭐ Starred [winscripter/ilsourceparser](https://github.com/winscripter/ilsourceparser)
+3. ⭐ Starred [winscripter/guidgenplusplus](https://github.com/winscripter/guidgenplusplus)
+4. ⭐ Starred [winscripter/resx-net](https://github.com/winscripter/resx-net)
+5. ⭐ Starred [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 🗣 Commented on a review of a PR in a private repo
 9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on a review of a PR in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
