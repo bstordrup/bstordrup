@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [jpetazzo/minimage](https://github.com/jpetazzo/minimage)
-2. ⭐ Starred [winscripter/LangJsonSharp](https://github.com/winscripter/LangJsonSharp)
-3. ⭐ Starred [winscripter/ilsourceparser](https://github.com/winscripter/ilsourceparser)
-4. ⭐ Starred [winscripter/guidgenplusplus](https://github.com/winscripter/guidgenplusplus)
-5. ⭐ Starred [winscripter/resx-net](https://github.com/winscripter/resx-net)
-6. ⭐ Starred [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence)
-7. 📝 Committed to a private repo
+1. ⭐ Starred [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx)
+2. ⭐ Starred [jpetazzo/minimage](https://github.com/jpetazzo/minimage)
+3. ⭐ Starred [winscripter/LangJsonSharp](https://github.com/winscripter/LangJsonSharp)
+4. ⭐ Starred [winscripter/ilsourceparser](https://github.com/winscripter/ilsourceparser)
+5. ⭐ Starred [winscripter/guidgenplusplus](https://github.com/winscripter/guidgenplusplus)
+6. ⭐ Starred [winscripter/resx-net](https://github.com/winscripter/resx-net)
+7. ⭐ Starred [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence)
 8. 📝 Committed to a private repo
-9. 🗣 Commented on a review of a PR in a private repo
-10. 🔎 Reviewed a PR in a private repo
+9. 📝 Committed to a private repo
+10. 🗣 Commented on a review of a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
