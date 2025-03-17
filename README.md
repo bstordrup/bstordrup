@@ -32,11 +32,11 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. ➕ Created a new branch in a private repo
-3. 🗑️ Deleted a branch in a private repo
-4. 📝 Committed to a private repo
-5. 🔀 Merged a PR in a private repo
+1. 📝 Committed to a private repo
+2. 🗑️ Deleted a branch in a private repo
+3. 🔀 Merged a PR in a private repo
+4. 📥 Opened a PR in a private repo
+5. ➕ Created a new branch in a private repo
 6. 🗑️ Deleted a branch in a private repo
 7. 📝 Committed to a private repo
 8. 🔀 Merged a PR in a private repo
