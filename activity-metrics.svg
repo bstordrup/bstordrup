@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,163 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 86 commits in
+                                        <span class="repo">bstordrup/wix</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f11d0b</div>
+                                        <div class="message">Update to non-deprecated actions/upload-artifact</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47b717c</div>
+                                        <div class="message">Fix Heat Harvesting for x64 Dlls
+
+Fixes: wixtoolset/issues#8803</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee41358</div>
+                                        <div class="message">Fix up COM+ to be back in working order under Wix4+
+Table names updated for Wix4 prefix.
+Custom action names similarly updated.
+Table names Wix4ComPlusUserInApplicationRole,
+Wix4ComPlusGroupInApplicationRole and Wix4ComPlusApplicationRoleProperty
+had to be shortened to fit within MSI 31 character table name limit.
+Migrated from fixed GUID for RegistrationHelper to use CLSIDFromProgID in
+an attempt to fix behaviour under .NET 4+ DLLs.
+Added setting of Partition enable if a Partition is configured in authoring,
+new Windows config has Partitions disabled by default, and they don't work
+at all under Windows workstation (non-server) versions.
+
+Added a new Runtime condition for `RequireWindowsServer` which will skip
+execution of Runtime test on workstation/desktop OSes, since COM+ Partitions
+only work correctly under Windows Server.
+
+Quite a lot of basic typos fixed also.
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8574528</div>
+                                        <div class="message">Add a few more checks on rollback of Util User.
+
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1afc0bd</div>
+                                        <div class="message">Introduce early exception for overlength Windows Installer table name
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f440fb3</div>
+                                        <div class="message">Typos are bad; visible typos are an abomination.
+
+At least one person makes the same typo almost-but-not-quite everywhere.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc9463e</div>
+                                        <div class="message">Update to nonwhingy System.Text.Json.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53d84c9</div>
+                                        <div class="message">Log bundle registration scope.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a75f23d</div>
+                                        <div class="message">Add overloads to support create-only Wixouts.
+
+This prevents the .NET ZipArchive (and friends) from keeping the whole
+thing in memory, to support updating when we don't need to update the
+Wixout when building a binary Wixlib.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29d555a</div>
+                                        <div class="message">Fix crash when adding file in patch when filtering</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc21d03</div>
+                                        <div class="message">Additional (automated) translations for Lithuanian, Russian and Chinese
+
+(Simplified).
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7889313</div>
+                                        <div class="message">Error message for 'logon as service' is not currently localised.
+Added translations in line with existing translations.  I'm sure they'll
+suffice for now, Google translate makes sense of them anyway.
+
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65d171f</div>
+                                        <div class="message">Update thumbprints and download links to target latest .NET packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd2fe20</div>
+                                        <div class="message">Fix crash with use of File/@PatchGroup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb76913</div>
+                                        <div class="message">Moved CalculateCabbingThreadCount() to BindDatabaseCommand because we need the capped value in both CreateCabinetsCommand and UpdateFileFacadesCommand.
+
+Fixed bug in capping the thread count between 1 and processor count times 2. The "-ct 1000000" value was wrongly passed thru in the test CabinetFilesSequencedCorrectly
+
+Added ThreadCount to UpdateFileFacadesCommand</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4357d18</div>
+                                        <div class="message">Replace UpdateFileFacade loop with Parallel.ForEach</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#638532e</div>
+                                        <div class="message">Fix up small inaccuracy in logged error message.
+
+When ::GetFileAttributesW returns 0xFFFFFFFF it means
+'Invalid File/Folder'
+So we should return a matching error message.
+To avoid confusing invalid paths with junctions (in error message)
+
+Unfortunately the constant for this is not defined.
+So just define it here as though it would be.
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97e2fb0</div>
+                                        <div class="message">A basic install / uninstall test for RemoveFoldersEx
+Contains no files etc to verify that Remove action can still occur without
+other elements bringing in the RemoveFiles Standard Action
+
+
+Signed-off-by: Bevan Weiss &lt;bevan.weiss@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1011c56</div>
+                                        <div class="message">Fix bad URL.
+
+Fixes https://github.com/wixtoolset/issues/issues/8704</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ade630</div>
+                                        <div class="message">Add verbose messages around harvesting.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -90,26 +247,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#2c03501</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30d3d80</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
