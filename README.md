@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. ➕ Created a new branch in a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. ⭐ Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
-7. 📝 Committed to a private repo
-8. 📝 Committed to [bstordrup/wix](https://github.com/bstordrup/wix/commit/1ade630c42bed442f4904c26b6a897a2daaa193e)
-9. 🗑️ Deleted a branch in a private repo
-10. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. ⭐ Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
+8. 📝 Committed to a private repo
+9. 📝 Committed to [bstordrup/wix](https://github.com/bstordrup/wix/commit/1ade630c42bed442f4904c26b6a897a2daaa193e)
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
