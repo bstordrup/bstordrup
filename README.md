@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
-2. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
-3. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
-4. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
-5. ⭐ Starred [Cysharp/LogicLooper](https://github.com/Cysharp/LogicLooper)
-6. ⭐ Starred [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
-7. ⭐ Starred [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack)
-8. ⭐ Starred [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe)
-9. ⭐ Starred [Cysharp/Multicaster](https://github.com/Cysharp/Multicaster)
-10. ⭐ Starred [Cysharp/ObservableCollections](https://github.com/Cysharp/ObservableCollections)
+1. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+2. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
+3. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
+4. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
+5. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
+6. ⭐ Starred [Cysharp/LogicLooper](https://github.com/Cysharp/LogicLooper)
+7. ⭐ Starred [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
+8. ⭐ Starred [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack)
+9. ⭐ Starred [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe)
+10. ⭐ Starred [Cysharp/Multicaster](https://github.com/Cysharp/Multicaster)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
