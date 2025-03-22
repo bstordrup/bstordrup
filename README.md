@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔔 Watching [Cysharp/ZLogger](https://github.com/Cysharp/ZLogger)
-2. ⭐ Starred [Cysharp/Actions](https://github.com/Cysharp/Actions)
-3. ⭐ Starred [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
-4. ⭐ Starred [dotnet/extensions](https://github.com/dotnet/extensions)
-5. ⭐ Starred [Unity-Technologies/arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples)
-6. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
-7. ⭐ Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
-8. ⭐ Starred [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
-9. ⭐ Starred [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-10. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
+1. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
+2. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
+3. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
+4. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
+5. ⭐ Starred [Cysharp/LogicLooper](https://github.com/Cysharp/LogicLooper)
+6. ⭐ Starred [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
+7. ⭐ Starred [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack)
+8. ⭐ Starred [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe)
+9. ⭐ Starred [Cysharp/Multicaster](https://github.com/Cysharp/Multicaster)
+10. ⭐ Starred [Cysharp/ObservableCollections](https://github.com/Cysharp/ObservableCollections)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
