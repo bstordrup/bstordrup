@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. ⭐ Starred [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
-3. ⭐ Starred [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-4. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
-5. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
-6. ➕ Created a new branch in a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 🔔 Watching [Cysharp/ZLogger](https://github.com/Cysharp/ZLogger)
+2. ⭐ Starred [Cysharp/Actions](https://github.com/Cysharp/Actions)
+3. ⭐ Starred [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
+4. ⭐ Starred [dotnet/extensions](https://github.com/dotnet/extensions)
+5. ⭐ Starred [Unity-Technologies/arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples)
+6. ⭐ Starred [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
+7. ⭐ Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
+8. ⭐ Starred [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
+9. ⭐ Starred [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+10. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
