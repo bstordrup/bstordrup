@@ -32,15 +32,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
-2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. ➕ Created a new branch in a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
+1. ⭐ Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
+2. ⭐ Starred [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
+3. ⭐ Starred [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+4. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
+5. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
+6. ➕ Created a new branch in a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. ⭐ Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
+9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
