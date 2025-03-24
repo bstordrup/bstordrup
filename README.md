@@ -36,12 +36,12 @@ I have been working with software development since I was hired in a Danish comp
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-6. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
-7. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
-8. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
-9. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
-10. ⭐ Starred [Cysharp/LogicLooper](https://github.com/Cysharp/LogicLooper)
+5. 📝 Committed to a private repo
+6. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+7. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
+8. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
+9. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
+10. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
