@@ -37,11 +37,11 @@ I have been working with software development since I was hired in a Danish comp
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-7. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
-8. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
-9. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
-10. ⭐ Starred [Cysharp/GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge)
+6. 📝 Committed to a private repo
+7. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+8. ⭐ Starred [Cysharp/Utf8StringInterpolation](https://github.com/Cysharp/Utf8StringInterpolation)
+9. ⭐ Starred [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)
+10. ⭐ Starred [Cysharp/DFrame](https://github.com/Cysharp/DFrame)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
