@@ -51,7 +51,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: habit-metrics.svg
           base: ""
-          config_timezone: Europe/Copenhagen
+          config_timezone: Europe/Berlin
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
