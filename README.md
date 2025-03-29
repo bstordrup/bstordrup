@@ -32,14 +32,14 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/bf5315a54e6c7895e2eb8b174acced2865a9b6ae)
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 📝 Committed to a private repo
-7. ➕ Created a new branch in a private repo
-8. 📝 Committed to a private repo
+1. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+2. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+3. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+4. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+5. ⭐ Starred [arpit20adlakha/Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
+6. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+7. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/bf5315a54e6c7895e2eb8b174acced2865a9b6ae)
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
