@@ -35,13 +35,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 🎉 Created a new private repository
-5. ➕ Created a new branch in a private repo
-6. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-7. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
-8. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-9. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-10. ⭐ Starred [arpit20adlakha/Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
+4. 📝 Committed to a private repo
+5. 🎉 Created a new private repository
+6. ➕ Created a new branch in a private repo
+7. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+8. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+9. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+10. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
