@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 🎉 Created a new private repository
-3. ➕ Created a new branch in a private repo
-4. ⭐ Starred [badges/shields](https://github.com/badges/shields)
-5. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
-6. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-7. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-8. ⭐ Starred [arpit20adlakha/Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
-9. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-10. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 🎉 Created a new private repository
+5. ➕ Created a new branch in a private repo
+6. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+7. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+8. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+9. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+10. ⭐ Starred [arpit20adlakha/Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
