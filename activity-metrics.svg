@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="702" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="386" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b17df1d</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -93,106 +113,6 @@
 Have just updated my proposal branch to latest main from
                                         <code>dotnet/wpf</code>
                                         , and need to do some testing with it.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 599 commits in
-                                        <span class="repo">bstordrup/wpf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2c55fb2</div>
-                                        <div class="message">adjust the initial capacity to the typical number of suggestions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#844b414</div>
-                                        <div class="message">simplify GetSuggestionsForError, use inline var declarations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f3efc6</div>
-                                        <div class="message">replace arraylist with list&lt;string&gt;, remove unnecessary casts and iteration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d212d66</div>
-                                        <div class="message">Use IndexFromContainer instead of IndexOf to avoid O(n) searches for GridView's item rowIndex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4433af</div>
-                                        <div class="message">replace boxing ArrayList with List&lt;IntPtr&gt; to hold thread window handles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d680df8</div>
-                                        <div class="message">replace _nodeStack with generic stack for code quality, make it readonly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09ea714</div>
-                                        <div class="message">replace boxing Stack with generic Stack&lt;bool&gt; in BamlReader</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#814e7da</div>
-                                        <div class="message">address PR feedback from hiteshwpfmsft; cache the retrieved Length explicitly for optimal performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbafcd5</div>
-                                        <div class="message">replace array.getlength on single-dimension arrays with length property</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f7b519</div>
-                                        <div class="message">Use Delegate.EnumerateInvocationList instead of Delegate.GetInvocationList</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90e8c2c</div>
-                                        <div class="message">replace arraylist with preallocated array and reduce allocations caused by copying</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18be804</div>
-                                        <div class="message">remove useless array.createinstance(...) call with a type known in compile time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c557ec9</div>
-                                        <div class="message">Adding Subitem value to hitTest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3181630</div>
-                                        <div class="message">Use Environment.ProcessId instead of calling a Win32 function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e489d5</div>
-                                        <div class="message">[TextBoxBase.cs] OnPreviewKeyDown override calls wrong base method
-
-As noted in the title. This type of bug could have been catastrophic (and thus would have been found years ago), but in this case it is benign, since the base method `UIElement.OnKeyDown` is vacuous.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7fae1f</div>
-                                        <div class="message">Use span in ContentType</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e62344</div>
-                                        <div class="message">use interpolated strings in System.Xaml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ea913b</div>
-                                        <div class="message">Fix slight regression</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17a2142</div>
-                                        <div class="message">Use span for LengthConverter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be5af7b</div>
-                                        <div class="message">Format the code for code cleanliness
-
-In `FullValueSource`, all other member definitions use a four-digit number, with the exception of `IsCoercedWithCurrentValue` which uses three. I'd like to standardize this by having all members use a four-digit number.</div>
                                     </div>
                                 </div>
                             </section>
