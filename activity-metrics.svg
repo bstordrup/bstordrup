@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,137 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 37 commits in
+                                        <span class="repo">bstordrup/UniGetUI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#560a19d</div>
+                                        <div class="message">Bump vedantmgoyal9/winget-releaser in the actions-deps group
+
+Bumps the actions-deps group with 1 update: [vedantmgoyal9/winget-releaser](https://github.com/vedantmgoyal9/winget-releaser).
+
+
+Updates `vedantmgoyal9/winget-releaser` from f7efa6288d37219838d58cb2d953d35b71ebc5d3 to 3e78d7ff0f525445bca5d6a989d31cdca383372e
+- [Release notes](https://github.com/vedantmgoyal9/winget-releaser/releases)
+- [Commits](https://github.com/vedantmgoyal9/winget-releaser/compare/f7efa6288d37219838d58cb2d953d35b71ebc5d3...3e78d7ff0f525445bca5d6a989d31cdca383372e)
+
+---
+updated-dependencies:
+- dependency-name: vedantmgoyal9/winget-releaser
+  dependency-type: direct:production
+  dependency-group: actions-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2af5356</div>
+                                        <div class="message">Merge pull request #3499 from marticliment/pull-request/update-translation
+
+Load translations from Tolgee</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec2746</div>
+                                        <div class="message">Load updated translations from Tolgee
+Co-authored-by: Martí Climent from the multiverse &lt;121457539+martinet101@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f5ae2a</div>
+                                        <div class="message">Merge pull request #3496 from marticliment/pull-request/update-translation
+
+Load translations from Tolgee</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26d66b8</div>
+                                        <div class="message">Load updated translations from Tolgee
+Co-authored-by: Martí Climent from the multiverse &lt;121457539+martinet101@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48109d9</div>
+                                        <div class="message">Merge pull request #3494 from marticliment/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67d7233</div>
+                                        <div class="message">Merge pull request #3493 from marticliment/pull-request/update-translation
+
+Load translations from Tolgee</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#239b324</div>
+                                        <div class="message">Update icons and screenshots from the excel file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0d880a</div>
+                                        <div class="message">Load updated translations from Tolgee
+Co-authored-by: Martí Climent from the multiverse &lt;121457539+martinet101@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3da0ba8</div>
+                                        <div class="message">Merge pull request #3490 from marticliment/pull-request/update-translation
+
+Load translations from Tolgee</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09c987c</div>
+                                        <div class="message">Load updated translations from Tolgee
+Co-authored-by: Martí Climent from the multiverse &lt;121457539+martinet101@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb27df4</div>
+                                        <div class="message">Add a list of the package managers that support proxies and the package managers that do not</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f00c8a</div>
+                                        <div class="message">Disable proxy on WinGet when proxy auth is enabled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4429e7d</div>
+                                        <div class="message">Update thread start adresses</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e59ae6</div>
+                                        <div class="message">Update AppSdk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c491278</div>
+                                        <div class="message">Merge pull request #3450 from snapsl/fix/dependabot
+
+Fix dependabot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7546a8b</div>
+                                        <div class="message">Merge pull request #3477 from marticliment/pull-request/update-translation
+
+Load translations from Tolgee</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99b919f</div>
+                                        <div class="message">Load updated translations from Tolgee
+Co-authored-by: Martí Climent from the multiverse &lt;121457539+martinet101@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c18042</div>
+                                        <div class="message">dir</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b637a5</div>
+                                        <div class="message">fix dependabot</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -90,26 +221,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#2d058c9</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40d410e</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
