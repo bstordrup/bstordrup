@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/f86d66c8a861f9a55fb10bcd451e38ac85f03525)
-2. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/779dbb5e761ef327af87e07f841dccdc022dc4e3)
-3. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/4c63ec0cbeaaf4e97eb556eabe59d0db3c9ce833)
-4. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/70d66f0916ac74cbcd58c539951155bf5bb735ba)
-5. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bb75b6aaffa285119691905b15dc9b0d3cd3a7cb)
-6. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783525070)
-7. 📥 Opened [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-8. ➕ Created a new branch [`Proposal9613_MoreMessageBoxButtons`](https://github.com/bstordrup/wpf/tree/Proposal9613_MoreMessageBoxButtons) in [bstordrup/wpf](https://github.com/bstordrup/wpf)
-9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to a private repo
+1. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2031548011)
+2. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+3. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/24040f816a85eb49fb7431b03908de0ed81c059a)
+4. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783832262)
+5. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/4880b00cdd67fa9ce4ace4ab51e6e0c52438e486)
+6. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/f86d66c8a861f9a55fb10bcd451e38ac85f03525)
+7. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/779dbb5e761ef327af87e07f841dccdc022dc4e3)
+8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/4c63ec0cbeaaf4e97eb556eabe59d0db3c9ce833)
+9. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/70d66f0916ac74cbcd58c539951155bf5bb735ba)
+10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bb75b6aaffa285119691905b15dc9b0d3cd3a7cb)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
