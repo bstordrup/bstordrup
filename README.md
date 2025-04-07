@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783954410)
-2. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783919313)
-3. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/0de729e937278adf2e59f68e1e85be63965c082a)
-4. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bd92364dd6338085aa53760333f43ce98f9d23df)
-5. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2031548011)
-6. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-7. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/24040f816a85eb49fb7431b03908de0ed81c059a)
-8. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783832262)
-9. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/4880b00cdd67fa9ce4ace4ab51e6e0c52438e486)
-10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/f86d66c8a861f9a55fb10bcd451e38ac85f03525)
+1. 📝 Committed to a private repo
+2. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783954410)
+3. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783919313)
+4. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/0de729e937278adf2e59f68e1e85be63965c082a)
+5. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bd92364dd6338085aa53760333f43ce98f9d23df)
+6. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2031548011)
+7. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/24040f816a85eb49fb7431b03908de0ed81c059a)
+9. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783832262)
+10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/4880b00cdd67fa9ce4ace4ab51e6e0c52438e486)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
