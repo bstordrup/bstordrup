@@ -32,13 +32,13 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783525070)
-2. 📥 Opened [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-3. ➕ Created a new branch [`Proposal9613_MoreMessageBoxButtons`](https://github.com/bstordrup/wpf/tree/Proposal9613_MoreMessageBoxButtons) in [bstordrup/wpf](https://github.com/bstordrup/wpf)
-4. 🔎 Reviewed a PR in a private repo
-5. 📝 Committed to a private repo
-6. 🍴 Forked [wangzhfeng/MarkdownViewer](https://github.com/wangzhfeng/MarkdownViewer)
-7. 📝 Committed to a private repo
+1. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bb75b6aaffa285119691905b15dc9b0d3cd3a7cb)
+2. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783525070)
+3. 📥 Opened [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+4. ➕ Created a new branch [`Proposal9613_MoreMessageBoxButtons`](https://github.com/bstordrup/wpf/tree/Proposal9613_MoreMessageBoxButtons) in [bstordrup/wpf](https://github.com/bstordrup/wpf)
+5. 🔎 Reviewed a PR in a private repo
+6. 📝 Committed to a private repo
+7. 🍴 Forked [wangzhfeng/MarkdownViewer](https://github.com/wangzhfeng/MarkdownViewer)
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
