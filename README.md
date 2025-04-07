@@ -32,15 +32,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`Proposal9613_MoreMessageBoxButtons`](https://github.com/bstordrup/wpf/tree/Proposal9613_MoreMessageBoxButtons) in [bstordrup/wpf](https://github.com/bstordrup/wpf)
-2. 🔎 Reviewed a PR in a private repo
-3. 📝 Committed to a private repo
-4. 🍴 Forked [wangzhfeng/MarkdownViewer](https://github.com/wangzhfeng/MarkdownViewer)
-5. 📝 Committed to a private repo
+1. 📥 Opened [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+2. ➕ Created a new branch [`Proposal9613_MoreMessageBoxButtons`](https://github.com/bstordrup/wpf/tree/Proposal9613_MoreMessageBoxButtons) in [bstordrup/wpf](https://github.com/bstordrup/wpf)
+3. 🔎 Reviewed a PR in a private repo
+4. 📝 Committed to a private repo
+5. 🍴 Forked [wangzhfeng/MarkdownViewer](https://github.com/wangzhfeng/MarkdownViewer)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. ➕ Created a new branch in a private repo
+9. 📝 Committed to a private repo
 10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
