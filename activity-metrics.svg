@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,223 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 32 commits in
+                                        <span class="repo">bstordrup/wpf</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a72ac93</div>
+                                        <div class="message">[main] Update dependencies from dotnet/arcade (#10698)
+
+* Update dependencies from https://github.com/dotnet/arcade build 20250402.1
+
+Microsoft.DotNet.Arcade.Sdk , Microsoft.DotNet.CodeAnalysis , Microsoft.DotNet.GenAPI , Microsoft.DotNet.Helix.Sdk
+ From Version 10.0.0-beta.25201.4 -&gt; To Version 10.0.0-beta.25202.1
+
+* Update dependencies from https://github.com/dotnet/arcade build 20250403.1
+
+Microsoft.DotNet.Arcade.Sdk , Microsoft.DotNet.CodeAnalysis , Microsoft.DotNet.GenAPI , Microsoft.DotNet.Helix.Sdk
+ From Version 10.0.0-beta.25201.4 -&gt; To Version 10.0.0-beta.25203.1
+
+---------
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ded801</div>
+                                        <div class="message">[StyleCleanUp] Order modifiers on members/types (IDE0036) (#10601)
+
+* Fix PresentationFramework
+
+* Fix PresentationCore
+
+* Fix UIAutomation
+
+* Fix UIAutomationClientSideProviders
+
+* Fx WindowsBase
+
+* Fix ReachFramework
+
+* Fix Ribbon
+
+* Fix the rest
+
+* Fix post-merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cfcf9e</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/winforms build 20250401.6 (#10695)
+
+Microsoft.Dotnet.WinForms.ProjectTemplates , Microsoft.Private.Winforms , System.Drawing.Common
+ From Version 10.0.0-preview.4.25201.5 -&gt; To Version 10.0.0-preview.4.25201.6
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c36d75</div>
+                                        <div class="message">Remove the version.txt file from packages (#10692)
+
+The version.txt file isn't used anymore. It isn't read by windowsdesktop, sdk or wpf. Though, it's showing up as a difference between the MSFT and the VMR build. Remove it to simplify the infrastructure and reduce the package assets.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b428cde</div>
+                                        <div class="message">Merge pull request #10544 from JeremyKuhne/sharedclipboard
+
+Use shared clipboard code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b33ea57</div>
+                                        <div class="message">Resolve Conflicts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0f8705</div>
+                                        <div class="message">[main] Update dependencies from dotnet/winforms (#10686)
+
+* Update dependencies from https://github.com/dotnet/winforms build 20250331.1
+
+Microsoft.Dotnet.WinForms.ProjectTemplates , Microsoft.Private.Winforms , System.Drawing.Common
+ From Version 10.0.0-preview.4.25179.1 -&gt; To Version 10.0.0-preview.4.25181.1
+
+* Update dependencies from https://github.com/dotnet/winforms build 20250331.7
+
+Microsoft.Dotnet.WinForms.ProjectTemplates , Microsoft.Private.Winforms , System.Drawing.Common
+ From Version 10.0.0-preview.4.25179.1 -&gt; To Version 10.0.0-preview.4.25181.7
+
+Dependency coherency updates
+
+System.Reflection.MetadataLoadContext,System.Windows.Extensions,Microsoft.NETCore.Platforms,System.Resources.Extensions,System.Runtime.Serialization.Formatters,Microsoft.NETCore.App.Ref,Microsoft.NETCore.App.Runtime.win-x64,VS.Redist.Common.NetCore.SharedFramework.x64.10.0,Microsoft.Win32.Registry.AccessControl,Microsoft.Win32.SystemEvents,System.CodeDom,System.ComponentModel.Composition,System.Configuration.ConfigurationManager,System.Data.Odbc,System.Data.OleDb,System.Diagnostics.EventLog,System.Diagnostics.PerformanceCounter,System.DirectoryServices.AccountManagement,System.DirectoryServices.Protocols,System.DirectoryServices,System.Formats.Nrbf,System.IO.Packaging,System.IO.Ports,System.Management,System.Reflection.Context,System.Runtime.Caching,System.Security.Cryptography.Pkcs,System.Security.Cryptography.ProtectedData,System.Security.Cryptography.Xml,System.Security.Permissions,System.ServiceModel.Syndication,System.ServiceProcess.ServiceController,System.Speech,System.Text.Encoding.CodePages,System.Threading.AccessControl,System.ComponentModel.Composition.Registration
+ From Version 10.0.0-preview.4.25177.9 -&gt; To Version 10.0.0-preview.4.25180.1 (parent: Microsoft.Private.Winforms
+
+* Update dependencies from https://github.com/dotnet/winforms build 20250331.9
+
+Microsoft.Dotnet.WinForms.ProjectTemplates , Microsoft.Private.Winforms , System.Drawing.Common
+ From Version 10.0.0-preview.4.25179.1 -&gt; To Version 10.0.0-preview.4.25181.9
+
+Dependency coherency updates
+
+System.Reflection.MetadataLoadContext,System.Windows.Extensions,Microsoft.NETCore.Platforms,System.Resources.Extensions,System.Runtime.Serialization.Formatters,Microsoft.NETCore.App.Ref,Microsoft.NETCore.App.Runtime.win-x64,VS.Redist.Common.NetCore.SharedFramework.x64.10.0,Microsoft.Win32.Registry.AccessControl,Microsoft.Win32.SystemEvents,System.CodeDom,System.ComponentModel.Composition,System.Configuration.ConfigurationManager,System.Data.Odbc,System.Data.OleDb,System.Diagnostics.EventLog,System.Diagnostics.PerformanceCounter,System.DirectoryServices.AccountManagement,System.DirectoryServices.Protocols,System.DirectoryServices,System.Formats.Nrbf,System.IO.Packaging,System.IO.Ports,System.Management,System.Reflection.Context,System.Runtime.Caching,System.Security.Cryptography.Pkcs,System.Security.Cryptography.ProtectedData,System.Security.Cryptography.Xml,System.Security.Permissions,System.ServiceModel.Syndication,System.ServiceProcess.ServiceController,System.Speech,System.Text.Encoding.CodePages,System.Threading.AccessControl,System.ComponentModel.Composition.Registration
+ From Version 10.0.0-preview.4.25177.9 -&gt; To Version 10.0.0-preview.4.25181.8 (parent: Microsoft.Private.Winforms
+
+* Update dependencies from https://github.com/dotnet/winforms build 20250401.5
+
+Microsoft.Dotnet.WinForms.ProjectTemplates , Microsoft.Private.Winforms , System.Drawing.Common
+ From Version 10.0.0-preview.4.25179.1 -&gt; To Version 10.0.0-preview.4.25201.5
+
+---------
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2069343</div>
+                                        <div class="message">[main] Update dependencies from dotnet/arcade (#10687)
+
+* Update dependencies from https://github.com/dotnet/arcade build 20250331.7
+
+Microsoft.DotNet.Arcade.Sdk , Microsoft.DotNet.CodeAnalysis , Microsoft.DotNet.GenAPI , Microsoft.DotNet.Helix.Sdk
+ From Version 10.0.0-beta.25178.2 -&gt; To Version 10.0.0-beta.25181.7
+
+* Update dependencies from https://github.com/dotnet/arcade build 20250401.4
+
+Microsoft.DotNet.Arcade.Sdk , Microsoft.DotNet.CodeAnalysis , Microsoft.DotNet.GenAPI , Microsoft.DotNet.Helix.Sdk
+ From Version 10.0.0-beta.25178.2 -&gt; To Version 10.0.0-beta.25201.4
+
+---------
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e6ee46</div>
+                                        <div class="message">Update src/Microsoft.DotNet.Wpf/src/PresentationCore/System/Windows/clipboard.cs
+
+Co-authored-by: Harshit &lt;62823486+harshit7962@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1389f90</div>
+                                        <div class="message">Respond to feedback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b54126</div>
+                                        <div class="message">Add  a few simple DataObject tests
+
+Remove duplicate project file entry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da930c</div>
+                                        <div class="message">Use shared clipboard code
+
+This commit switches to using the shared clipboard code coming from System.Private.Windows.Core and exposes the new typed and JSON APIs.
+
+Removes all code no longer used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e24f82b</div>
+                                        <div class="message">DataStore simplification
+
+Switch to using a typed dictionary. Extra fields in DataStoreEntry were never used. Removed to align with shared implementation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d445371</div>
+                                        <div class="message">Null annotate clipboard code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b0443d</div>
+                                        <div class="message">Clean DataObject and Clipboard code
+
+Bring code closer to current standards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58e4437</div>
+                                        <div class="message">Remove most regions, related comments, and move fields to the top of the type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd82c5b</div>
+                                        <div class="message">Break out DataStoreEntry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50dda26</div>
+                                        <div class="message">Flatten namespace in DataObject and Clipboard class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26010b7</div>
+                                        <div class="message">Break DataObject classes into separate files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae3c1b2</div>
+                                        <div class="message">Add reference to test project</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ae723b9</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -70,46 +287,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#45248f1</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53b3313</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4822c03</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
