@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,220 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 568 commits in
+                                        <span class="repo">bstordrup/dotnet_runtime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a015e48</div>
+                                        <div class="message">JIT: fix missing morphed flag (#112888)
+
+Fixes #112867.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d4ccdd</div>
+                                        <div class="message">Fix doc typo (#112875)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0473604</div>
+                                        <div class="message">[browser] samplepoint instrumentation into Mono profiler (#112352)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0fe41c</div>
+                                        <div class="message">JIT: Introduce O1K_VN (#112889)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6c5bb4</div>
+                                        <div class="message">JIT: Use precise multireg arg check for old promotion (#112883)
+
+`lvaIsMultiregStruct` does not account for whether the argument was
+_actually_ passed in multiple regs, it just checks if the type is a type
+that could sometimes be passed in multiple registers. Change this to a
+precise check.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22fc451</div>
+                                        <div class="message">[Android] Add callback to host-runtime contract for getting assembly data (#112705)
+
+Add a new callback to `host_runtime_contract` that is called default assembly resolution:
+```c++
+// Probe the host for `path`. Sets pointer to data start and its size, if found.
+// Returns true if found, false otherwise. If false, out parameter values are ignored by the runtime.
+bool(HOST_CONTRACT_CALLTYPE* external_assembly_probe)(
+    const char* path,
+    /*out*/ void** data
+    /*out*/ int64_t* size);
+```
+
+Contributes to https://github.com/dotnet/runtime/issues/112706
+
+This is a set of minimal changes required to make https://github.com/dotnet/android/pull/9572 (the `.NET for Android` CoreCLR host) work with standard .NET for Android applications.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d343214</div>
+                                        <div class="message">Use certificate thumbprints from entire chain in SSL_CTX cache (#112858)
+
+* Use  certificate thumbprints from entire chain in SSL_CTX cache.
+
+* Feedback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db681fb</div>
+                                        <div class="message">Revert "Use rangecheck in assertprop (#112766)" (#112872)
+
+This reverts commit 6022adf92c35ce77ba75d32ebddb8ef64b48a635.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a19c9d</div>
+                                        <div class="message">Fix getting resource when ResourceResolve returns assembly with resource that is an assembly ref (#112810)
+
+When getting a resource where `ResourceResolve` handler returns an assembly with a manifest resource that is an assembly ref, we incorrectly resolved the reference on the original assembly instead of the assembly returned by the handler and then also looked for the resource on the original assembly again instead of using the referenced assembly.
+
+This change includes a test for this case using IL. The manifest resource file (as opposed to assembly ref) case is already covered in libraries tests.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbc02a5</div>
+                                        <div class="message">Disable interpreter test on native AOT (#112857)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#509c12b</div>
+                                        <div class="message">Narrow AddressFamily passed to getaddrinfo when IPv6 is unsupported (#112642)
+
+When IPv6 is unsupported or disabled, we should avoid passing `AF_UNSPEC` to the platform calls since those will do `AAAA` resolve attempts which might result in failures surfacing to the user, see #107979. Instead, we can narrow down the query to `AF_INET` so failures are avoided.
+
+The change has been validated by packet captures on Windows and Linux. There are no `AAAA` questions when `System.Net.DisableIPv6` is set to `true`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b80e90</div>
+                                        <div class="message">Fix HttpHandlerDiagnosticListenerTests.TestW3CHeadersTraceStateAndCorrelationContext (#112753)
+
+- Fix HttpHandlerDiagnosticListenerTests.TestW3CHeadersTraceStateAndCorrelationContext
+- Disable TestW3CHeaders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5aacdc4</div>
+                                        <div class="message">Update ZLibNative comments (#112585)
+
+Replace most instances of &lt;code&gt; with &lt;c&gt;, or &lt;see&gt; where relevant.
+Replace &lt;p&gt; with &lt;para&gt; to maintain paragraph structure.
+Update reference to current version number.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#050c506</div>
+                                        <div class="message">Remove thread pointer from AwareLock (#112715)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ccb9de</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20250219.1 (#112834)
+
+Microsoft.SourceBuild.Intermediate.source-build-reference-packages
+ From Version 10.0.611203 -&gt; To Version 10.0.611901
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9be0be0</div>
+                                        <div class="message">JIT: Remove uses of old ABI information (#112818)
+
+- Remove uses of `compArgSize`. This value is computed by the old LclVarDsc ABI
+  classification code and used to derive the amount of stack spaced consumed for
+  parameters. Replace it with the value from the new ABI information instead.
+- Remove `LclVarDsc::lvSize` and `LclVarDsc::lvArgStackSize`. Generally
+  `LclVarDsc::lvExactSize` is the right replacement, unless specifically the
+  stack home size is needed, in which case the replacement is
+  `Compiler::lvaLclStackHomeSize`.
+- Remove uses of `LclVarDsc` HFA information. This was the primary motivation
+  for removing `LclVarDsc::lvSize` since it was querying HFA information.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f97ddf</div>
+                                        <div class="message">[main] Update dependencies from dotnet/roslyn (#112513)
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250212.6
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25112.6
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250213.11
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25113.11
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250214.10
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25114.10
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250215.2
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25115.2
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250217.2
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25117.2
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250218.2
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25118.2
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250219.7
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25119.7
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250220.12
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25120.12
+
+* Update dependencies from https://github.com/dotnet/roslyn build 20250221.3
+
+Microsoft.SourceBuild.Intermediate.roslyn , Microsoft.CodeAnalysis , Microsoft.CodeAnalysis.CSharp , Microsoft.Net.Compilers.Toolset
+ From Version 4.14.0-2.25110.8 -&gt; To Version 4.14.0-2.25121.3
+
+---------
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;
+Co-authored-by: Larry Ewing &lt;lewing@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b7b032</div>
+                                        <div class="message">JIT: Check ISA directly when printing `JitDisasm` (#112828)
+
+`compOpportunisticallyDependsOn` does a JIT-EE call that can otherwise
+make the compilation miss when `JitDisasm` is enabled.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d81756</div>
+                                        <div class="message">Use a unified cache for SSL_CTX objects (#112567)
+
+* Use the same cache for client and server SSL_CTX objects
+
+* Feedback
+
+* Minor improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e492e4</div>
+                                        <div class="message">Fixed typos in Native AOT optimizing document (#112812)
+
+Fixed typos in Native AOT optimizing document</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -267,26 +481,6 @@ Bring code closer to current standards.</div>
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#7d1d061</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#45248f1</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
