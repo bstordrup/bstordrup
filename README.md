@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/7582112bec3c3480e904063f9483b871daa0a59f)
+1. 🔎 Reviewed a PR in a private repo
 2. 🗣 Commented on a review of a PR in a private repo
 3. 🔎 Reviewed a PR in a private repo
-4. ⭐ Starred [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-5. 📝 Committed to a private repo
-6. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783954410)
-7. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2783919313)
-8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/0de729e937278adf2e59f68e1e85be63965c082a)
-9. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/bd92364dd6338085aa53760333f43ce98f9d23df)
-10. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2031548011)
+4. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2032791849)
+5. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+6. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2785816719)
+7. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/7582112bec3c3480e904063f9483b871daa0a59f)
+8. 🗣 Commented on a review of a PR in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. ⭐ Starred [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
