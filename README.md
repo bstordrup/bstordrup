@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-2. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
-3. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
-4. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-5. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033325579)
-6. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/e91ad500c92dac68d3d9235861889cfb1caa67c7)
-7. 📝 Committed to a private repo
-8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/34cf438c9a2089acbafd7923feee03bb21876db4)
-9. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033109408)
-10. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+1. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
+2. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+3. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+4. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+5. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
+6. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+7. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033325579)
+8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/e91ad500c92dac68d3d9235861889cfb1caa67c7)
+9. 📝 Committed to a private repo
+10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/34cf438c9a2089acbafd7923feee03bb21876db4)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
