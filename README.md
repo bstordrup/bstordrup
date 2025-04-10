@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 🔎 Reviewed a PR in a private repo
-3. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
-4. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-5. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-6. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
-7. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
-8. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-9. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033325579)
-10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/e91ad500c92dac68d3d9235861889cfb1caa67c7)
+1. 📥 Opened [PR #29](https://github.com/peteraritchie/ConsoleApplicationBuilder/pull/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+2. 🆕 Opened an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+3. ➕ Created a new branch [`FixCaseSensitivity`](https://github.com/bstordrup/ConsoleApplicationBuilder/tree/FixCaseSensitivity) in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
+4. 🔎 Reviewed a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
+7. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+8. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+9. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+10. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
