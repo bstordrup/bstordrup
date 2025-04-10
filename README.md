@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🔎 Reviewed a PR in a private repo
-2. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
-3. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-4. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-5. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
-6. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
-7. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-8. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033325579)
-9. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/e91ad500c92dac68d3d9235861889cfb1caa67c7)
-10. 📝 Committed to a private repo
+2. 🔎 Reviewed a PR in a private repo
+3. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
+4. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+5. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+6. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+7. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
+8. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+9. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2033325579)
+10. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/e91ad500c92dac68d3d9235861889cfb1caa67c7)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
