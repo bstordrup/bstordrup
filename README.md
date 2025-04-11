@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 📝 Committed to a private repo
-3. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039065074)
-4. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch in a private repo
+3. 📝 Committed to a private repo
+4. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039065074)
 5. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
-6. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039064675)
-7. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/ca0bcd52b71d62751356df73c558babf66b02c57)
-8. 🗑️ Deleted a branch in a private repo
-9. 📝 Committed to a private repo
-10. 🔀 Merged a PR in a private repo
+6. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+7. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039064675)
+8. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/ca0bcd52b71d62751356df73c558babf66b02c57)
+9. 🗑️ Deleted a branch in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
