@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #29](https://github.com/peteraritchie/ConsoleApplicationBuilder/pull/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-2. 🆕 Opened an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-3. ➕ Created a new branch [`FixCaseSensitivity`](https://github.com/bstordrup/ConsoleApplicationBuilder/tree/FixCaseSensitivity) in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
-4. 🔎 Reviewed a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
-7. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-8. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-9. ⭐ Starred [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
-10. ⭐ Starred [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
+1. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/cd97d4534b0fa9f541bd3217de045b364af25291)
+2. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2794863234)
+3. 📥 Opened [PR #29](https://github.com/peteraritchie/ConsoleApplicationBuilder/pull/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+4. 🆕 Opened an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+5. ➕ Created a new branch [`FixCaseSensitivity`](https://github.com/bstordrup/ConsoleApplicationBuilder/tree/FixCaseSensitivity) in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
+6. 🔎 Reviewed a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
+9. 🆕 Opened an issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+10. 🍴 Forked [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
