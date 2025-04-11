@@ -15,7 +15,7 @@ I have been working with software development since I was hired in a Danish comp
 ### 🌐 Connect with me
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/bstordrup)
-[![Mastodon](![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white))]()
+[![Mastodon](![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white))]()
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bennyskjoldtordrup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bennytordrup)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2435661)
