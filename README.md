@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. 📝 Committed to a private repo
-3. 🔀 Merged a PR in a private repo
-4. 📥 Opened a PR in a private repo
-5. ➕ Created a new branch in a private repo
-6. 📝 Committed to a private repo
+1. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039065074)
+2. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+3. 🔎 Reviewed [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf)
+4. 🗣 Commented on a review of [PR #10720](https://github.com/dotnet/wpf/pull/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/pull/10720#pullrequestreviewcomment-2039064675)
+5. 📝 Committed to [bstordrup/wpf](https://github.com/bstordrup/wpf/commit/ca0bcd52b71d62751356df73c558babf66b02c57)
+6. 🗑️ Deleted a branch in a private repo
 7. 📝 Committed to a private repo
-8. 🗑️ Deleted a branch in a private repo
-9. 🔀 Merged a PR in a private repo
-10. 📝 Committed to a private repo
+8. 🔀 Merged a PR in a private repo
+9. 📥 Opened a PR in a private repo
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
