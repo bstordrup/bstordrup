@@ -32,16 +32,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2794918121)
-3. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/cd97d4534b0fa9f541bd3217de045b364af25291)
-4. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2794863234)
-5. 📥 Opened [PR #29](https://github.com/peteraritchie/ConsoleApplicationBuilder/pull/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-6. 🆕 Opened an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-7. ➕ Created a new branch [`FixCaseSensitivity`](https://github.com/bstordrup/ConsoleApplicationBuilder/tree/FixCaseSensitivity) in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
-8. 🔎 Reviewed a PR in a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on issue [#24](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/24#issuecomment-2788962510)
+1. 🗑️ Deleted a branch in a private repo
+2. 📝 Committed to a private repo
+3. 🔀 Merged a PR in a private repo
+4. 🗑️ Deleted a branch in a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
+7. 📥 Opened a PR in a private repo
+8. 📥 Opened a PR in a private repo
+9. 📝 Committed to a private repo
+10. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
