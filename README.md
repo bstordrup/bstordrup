@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 🎉 Created a new private repository
-3. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2799962664)
-4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
-7. 📝 Committed to a private repo
+1. 🔎 Reviewed a PR in a private repo
+2. ➕ Created a new branch in a private repo
+3. 🎉 Created a new private repository
+4. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2799962664)
+5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. 🗑️ Deleted a branch in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
