@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
-2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
-4. 📝 Committed to a private repo
+1. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2799962664)
+2. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
+3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
-8. 📝 Committed to a private repo
-9. 🔀 Merged a PR in a private repo
-10. 📥 Opened a PR in a private repo
+7. 📝 Committed to a private repo
+8. 🗑️ Deleted a branch in a private repo
+9. 📝 Committed to a private repo
+10. 🔀 Merged a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
