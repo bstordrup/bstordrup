@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 🎉 Created a new private repository
-3. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
-4. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-5. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
-6. 🗑️ Deleted a branch `FixCaseSensitivity` in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
-7. ➕ Created a new branch in a private repo
-8. 🔎 Reviewed a PR in a private repo
-9. ➕ Created a new branch in a private repo
-10. 🎉 Created a new private repository
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch in a private repo
+3. 🎉 Created a new private repository
+4. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
+5. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+6. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
+7. 🗑️ Deleted a branch `FixCaseSensitivity` in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
+8. ➕ Created a new branch in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
