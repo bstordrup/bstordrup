@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,44 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/ConsoleApplicationBuilder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6cfa932</div>
+                                        <div class="message">Fixing path casing (#29)
+
+[skip ci]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">FixCaseSensitivity</span>
+                                        in
+                                        <span class="repo">bstordrup/ConsoleApplicationBuilder</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -70,488 +108,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#e5db314</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">bstordrup/command-line-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f918d2a</div>
-                                        <div class="message">Remove illegal string manipulation (#2531)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4485d8</div>
-                                        <div class="message">Merge pull request #2530 from MiYanni/OptionValueType
-
-Add ValueType to Option</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab013c2</div>
-                                        <div class="message">Update API surface test with new results.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ddb2b5</div>
-                                        <div class="message">Made the ValueType property for Option as to expose the ValueType property for Argument.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7f0d1c</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2518)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20250205.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.25066.6 -&gt; To Version 8.0.0-beta.25105.2
-
-* Update dependencies from https://github.com/dotnet/arcade build 20250211.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.25066.6 -&gt; To Version 8.0.0-beta.25111.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20250214.5
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.25066.6 -&gt; To Version 8.0.0-beta.25114.5
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d36c2d3</div>
-                                        <div class="message">Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20250131.5
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.25067.1 -&gt; To Version 8.0.0-alpha.1.25081.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9117a09</div>
-                                        <div class="message">Fix ArgumentConverted for nullable args (#2524)
-
-* Fix ArgumentConverted for nullable args
-
-This fixes cases where conversion of tokens in options of nullable scalar-bindable values with Artities that are not {1,1} like `Option&lt;bool?&gt;` but conversion is still well known.
-
-* Add test for nullable bool option validation
-
----------
-
-Co-authored-by: Juan Sebastian Hoyos Ayala &lt;juan.s.hoyoss@outlook.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65678ea</div>
-                                        <div class="message">Do not use solution filter in non-source-build (#2515)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#060374e</div>
-                                        <div class="message">Cli prefix changes:
-
-- remove it for symbol types
-- replace it with full word CommandLine for Action, Parser and Configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bbb940</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2507)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241223.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24525.2 -&gt; To Version 8.0.0-beta.24623.2
-
-* Update dependencies from https://github.com/dotnet/arcade build 20250110.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24525.2 -&gt; To Version 8.0.0-beta.25060.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20250116.6
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24525.2 -&gt; To Version 8.0.0-beta.25066.6
-
-* stop using TFMs that are no longer supported
-
-* set TargetFrameworkForNETSDK to net8.0
-
-* every enum implements System.ISpanFormattable now
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;
-Co-authored-by: Adam Sitnik &lt;adam.sitnik@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9512a1</div>
-                                        <div class="message">[main] Update dependencies from dotnet/source-build-reference-packages (#2509)
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20250110.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24415.1 -&gt; To Version 8.0.0-alpha.1.25060.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20250117.1
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24415.1 -&gt; To Version 8.0.0-alpha.1.25067.1
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9110ac9</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2504)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241112.12
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24525.2 -&gt; To Version 8.0.0-beta.24562.12
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241120.5
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24525.2 -&gt; To Version 8.0.0-beta.24570.5
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#feb61c7</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2492)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240925.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24463.3 -&gt; To Version 8.0.0-beta.24475.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241008.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24475.3 -&gt; To Version 8.0.0-beta.24508.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241016.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24508.1 -&gt; To Version 8.0.0-beta.24516.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20241025.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24463.3 -&gt; To Version 8.0.0-beta.24525.2
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31ab507</div>
-                                        <div class="message">Update source-build team references (#2496)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c1f724</div>
-                                        <div class="message">Add support for 9.0 VMR controls (#2488)
-
-These have an effect when building from the VMR and allow us to remove the old control schema (DotNetBuildFrom*, ExcludeFromSourceBuild, etc.) in 10.0 arcade.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a140d1b</div>
-                                        <div class="message">[main] Update dependencies from dotnet/source-build-reference-packages (#2460)
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240717.1
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24257.2 -&gt; To Version 8.0.0-alpha.1.24367.1
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240722.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24257.2 -&gt; To Version 8.0.0-alpha.1.24372.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240722.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24257.2 -&gt; To Version 8.0.0-alpha.1.24372.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240815.1
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24372.3 -&gt; To Version 8.0.0-alpha.1.24415.1
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb4a166</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2447)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240628.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24328.2
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240702.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24352.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240710.5
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24360.5
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240710.5
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24360.5
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240717.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24367.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240726.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24376.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240726.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24321.3 -&gt; To Version 8.0.0-beta.24376.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240813.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24376.1 -&gt; To Version 8.0.0-beta.24413.2
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240821.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24413.2 -&gt; To Version 8.0.0-beta.24421.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240826.2
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24421.4 -&gt; To Version 8.0.0-beta.24426.2
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240913.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24426.2 -&gt; To Version 8.0.0-beta.24463.3
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#803d859</div>
-                                        <div class="message">[main] Update dependencies from dotnet/source-build-reference-packages (#2354)
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240313.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240313.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240313.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240313.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240313.3
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24163.3
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240501.1
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24251.1
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
-* Update dependencies from https://github.com/dotnet/source-build-reference-packages build 20240507.2
-
-Microsoft.SourceBuild.Intermediate.source-build-reference-packages
- From Version 8.0.0-alpha.1.24061.1 -&gt; To Version 8.0.0-alpha.1.24257.2
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f7a84d</div>
-                                        <div class="message">[main] Update dependencies from dotnet/arcade (#2368)
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240329.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24179.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240404.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24204.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240404.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24204.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240404.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24204.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240404.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24204.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240425.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24225.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240425.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24225.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240425.1
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24225.1
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240516.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24266.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240516.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24266.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240520.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24270.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240520.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24270.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240520.4
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24270.4
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240611.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24311.3
-
-* Update dependencies from https://github.com/dotnet/arcade build 20240621.3
-
-Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk
- From Version 8.0.0-beta.24170.6 -&gt; To Version 8.0.0-beta.24321.3
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#923abaf</div>
-                                        <div class="message">Update ApprovalTests dependency (#2446)
-
-* bump ApprovalTests from 5.4.7 to 7.0.0-beta.3 to fix the System.Data.SqlClient vulnerability
-
-* remove explicit reference to Microsoft.Extensions.DependencyInjection.Abstractions because it's referenced by the ApprovalTests library
-
-* change the minimum .NET Framework version used by the test projects from .NET 4.6.2 to 4.7.2 because ApprovalTests does not support older versions
-
-* address code review feedback: use NetFrameworkCurrent property provided by Arcade which maps to "net481"</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#31bd84a</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
