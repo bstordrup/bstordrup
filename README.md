@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 🔎 Reviewed a PR in a private repo
+1. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
+2. 🗑️ Deleted a branch `FixCaseSensitivity` in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
 3. ➕ Created a new branch in a private repo
-4. 🎉 Created a new private repository
-5. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2799962664)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. ➕ Created a new branch in a private repo
+6. 🎉 Created a new private repository
+7. 🗣 Commented on issue [#29](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/29#issuecomment-2799962664)
+8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/12b4ff255335246903557c8ba807486f1db378a4)
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/f391887090c6f32da7a0d5c2d9e07f655fc8092b)
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/e79863818225a252c17d5678dd57be8f9cc7820a)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
