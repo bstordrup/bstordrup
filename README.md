@@ -38,11 +38,11 @@ I have been working with software development since I was hired in a Danish comp
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. ➕ Created a new branch in a private repo
-7. 🎉 Created a new private repository
-8. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
-9. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-10. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
+6. 📝 Committed to a private repo
+7. ➕ Created a new branch in a private repo
+8. 🎉 Created a new private repository
+9. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
+10. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
