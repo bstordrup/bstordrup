@@ -36,13 +36,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. ➕ Created a new branch in a private repo
-5. 🎉 Created a new private repository
-6. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
-7. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
-8. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
-9. 🗑️ Deleted a branch `FixCaseSensitivity` in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
-10. ➕ Created a new branch in a private repo
+4. 📝 Committed to a private repo
+5. ➕ Created a new branch in a private repo
+6. 🎉 Created a new private repository
+7. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
+8. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+9. 📝 Committed to [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder/commit/6cfa932c08592f9e899ff133ffc41abf63e12d33)
+10. 🗑️ Deleted a branch `FixCaseSensitivity` in [bstordrup/ConsoleApplicationBuilder](https://github.com/bstordrup/ConsoleApplicationBuilder)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
