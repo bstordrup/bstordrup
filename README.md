@@ -39,10 +39,10 @@ I have been working with software development since I was hired in a Danish comp
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. ➕ Created a new branch in a private repo
-8. 🎉 Created a new private repository
-9. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
-10. ❌ Closed an issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder)
+7. 📝 Committed to a private repo
+8. ➕ Created a new branch in a private repo
+9. 🎉 Created a new private repository
+10. 🗣 Commented on issue [#28](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/28#issuecomment-2800831680)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
