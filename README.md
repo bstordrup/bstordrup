@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
-2. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
-3. ⭐ Starred [micdenny/WpfScreenHelper](https://github.com/micdenny/WpfScreenHelper)
-4. ⭐ Starred [danielchalmers/WpfWindowPlacement](https://github.com/danielchalmers/WpfWindowPlacement)
-5. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2811868613)
-6. 🚀 Published release in a private repo
-7. ➕ Created a new tag in a private repo
-8. 🚀 Published release in a private repo
-9. ➕ Created a new tag in a private repo
-10. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
+3. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
+4. ⭐ Starred [micdenny/WpfScreenHelper](https://github.com/micdenny/WpfScreenHelper)
+5. ⭐ Starred [danielchalmers/WpfWindowPlacement](https://github.com/danielchalmers/WpfWindowPlacement)
+6. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2811868613)
+7. 🚀 Published release in a private repo
+8. ➕ Created a new tag in a private repo
+9. 🚀 Published release in a private repo
+10. ➕ Created a new tag in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
