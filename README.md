@@ -35,14 +35,14 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. ⭐ Starred [crypto0402/give-me-star](https://github.com/crypto0402/give-me-star)
-4. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. ⭐ Starred [crypto0402/give-me-star](https://github.com/crypto0402/give-me-star)
 5. 📝 Committed to a private repo
-6. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
-7. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
-8. ⭐ Starred [micdenny/WpfScreenHelper](https://github.com/micdenny/WpfScreenHelper)
-9. ⭐ Starred [danielchalmers/WpfWindowPlacement](https://github.com/danielchalmers/WpfWindowPlacement)
-10. 🗣 Commented on issue [#10720](https://github.com/dotnet/wpf/issues/10720) in [dotnet/wpf](https://github.com/dotnet/wpf): [View Comment](https://github.com/dotnet/wpf/issues/10720#issuecomment-2811868613)
+6. 📝 Committed to a private repo
+7. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
+8. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
+9. ⭐ Starred [micdenny/WpfScreenHelper](https://github.com/micdenny/WpfScreenHelper)
+10. ⭐ Starred [danielchalmers/WpfWindowPlacement](https://github.com/danielchalmers/WpfWindowPlacement)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
