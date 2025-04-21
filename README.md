@@ -37,12 +37,12 @@ I have been working with software development since I was hired in a Danish comp
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. ⭐ Starred [crypto0402/give-me-star](https://github.com/crypto0402/give-me-star)
-6. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. ⭐ Starred [crypto0402/give-me-star](https://github.com/crypto0402/give-me-star)
 7. 📝 Committed to a private repo
-8. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
-9. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
-10. ⭐ Starred [micdenny/WpfScreenHelper](https://github.com/micdenny/WpfScreenHelper)
+8. 📝 Committed to a private repo
+9. ⭐ Starred [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
+10. ⭐ Starred [dotnetprojects/WpfToolkit](https://github.com/dotnetprojects/WpfToolkit)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
