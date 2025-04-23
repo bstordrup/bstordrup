@@ -35,11 +35,11 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 📝 Committed to a private repo
-5. 🗣 Commented on a review of a PR in a private repo
-6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 📝 Committed to a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
