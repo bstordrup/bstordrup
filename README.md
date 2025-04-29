@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on a review of a PR in a private repo
-2. 🔎 Reviewed a PR in a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 🗣 Commented on a review of a PR in a private repo
-5. 🆕 Opened an issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target)
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
+1. 🗣 Commented on issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target): [View Comment](https://github.com/skurdiukov/Graylog.Target/issues/5#issuecomment-2838424512)
+2. ❌ Closed an issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target)
+3. 🗣 Commented on a review of a PR in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 🆕 Opened an issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target)
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. 🍴 Forked [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
