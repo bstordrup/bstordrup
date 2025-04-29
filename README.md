@@ -36,11 +36,11 @@ I have been working with software development since I was hired in a Danish comp
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 🍴 Forked [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-5. 🗑️ Deleted a branch in a private repo
-6. 📝 Committed to a private repo
-7. 🔀 Merged a PR in a private repo
-8. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 🍴 Forked [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+6. 🗑️ Deleted a branch in a private repo
+7. 📝 Committed to a private repo
+8. 🔀 Merged a PR in a private repo
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
