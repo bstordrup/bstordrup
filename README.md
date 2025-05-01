@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2845563985)
 2. 📝 Committed to a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 📝 Committed to a private repo
-5. 🔎 Reviewed a PR in a private repo
+3. 📝 Committed to a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 📝 Committed to a private repo
 6. 🔎 Reviewed a PR in a private repo
-7. 🗣 Commented on issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target): [View Comment](https://github.com/skurdiukov/Graylog.Target/issues/5#issuecomment-2838424512)
-8. ❌ Closed an issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target)
-9. 🗣 Commented on a review of a PR in a private repo
-10. 🔎 Reviewed a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. 🗣 Commented on issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target): [View Comment](https://github.com/skurdiukov/Graylog.Target/issues/5#issuecomment-2838424512)
+9. ❌ Closed an issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target)
+10. 🗣 Commented on a review of a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
