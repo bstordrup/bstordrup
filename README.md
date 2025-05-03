@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/04130d1a89651fca58c87eb801630cd31a444b95)
-2. ➕ Created a new branch [`Issue3_SupportLinux`](https://github.com/bstordrup/dotnetzip-2025/tree/Issue3_SupportLinux) in [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025)
-3. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2845563985)
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 🔎 Reviewed a PR in a private repo
+1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/d4620f29eaae52710e932c9175c58adc9a28805a)
+2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3454b74c507081a44cce8ef3c775914559d09e32)
+3. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2848745442)
+4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/04130d1a89651fca58c87eb801630cd31a444b95)
+5. ➕ Created a new branch [`Issue3_SupportLinux`](https://github.com/bstordrup/dotnetzip-2025/tree/Issue3_SupportLinux) in [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025)
+6. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2845563985)
 7. 📝 Committed to a private repo
-8. 🔎 Reviewed a PR in a private repo
+8. 📝 Committed to a private repo
 9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on issue [#5](https://github.com/skurdiukov/Graylog.Target/issues/5) in [skurdiukov/Graylog.Target](https://github.com/skurdiukov/Graylog.Target): [View Comment](https://github.com/skurdiukov/Graylog.Target/issues/5#issuecomment-2838424512)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
