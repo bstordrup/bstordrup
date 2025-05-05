@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/47b03aace40c4c2ff9bb6169f2556a3636182ce4)
-2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a8e902171b61c828b0f824b34b40e91d675e432e)
-3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/2de6f4dab1a2ba8b07840d99e9bc1731cd0edda4)
-4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/d4620f29eaae52710e932c9175c58adc9a28805a)
-5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3454b74c507081a44cce8ef3c775914559d09e32)
-6. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2848745442)
-7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/04130d1a89651fca58c87eb801630cd31a444b95)
-8. ➕ Created a new branch [`Issue3_SupportLinux`](https://github.com/bstordrup/dotnetzip-2025/tree/Issue3_SupportLinux) in [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025)
-9. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2845563985)
-10. 📝 Committed to a private repo
+1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/facca17863316cfa1855400467dda8dc227e01f4)
+2. 🆕 Opened an issue [#8](https://github.com/DinoChiesa/dotnetzip-2025/issues/8) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
+3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/47b03aace40c4c2ff9bb6169f2556a3636182ce4)
+4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a8e902171b61c828b0f824b34b40e91d675e432e)
+5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/2de6f4dab1a2ba8b07840d99e9bc1731cd0edda4)
+6. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/d4620f29eaae52710e932c9175c58adc9a28805a)
+7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3454b74c507081a44cce8ef3c775914559d09e32)
+8. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2848745442)
+9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/04130d1a89651fca58c87eb801630cd31a444b95)
+10. ➕ Created a new branch [`Issue3_SupportLinux`](https://github.com/bstordrup/dotnetzip-2025/tree/Issue3_SupportLinux) in [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
