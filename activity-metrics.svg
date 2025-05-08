@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,31 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">bstordrup/dotnetzip-2025</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Issue3_SupportLinux</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0d73a93</div>
+                                        <div class="message">Specifying file location by OS
+Asserting correct exception</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82140bc</div>
+                                        <div class="message">Correcting path generation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -92,27 +117,6 @@ Restructured test</div>
                                     <div class="commit">
                                         <div class="sha">#2ddbf03</div>
                                         <div class="message">Work in progress</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/dotnetzip-2025</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Issue3_SupportLinux</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a227610</div>
-                                        <div class="message">Changed for loops to loop a set of booleans to make the logic more clear.
-Using original file name to retrieve FileInfo from file system because the casing in file system has not changes.</div>
                                     </div>
                                 </div>
                             </section>
