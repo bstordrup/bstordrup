@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/82140bc8af0439d1628e4e2affe5bba84c83d655)
-2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/9908289bc2d561e5895bb62ba9e34b82bb00ca1a)
-3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/dcf35b600cd71a948522a9f6807cca4ed7984f6a)
-4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/2ddbf03a9c3686bdf5257c38110945d358d1ae56)
-5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a227610fbb3b4da79458e420f210a3748287f192)
-6. 🍴 Forked [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper)
-7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/facca17863316cfa1855400467dda8dc227e01f4)
-8. 🆕 Opened an issue [#8](https://github.com/DinoChiesa/dotnetzip-2025/issues/8) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
-9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/47b03aace40c4c2ff9bb6169f2556a3636182ce4)
-10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a8e902171b61c828b0f824b34b40e91d675e432e)
+1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/95e412b022075307fa42309819b49d356dd7ff72)
+2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/24fbbd7dcd50e7f7e9e528ffb9de9d2f4e42e307)
+3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/82140bc8af0439d1628e4e2affe5bba84c83d655)
+4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/9908289bc2d561e5895bb62ba9e34b82bb00ca1a)
+5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/dcf35b600cd71a948522a9f6807cca4ed7984f6a)
+6. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/2ddbf03a9c3686bdf5257c38110945d358d1ae56)
+7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a227610fbb3b4da79458e420f210a3748287f192)
+8. 🍴 Forked [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper)
+9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/facca17863316cfa1855400467dda8dc227e01f4)
+10. 🆕 Opened an issue [#8](https://github.com/DinoChiesa/dotnetzip-2025/issues/8) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
