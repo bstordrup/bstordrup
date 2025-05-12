@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/23900a89becbdcbd2ea537cc09b71f44face6714)
-2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a6a8940f0e596da108d515290be9e29e7af3a230)
-3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d6616395bbc412e149a10f3e1a47d09bb5360d3)
-4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/7960123d22eca6d56a2364a5234b7fd4558ad147)
-5. 🗣 Commented on a review of a PR in a private repo
-6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/0f5179d6b5398a3542c9f29662a79755a02dd6ae)
-8. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/95e412b022075307fa42309819b49d356dd7ff72)
-9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/24fbbd7dcd50e7f7e9e528ffb9de9d2f4e42e307)
-10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/82140bc8af0439d1628e4e2affe5bba84c83d655)
+1. 🔎 Reviewed a PR in a private repo
+2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/23900a89becbdcbd2ea537cc09b71f44face6714)
+3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a6a8940f0e596da108d515290be9e29e7af3a230)
+4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d6616395bbc412e149a10f3e1a47d09bb5360d3)
+5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/7960123d22eca6d56a2364a5234b7fd4558ad147)
+6. 🗣 Commented on a review of a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/0f5179d6b5398a3542c9f29662a79755a02dd6ae)
+9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/95e412b022075307fa42309819b49d356dd7ff72)
+10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/24fbbd7dcd50e7f7e9e528ffb9de9d2f4e42e307)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
