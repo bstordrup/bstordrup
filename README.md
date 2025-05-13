@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🔎 Reviewed a PR in a private repo
-3. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/23900a89becbdcbd2ea537cc09b71f44face6714)
-4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a6a8940f0e596da108d515290be9e29e7af3a230)
-5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d6616395bbc412e149a10f3e1a47d09bb5360d3)
-6. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/7960123d22eca6d56a2364a5234b7fd4558ad147)
-7. 🗣 Commented on a review of a PR in a private repo
-8. 🔎 Reviewed a PR in a private repo
-9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/0f5179d6b5398a3542c9f29662a79755a02dd6ae)
-10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/95e412b022075307fa42309819b49d356dd7ff72)
+1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d5561a7ca0d4c5c9b39f27c8796dae13a8a5a8a)
+2. 📝 Committed to a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/23900a89becbdcbd2ea537cc09b71f44face6714)
+5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/a6a8940f0e596da108d515290be9e29e7af3a230)
+6. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d6616395bbc412e149a10f3e1a47d09bb5360d3)
+7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/7960123d22eca6d56a2364a5234b7fd4558ad147)
+8. 🗣 Commented on a review of a PR in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/0f5179d6b5398a3542c9f29662a79755a02dd6ae)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
