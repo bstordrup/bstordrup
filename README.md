@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet/commit/b8cec0b165b1f8de97aea297875334937bfc3666)
-2. 📥 Opened [PR #946](https://github.com/CycloneDX/cyclonedx-dotnet/pull/946) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-3. ➕ Created a new branch [`Issue945_UseRelaxedJsonEscaping`](https://github.com/bstordrup/cyclonedx-dotnet/tree/Issue945_UseRelaxedJsonEscaping) in [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet)
-4. 📥 Opened a PR in a private repo
-5. ➕ Created a new branch in a private repo
-6. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879187903)
-7. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879079488)
-8. 🆕 Opened an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/dbae407da84b9312318fee912895ae446cb0c8cb)
+1. 🗣 Commented on an issue in a private repo
+2. 📝 Committed to [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet/commit/b8cec0b165b1f8de97aea297875334937bfc3666)
+3. 📥 Opened [PR #946](https://github.com/CycloneDX/cyclonedx-dotnet/pull/946) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+4. ➕ Created a new branch [`Issue945_UseRelaxedJsonEscaping`](https://github.com/bstordrup/cyclonedx-dotnet/tree/Issue945_UseRelaxedJsonEscaping) in [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet)
+5. 📥 Opened a PR in a private repo
+6. ➕ Created a new branch in a private repo
+7. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879187903)
+8. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879079488)
+9. 🆕 Opened an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
