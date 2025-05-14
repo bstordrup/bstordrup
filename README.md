@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. ➕ Created a new branch in a private repo
-3. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879187903)
-4. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879079488)
-5. 🆕 Opened an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/dbae407da84b9312318fee912895ae446cb0c8cb)
-8. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/4ed4ea7d3b52ff34ea873fd951045f1923d0a6f0)
-9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/96a0440cf65a1284ee87d7603e4b92291e035fde)
+1. ➕ Created a new branch [`Issue945_UseRelaxedJsonEscaping`](https://github.com/bstordrup/cyclonedx-dotnet/tree/Issue945_UseRelaxedJsonEscaping) in [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet)
+2. 📥 Opened a PR in a private repo
+3. ➕ Created a new branch in a private repo
+4. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879187903)
+5. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2879079488)
+6. 🆕 Opened an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+7. 🔎 Reviewed a PR in a private repo
+8. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/dbae407da84b9312318fee912895ae446cb0c8cb)
+9. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/4ed4ea7d3b52ff34ea873fd951045f1923d0a6f0)
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
