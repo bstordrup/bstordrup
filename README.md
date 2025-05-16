@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🔎 Reviewed a PR in a private repo
-2. 🗣 Commented on a review of a PR in a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 🗣 Commented on a review of a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on an issue in a private repo
-7. 📝 Committed to [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet/commit/b8cec0b165b1f8de97aea297875334937bfc3666)
-8. 📥 Opened [PR #946](https://github.com/CycloneDX/cyclonedx-dotnet/pull/946) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-9. ➕ Created a new branch [`Issue945_UseRelaxedJsonEscaping`](https://github.com/bstordrup/cyclonedx-dotnet/tree/Issue945_UseRelaxedJsonEscaping) in [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet)
-10. 📥 Opened a PR in a private repo
+2. 🔎 Reviewed a PR in a private repo
+3. 🗣 Commented on a review of a PR in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 🗣 Commented on a review of a PR in a private repo
+6. 🔎 Reviewed a PR in a private repo
+7. 🗣 Commented on an issue in a private repo
+8. 📝 Committed to [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet/commit/b8cec0b165b1f8de97aea297875334937bfc3666)
+9. 📥 Opened [PR #946](https://github.com/CycloneDX/cyclonedx-dotnet/pull/946) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+10. ➕ Created a new branch [`Issue945_UseRelaxedJsonEscaping`](https://github.com/bstordrup/cyclonedx-dotnet/tree/Issue945_UseRelaxedJsonEscaping) in [bstordrup/cyclonedx-dotnet](https://github.com/bstordrup/cyclonedx-dotnet)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
