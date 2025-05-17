@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
-2. ⭐ Starred [unoplatform/uno](https://github.com/unoplatform/uno)
-3. 🔎 Reviewed a PR in a private repo
+1. ⭐ Starred [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine)
+2. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
+3. ⭐ Starred [unoplatform/uno](https://github.com/unoplatform/uno)
 4. 🔎 Reviewed a PR in a private repo
 5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on a review of a PR in a private repo
-7. 🔎 Reviewed a PR in a private repo
-8. 🗣 Commented on a review of a PR in a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on an issue in a private repo
+6. 🔎 Reviewed a PR in a private repo
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
