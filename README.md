@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [devcontainers/cli](https://github.com/devcontainers/cli)
-2. 🗣 Commented on an issue in a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 🗣 Commented on a review of a PR in a private repo
-5. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d97946b6c159db7fb9a9d577b1b47d22679469b)
-6. ⭐ Starred [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine)
-7. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
-8. ⭐ Starred [unoplatform/uno](https://github.com/unoplatform/uno)
-9. 🔎 Reviewed a PR in a private repo
+1. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2894509158)
+2. 🍴 Forked [devcontainers/cli](https://github.com/devcontainers/cli)
+3. 🗣 Commented on an issue in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. 🗣 Commented on a review of a PR in a private repo
+6. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/3d97946b6c159db7fb9a9d577b1b47d22679469b)
+7. ⭐ Starred [StefanScherer/windows-docker-machine](https://github.com/StefanScherer/windows-docker-machine)
+8. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
+9. ⭐ Starred [unoplatform/uno](https://github.com/unoplatform/uno)
 10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
