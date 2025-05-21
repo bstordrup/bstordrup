@@ -31,13 +31,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">bstordrup/GeoJSONSquareCreator</span>
+                            <span class="diff-handle">bstordrup/Universal3D_Test</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">bstordrup/Universal3D_Test</span>
+                            <span class="diff-handle">bstordrup/PowershellBuildTask</span>
                         </div>
                     </section>
                     <section>
@@ -69,11 +69,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +5.08k</span>
-                                <span class="deleted"> -4.19k</span>
+                                <span class="added"> +7.66k</span>
+                                <span class="deleted">   -346</span>
                             </div>
                             <span> </span>
                         </div>
@@ -84,8 +84,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +7.66k</span>
-                                <span class="deleted">   -346</span>
+                                <span class="added">   +374</span>
+                                <span class="deleted">     -1</span>
                             </div>
                             <span> </span>
                         </div>
@@ -180,8 +180,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L45.091,140.5L112.091,140.5L118.182,140.5L124.273,140.5L282.636,140.5L392.273,140.5L404.455,140.5L410.545,140.5L428.818,140.5L441,140.5L441,140.353L428.818,140.349L410.545,5L404.455,139.692L392.273,134.684L282.636,140.086L124.273,140.06L118.182,136.759L112.091,123.858L45.091,135.465L39,140.427Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L45.091,140.5L112.091,140.5L118.182,140.5L124.273,140.5L282.636,140.5L392.273,140.5L404.455,140.5L410.545,140.5L428.818,140.5L441,140.5L441,140.502L428.818,140.67L410.545,140.618L404.455,140.602L392.273,140.56L282.636,140.501L124.273,140.507L118.182,142.057L112.091,140.916L45.091,140.572L39,140.501Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L45.091,140.5L112.091,140.5L118.182,140.5L124.273,140.5L392.273,140.5L404.455,140.5L410.545,140.5L428.818,140.5L441,140.5L441,140.353L428.818,140.349L410.545,5L404.455,139.692L392.273,134.684L124.273,140.06L118.182,136.759L112.091,123.858L45.091,135.465L39,140.427Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L45.091,140.5L112.091,140.5L118.182,140.5L124.273,140.5L392.273,140.5L404.455,140.5L410.545,140.5L428.818,140.5L441,140.5L441,140.502L428.818,140.67L410.545,140.618L404.455,140.602L392.273,140.56L124.273,140.507L118.182,142.057L112.091,140.916L45.091,140.572L39,140.501Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
