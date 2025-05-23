@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)
-2. ⭐ Starred [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🔎 Reviewed a PR in a private repo
-4. 🗣 Commented on an issue in a private repo
-5. ➕ Created a new branch in a private repo
-6. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2894509158)
-7. 🍴 Forked [devcontainers/cli](https://github.com/devcontainers/cli)
-8. 🗣 Commented on an issue in a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on a review of a PR in a private repo
+1. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
+2. ⭐ Starred [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel)
+3. ⭐ Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🔎 Reviewed a PR in a private repo
+5. 🗣 Commented on an issue in a private repo
+6. ➕ Created a new branch in a private repo
+7. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-2894509158)
+8. 🍴 Forked [devcontainers/cli](https://github.com/devcontainers/cli)
+9. 🗣 Commented on an issue in a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
