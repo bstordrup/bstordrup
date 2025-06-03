@@ -37,8 +37,8 @@ I have been working with software development since I was hired in a Danish comp
 2. 🔎 Reviewed a PR in a private repo
 3. 🗣 Commented on a review of a PR in a private repo
 4. 🔎 Reviewed a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on a review of a PR in a private repo
+5. 🗣 Commented on a review of a PR in a private repo
+6. 🔎 Reviewed a PR in a private repo
 7. 🗣 Commented on a review of a PR in a private repo
 8. 🔎 Reviewed a PR in a private repo
 9. 🗣 Commented on a review of a PR in a private repo
