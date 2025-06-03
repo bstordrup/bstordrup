@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/edit](https://github.com/microsoft/edit)
-2. 🗣 Commented on a review of a PR in a private repo
+1. 🗣 Commented on a review of a PR in a private repo
+2. 🔎 Reviewed a PR in a private repo
 3. 🗣 Commented on a review of a PR in a private repo
 4. 🔎 Reviewed a PR in a private repo
 5. 🔎 Reviewed a PR in a private repo
-6. 🗑️ Deleted a branch in a private repo
-7. 📝 Committed to a private repo
-8. 🔀 Merged a PR in a private repo
-9. 🗣 Commented on an issue in a private repo
-10. ❌ Closed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
