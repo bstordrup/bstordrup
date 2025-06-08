@@ -33,10 +33,10 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#11](https://github.com/DinoChiesa/dotnetzip-2025/issues/11) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
-2. 🆕 Opened an issue [#10](https://github.com/DinoChiesa/dotnetzip-2025/issues/10) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
-3. 🔎 Reviewed a PR in a private repo
-4. 🗣 Commented on a review of a PR in a private repo
+1. 🆕 Opened an issue [#2763](https://github.com/dotnet/BenchmarkDotNet/issues/2763) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+2. 📝 Committed to [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/9da44973da1443353815fd97ab4a84346a518c2a)
+3. 🆕 Opened an issue [#11](https://github.com/DinoChiesa/dotnetzip-2025/issues/11) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
+4. 🆕 Opened an issue [#10](https://github.com/DinoChiesa/dotnetzip-2025/issues/10) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
 5. 🔎 Reviewed a PR in a private repo
 6. 🗣 Commented on a review of a PR in a private repo
 7. 🔎 Reviewed a PR in a private repo
