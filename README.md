@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/53636cd583c94697038691aa736323c1f4aa53a4)
-2. 🆕 Opened an issue [#12](https://github.com/DinoChiesa/dotnetzip-2025/issues/12) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
-3. ➕ Created a new branch in a private repo
-4. 🎉 Created a new private repository
-5. 📥 Opened [PR #2764](https://github.com/dotnet/BenchmarkDotNet/pull/2764) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-6. ➕ Created a new branch [`Issut2763_SupportSlnxFile`](https://github.com/bstordrup/BenchmarkDotNet/tree/Issut2763_SupportSlnxFile) in [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet)
-7. 🆕 Opened an issue [#2763](https://github.com/dotnet/BenchmarkDotNet/issues/2763) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-8. 📝 Committed to [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/9da44973da1443353815fd97ab4a84346a518c2a)
-9. 🆕 Opened an issue [#11](https://github.com/DinoChiesa/dotnetzip-2025/issues/11) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
-10. 🆕 Opened an issue [#10](https://github.com/DinoChiesa/dotnetzip-2025/issues/10) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
+1. 🗑️ Deleted a branch `Issut2763_SupportSlnxFile` in [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet)
+2. 📝 Committed to [bstordrup/dotnetzip-2025](https://github.com/bstordrup/dotnetzip-2025/commit/53636cd583c94697038691aa736323c1f4aa53a4)
+3. 🆕 Opened an issue [#12](https://github.com/DinoChiesa/dotnetzip-2025/issues/12) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
+4. ➕ Created a new branch in a private repo
+5. 🎉 Created a new private repository
+6. 📥 Opened [PR #2764](https://github.com/dotnet/BenchmarkDotNet/pull/2764) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+7. ➕ Created a new branch [`Issut2763_SupportSlnxFile`](https://github.com/bstordrup/BenchmarkDotNet/tree/Issut2763_SupportSlnxFile) in [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet)
+8. 🆕 Opened an issue [#2763](https://github.com/dotnet/BenchmarkDotNet/issues/2763) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+9. 📝 Committed to [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/9da44973da1443353815fd97ab4a84346a518c2a)
+10. 🆕 Opened an issue [#11](https://github.com/DinoChiesa/dotnetzip-2025/issues/11) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
