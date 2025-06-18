@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
-2. 🔎 Reviewed a PR in a private repo
-3. 🔎 Reviewed a PR in a private repo
-4. 🍴 Forked [okieselbach/Intune](https://github.com/okieselbach/Intune)
-5. 🗣 Commented on a review of a PR in a private repo
-6. 🔎 Reviewed a PR in a private repo
-7. 🗣 Commented on a review of a PR in a private repo
+1. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981589480)
+2. 🗣 Commented on issue [#385](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385#issuecomment-2981588160)
+3. 📝 Committed to [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library/commit/e1bfff79238b1e6d2d54ac823480138216316a74)
+4. 📥 Opened [PR #385](https://github.com/CycloneDX/cyclonedx-dotnet-library/pull/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+5. ➕ Created a new branch [`Issue384_FixNonBasicLatinEncoding`](https://github.com/bstordrup/cyclonedx-dotnet-library/tree/Issue384_FixNonBasicLatinEncoding) in [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library)
+6. 🆕 Opened an issue [#384](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/384) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+7. 🍴 Forked [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
 8. 🔎 Reviewed a PR in a private repo
-9. 🗣 Commented on a review of a PR in a private repo
-10. 🔎 Reviewed a PR in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. 🍴 Forked [okieselbach/Intune](https://github.com/okieselbach/Intune)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
