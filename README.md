@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-2981605307)
-2. ❌ Closed an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-3. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981591723)
-4. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981589480)
-5. 🗣 Commented on issue [#385](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385#issuecomment-2981588160)
-6. 📝 Committed to [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library/commit/e1bfff79238b1e6d2d54ac823480138216316a74)
-7. 📥 Opened [PR #385](https://github.com/CycloneDX/cyclonedx-dotnet-library/pull/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
-8. ➕ Created a new branch [`Issue384_FixNonBasicLatinEncoding`](https://github.com/bstordrup/cyclonedx-dotnet-library/tree/Issue384_FixNonBasicLatinEncoding) in [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library)
-9. 🆕 Opened an issue [#384](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/384) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
-10. 🍴 Forked [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+1. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2bc4bb6c2a797b66188aacff2f04e37f7a7131f6)
+2. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-2981605307)
+3. ❌ Closed an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+4. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981591723)
+5. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981589480)
+6. 🗣 Commented on issue [#385](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/385#issuecomment-2981588160)
+7. 📝 Committed to [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library/commit/e1bfff79238b1e6d2d54ac823480138216316a74)
+8. 📥 Opened [PR #385](https://github.com/CycloneDX/cyclonedx-dotnet-library/pull/385) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+9. ➕ Created a new branch [`Issue384_FixNonBasicLatinEncoding`](https://github.com/bstordrup/cyclonedx-dotnet-library/tree/Issue384_FixNonBasicLatinEncoding) in [bstordrup/cyclonedx-dotnet-library](https://github.com/bstordrup/cyclonedx-dotnet-library)
+10. 🆕 Opened an issue [#384](https://github.com/CycloneDX/cyclonedx-dotnet-library/issues/384) in [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
