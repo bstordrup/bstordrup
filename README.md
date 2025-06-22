@@ -79,6 +79,7 @@ Credits goes to:
 ![Streak](https://github-readme-streak-stats-iw4v.vercel.app?user=bstordrup&theme=transparent&hide_border=true)  
 ![](https://github-readme-stats-woad-eight-55.vercel.app/api/top-langs/?username=bstordrup&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
+Change to trigger a diff in Github
 
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
