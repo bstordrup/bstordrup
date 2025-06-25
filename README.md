@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue in a private repo
+1. ➕ Created a new branch in a private repo
 2. 🆕 Opened an issue in a private repo
-3. 🗣 Commented on issue [#12](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12#issuecomment-3001587026)
-4. 📝 Committed to a private repo
+3. 🆕 Opened an issue in a private repo
+4. 🗣 Commented on issue [#12](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12#issuecomment-3001587026)
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3001386138)
-8. 🔎 Reviewed a PR in a private repo
+7. 📝 Committed to a private repo
+8. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3001386138)
 9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/4eb06603ca88170fb15fc3f3e74d2af518b2ec5f)
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
