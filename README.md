@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3001386138)
-3. 🔎 Reviewed a PR in a private repo
-4. 🔎 Reviewed a PR in a private repo
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/4eb06603ca88170fb15fc3f3e74d2af518b2ec5f)
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3001386138)
+5. 🔎 Reviewed a PR in a private repo
 6. 🔎 Reviewed a PR in a private repo
-7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c7d4c1de594fef33e511050be163a202f6778d16)
-8. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2bc4bb6c2a797b66188aacff2f04e37f7a7131f6)
-9. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-2981605307)
-10. ❌ Closed an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/4eb06603ca88170fb15fc3f3e74d2af518b2ec5f)
+8. 🔎 Reviewed a PR in a private repo
+9. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c7d4c1de594fef33e511050be163a202f6778d16)
+10. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2bc4bb6c2a797b66188aacff2f04e37f7a7131f6)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
