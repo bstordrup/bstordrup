@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
+1. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3001386138)
 2. 🔎 Reviewed a PR in a private repo
-3. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/4eb06603ca88170fb15fc3f3e74d2af518b2ec5f)
-4. 🔎 Reviewed a PR in a private repo
-5. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c7d4c1de594fef33e511050be163a202f6778d16)
-6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2bc4bb6c2a797b66188aacff2f04e37f7a7131f6)
-7. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-2981605307)
-8. ❌ Closed an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-9. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981591723)
-10. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981589480)
+3. 🔎 Reviewed a PR in a private repo
+4. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/4eb06603ca88170fb15fc3f3e74d2af518b2ec5f)
+5. 🔎 Reviewed a PR in a private repo
+6. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/c7d4c1de594fef33e511050be163a202f6778d16)
+7. 📝 Committed to [bstordrup/bstordrup](https://github.com/bstordrup/bstordrup/commit/2bc4bb6c2a797b66188aacff2f04e37f7a7131f6)
+8. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-2981605307)
+9. ❌ Closed an issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+10. 🗣 Commented on issue [#945](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945) in [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet): [View Comment](https://github.com/CycloneDX/cyclonedx-dotnet/issues/945#issuecomment-2981591723)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
