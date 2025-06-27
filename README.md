@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)
-2. ⭐ Starred [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
-3. ⭐ Starred [anypackage/anypackage](https://github.com/anypackage/anypackage)
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📥 Opened a PR in a private repo
-7. ➕ Created a new branch in a private repo
-8. 🆕 Opened an issue in a private repo
-9. 🆕 Opened an issue in a private repo
-10. 🗣 Commented on issue [#12](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12) in [peteraritchie/ConsoleApplicationBuilder](https://github.com/peteraritchie/ConsoleApplicationBuilder): [View Comment](https://github.com/peteraritchie/ConsoleApplicationBuilder/issues/12#issuecomment-3001587026)
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch in a private repo
+3. ⭐ Starred [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)
+4. ⭐ Starred [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
+5. ⭐ Starred [anypackage/anypackage](https://github.com/anypackage/anypackage)
+6. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. 📥 Opened a PR in a private repo
+9. ➕ Created a new branch in a private repo
+10. 🆕 Opened an issue in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
