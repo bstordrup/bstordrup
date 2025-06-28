@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="611" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="961" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,297 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">bstordrup/BenchmarkDotNet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b6de725</div>
+                                        <div class="message">Lowercase programName in NativeMemoryLogParser.cs (#2795)
+
+Co-authored-by: mriehm &lt;mriehm@epic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#799ecfc</div>
+                                        <div class="message">fix: Console logs are outputted twice when using TestAdapter (#2790)
+
+* chore: fix issue that console logs are outputted twice when using testadapter
+
+* chore: fix code that are pointed out by code review</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8390f8</div>
+                                        <div class="message">chore: enable assembly signing for debug build (#2774)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d4210d</div>
+                                        <div class="message">Fix "Unknown Processor" on Windows if WMIC is not present (#2749)
+
+* allow MosCpuDetector to run on .NET 5+
+
+* Revert "allow MosCpuDetector to run on .NET 5+"
+
+This reverts commit 495855a002ddee957993525ec933fe2ab9dcee63.
+
+* add WmiLightCpu Detector
+
+* Fix WmicCpuDetector being chosen if not available
+
+* enable NativeAOT
+
+* simplify IsApplicable
+
+* Update spacing of SupportedOsPlatform attribute
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* Revert "Fix WmicCpuDetector being chosen if not available"
+
+This reverts commit 5972f77faf4673f38195d16865f334afc44bd986.
+
+* add WMIC deprecation remarks
+
+* remove WmiLight code
+
+* update WmiCpuInfoParser to return null if Processor Name isn't detected
+
+* remove WmiLightCpuDetector reference from WindowsCpuDetector
+
+* Update WmicCpuInfoParser.cs
+
+* check if wmicOutput is null or empty instead
+
+* add PowershellWmiCpuDetector (parser still not complete)
+
+* return null if there's no version of powershell installed
+
+* fix Powershell 7+ check
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* rework search statement given that regex isn't supported
+
+* add parser code
+
+* add PowershellWmiCpuDetector to WindowsCpuDetector
+
+* rename variable to lower case
+
+* improve checking of latest powershell 7+ version
+
+* use explicit typing
+
+* fix frequency addition issue
+
+* revert to how WMIC parser handles processor frequency
+
+* add string is null or empty check to WmiCpuDetector
+
+* invoke Powershell as "PowerShell" if the file isn't found
+
+* add nominal Frequency detection and improve max frequency detection
+
+* fix issue with detecting latest Powershell
+
+* update comment
+
+* Update PowershellWmiCpuDetector.cs
+
+* refactor Powershell locating code to PowershellLocator
+
+* simplify frequency checks
+
+* Create PowershellWmiParserTests.cs
+
+* fix null being returned when object is expected.
+
+* rename test
+
+* simplify max frequency check
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* use """ for string in parser test
+
+* Update PowershellWmiCpuInfoParserTests.cs
+
+* reduce indentation with """
+
+* remove unnecessary test info
+
+* move string null check to caller
+
+* add nominal frequency support for MosCpuDetector
+
+* Update src/BenchmarkDotNet/Detectors/Cpu/Windows/PowershellWmiCpuDetector.cs
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* remove nullability of parser
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* check if tempMaxFrequency &gt; 0 before assignment
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* remove nullability of WmicCpuInfoParser
+
+* use file scoped namespace
+
+* use double instead of int
+
+* add null check to LinuxCpuDetector
+
+* change nullability of LinuxCpuParser
+
+* update LinuxCpuInfoParser nominal and max frequency detection
+
+* Update LinuxCpuInfoParser.cs
+
+* fix nullability check
+
+* simplify nominal frequency comparison
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* add null check to macOS
+
+* don't accept null string from detector
+
+* fix LinuxCpuInfo parser test issues and improve robustness of Linux Cpu checks
+
+* fix Powershell Wmi Parser parsing issues
+
+* fix .net framework cpu parsing issue
+
+* do implicit conversion to double from uint
+
+---------
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffce52e</div>
+                                        <div class="message">Set next BenchmarkDotNet version: 0.15.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2306bab</div>
+                                        <div class="message">[build] Enable --force-clone for docs-fetch in generate-gh-pages.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#973f6b9</div>
+                                        <div class="message">[build] Allow workflow_dispatch for publish-nightly workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f1dcd8</div>
+                                        <div class="message">chore: skip null runtime validation for inprocess toolchain (#2780)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27d864a</div>
+                                        <div class="message">chore: fix flaky memory allocation test (#2782)
+
+Update MemoryDiagnoserTests.cs
+
+t</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5db7284</div>
+                                        <div class="message">fix: auto-generate jobid between benchmark runs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed5316b</div>
+                                        <div class="message">feat: Add validator for benchmarks that contains null runtime (#2771)
+
+* feat: add validator for job that contains null runtime
+
+* chore: update validator logics
+
+* Update src/BenchmarkDotNet/Validators/RuntimeValidator.cs
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;
+
+* chore: fix test validation messages
+
+---------
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de8ba07</div>
+                                        <div class="message">chore: suppress xunit non-serializable data warnings (#2769)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a08f01c</div>
+                                        <div class="message">chore: Modify macos runner image for CI (#2775)
+
+* chore: modify runner image for macos
+
+* chore: fix workflow name and artifact name
+
+* Update .github/workflows/run-tests.yaml
+
+---------
+
+Co-authored-by: Tim Cassell &lt;cassell.timothy@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6730bf1</div>
+                                        <div class="message">feat: add JobOrderPolicy option to sort jobs numeric order (#2770)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe3b31f</div>
+                                        <div class="message">chore: add setting to skip test reports when original workflow is cancelled (#2772)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c84de9a</div>
+                                        <div class="message">Improve memory diagnoser accuracy (#2562)
+
+* ﻿Added `AggressiveOptimization` to methods involved in measuring allocations.
+Warm up allocation measurement before taking actual measurement.
+Isolated allocation measurement.
+Changed some `RuntimeInformation` properties to static readonly fields.
+Removed enable monitoring in Engine (GcStats handles it).
+Removed `GC.Collect()` from allocation measurement.
+Sleep thread to account for tiered jit in Core runtimes 3.0 to 6.0.
+Updated MemoryDiagnoserTests.
+Block finalizer thread during memory tests.
+Disabled EventSource for integration tests.
+
+* Use Monitor.Wait instead of ManualResetEventSlim.
+
+* Swap IsWasm and IsNativeAOT declaration order.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9548fa</div>
+                                        <div class="message">chore: fix benchmark testadapter related issues (#2766)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3df0f1b</div>
+                                        <div class="message">Remove docs/_changelog folder from the main branch
+
+These files were extracted to docs-changelog branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2002601</div>
+                                        <div class="message">[build] Enhance docs-fetch command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19e9071</div>
+                                        <div class="message">Set next BenchmarkDotNet version: 0.15.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -241,19 +532,6 @@ Enable ControlFlowGuard on the NativeAOT test</div>
                                     <div class="content">
                                         Starred
                                         <span class="repo">beto-rodriguez/LiveCharts2</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">timschneeb/GalaxyBudsClient</span>
                                     </div>
                                 </div>
                             </section>
