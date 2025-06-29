@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📝 Committed to [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/19e907194e462edc648091ef3c2bb218d6831727)
-3. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📥 Opened a PR in a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. ➕ Created a new branch in a private repo
-7. ⭐ Starred [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)
-8. ⭐ Starred [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
-9. ⭐ Starred [anypackage/anypackage](https://github.com/anypackage/anypackage)
-10. 📝 Committed to a private repo
+6. 📝 Committed to [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/19e907194e462edc648091ef3c2bb218d6831727)
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
