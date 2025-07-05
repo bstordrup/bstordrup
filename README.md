@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🗑️ Deleted a branch in a private repo
-3. 🔀 Merged a PR in a private repo
-4. 📥 Opened a PR in a private repo
-5. ➕ Created a new branch in a private repo
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
-8. 📝 Committed to a private repo
-9. ❌ Closed an issue in a private repo
-10. 🔀 Merged a PR in a private repo
+1. ⭐ Starred [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
+2. 📝 Committed to a private repo
+3. 🗑️ Deleted a branch in a private repo
+4. 🔀 Merged a PR in a private repo
+5. 📥 Opened a PR in a private repo
+6. ➕ Created a new branch in a private repo
+7. 📝 Committed to a private repo
+8. 🗑️ Deleted a branch in a private repo
+9. 📝 Committed to a private repo
+10. ❌ Closed an issue in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
