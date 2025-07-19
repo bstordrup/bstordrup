@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
-2. ⭐ Starred [pardeike/Harmony](https://github.com/pardeike/Harmony)
-3. ⭐ Starred [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
-4. 📝 Committed to a private repo
-5. 🗑️ Deleted a branch in a private repo
-6. 🔀 Merged a PR in a private repo
-7. 📥 Opened a PR in a private repo
-8. ➕ Created a new branch in a private repo
-9. 📝 Committed to a private repo
-10. 🗑️ Deleted a branch in a private repo
+1. ⭐ Starred [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
+2. ⭐ Starred [greenshot/greenshot](https://github.com/greenshot/greenshot)
+3. ⭐ Starred [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
+4. ⭐ Starred [pardeike/Harmony](https://github.com/pardeike/Harmony)
+5. ⭐ Starred [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
+6. 📝 Committed to a private repo
+7. 🗑️ Deleted a branch in a private repo
+8. 🔀 Merged a PR in a private repo
+9. 📥 Opened a PR in a private repo
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
