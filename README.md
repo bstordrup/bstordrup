@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
-2. ⭐ Starred [greenshot/greenshot](https://github.com/greenshot/greenshot)
-3. ⭐ Starred [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
-4. ⭐ Starred [pardeike/Harmony](https://github.com/pardeike/Harmony)
-5. ⭐ Starred [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
-8. 🔀 Merged a PR in a private repo
-9. 📥 Opened a PR in a private repo
-10. ➕ Created a new branch in a private repo
+1. ⭐ Starred [wixtoolset/wix](https://github.com/wixtoolset/wix)
+2. ⭐ Starred [abpframework/abp](https://github.com/abpframework/abp)
+3. ⭐ Starred [jscarle/LightResults](https://github.com/jscarle/LightResults)
+4. 🔎 Reviewed a PR in a private repo
+5. ⭐ Starred [repohistory/repohistory](https://github.com/repohistory/repohistory)
+6. ⭐ Starred [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
+7. ⭐ Starred [greenshot/greenshot](https://github.com/greenshot/greenshot)
+8. ⭐ Starred [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
+9. ⭐ Starred [pardeike/Harmony](https://github.com/pardeike/Harmony)
+10. ⭐ Starred [PowerShell/PowerShellGallery](https://github.com/PowerShell/PowerShellGallery)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
