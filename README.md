@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. ➕ Created a new branch in a private repo
-3. ⭐ Starred [wixtoolset/wix](https://github.com/wixtoolset/wix)
-4. ⭐ Starred [abpframework/abp](https://github.com/abpframework/abp)
-5. ⭐ Starred [jscarle/LightResults](https://github.com/jscarle/LightResults)
-6. 🔎 Reviewed a PR in a private repo
-7. ⭐ Starred [repohistory/repohistory](https://github.com/repohistory/repohistory)
-8. ⭐ Starred [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
-9. ⭐ Starred [greenshot/greenshot](https://github.com/greenshot/greenshot)
-10. ⭐ Starred [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
+1. 🗑️ Deleted a branch in a private repo
+2. ❌ Closed a PR in a private repo
+3. 📥 Opened a PR in a private repo
+4. ➕ Created a new branch in a private repo
+5. ⭐ Starred [wixtoolset/wix](https://github.com/wixtoolset/wix)
+6. ⭐ Starred [abpframework/abp](https://github.com/abpframework/abp)
+7. ⭐ Starred [jscarle/LightResults](https://github.com/jscarle/LightResults)
+8. 🔎 Reviewed a PR in a private repo
+9. ⭐ Starred [repohistory/repohistory](https://github.com/repohistory/repohistory)
+10. ⭐ Starred [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
