@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,204 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">bstordrup/cyclonedx-dotnet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed66908</div>
+                                        <div class="message">chore: version to 5.4.0
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66e7ad7</div>
+                                        <div class="message">feat: support for solution filter (.slnf) (#853) 
+
+* add support for solution filter file (#853)
+
+Signed-off-by: Michael Hauer &lt;10424767+michha@users.noreply.github.com&gt;
+
+* fix code analysis issues
+
+Signed-off-by: Michael Hauer &lt;10424767+michha@users.noreply.github.com&gt;
+
+* fix tests for Linux-FS
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;
+
+---------
+
+Signed-off-by: Michael Hauer &lt;10424767+michha@users.noreply.github.com&gt;
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;
+Co-authored-by: Hauer Michael (LAD1-IT) &lt;michael.hauer@noel.gv.at&gt;
+Co-authored-by: Michael Hauer &lt;10424767+michha@users.noreply.github.com&gt;
+Co-authored-by: MTsfoni &lt;mibau89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc4cb45</div>
+                                        <div class="message">docs: created an Incident Response Plan (#962)
+
+* docs: created an Incident Response Plan
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;
+
+* docs: small format improvements to incident response plan
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;
+
+* docs: small format improvements to incident response plan
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;
+
+---------
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0cfa12</div>
+                                        <div class="message">chore: version to 5.3.2
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfae239</div>
+                                        <div class="message">performance: first check if assetsfile exists with its regular name of before using `dotnet build` to retrieve its name (#960)
+
+* performance: first check regular name of assetsfile before using dotnet msbuild to retrieve it from
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f2f569</div>
+                                        <div class="message">docs: fix README typo (#955)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce84d7f</div>
+                                        <div class="message">docs: improve README wording (#956)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55a9320</div>
+                                        <div class="message">Update README.md
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f05cf42</div>
+                                        <div class="message">chore: version to 5.3.1
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ebcc88</div>
+                                        <div class="message">fix(release): update permissions to allow write access for contents</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbb5a02</div>
+                                        <div class="message">chore: version to 5.3.0
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1c134c</div>
+                                        <div class="message">feat: Add `--output-format` parameter
+
+&gt; Introduced relaxed JSON escaping (`UnsafeJson`) in CycloneDX,
+&gt; adding a new `OutputFileFormat` enum to specify output formats.
+&gt; Enhanced logic for output format and filename resolution,
+&gt; deprecating the legacy `--json` flag in favor of `--output-format`.
+&gt; Updated functional tests to validate new features and ensure
+&gt; backward compatibility. Refactored code for readability and
+&gt; updated dependencies to `CycloneDX.Core` v9.0.2."
+
+---------
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87ef503</div>
+                                        <div class="message">feat(analyzer): support resolving project.assets.json via MSBuild property (#952)
+
+Adds support for determining the location of project.assets.json using
+dotnet msbuild -getProperty:ProjectAssetsFile, enabling compatibility
+with SDK-style projects that use custom intermediate output paths such as
+UseArtifactsOutput or ArtifactsPath.
+
+Falls back to legacy path logic when the resolved file is unavailable or
+the project is not SDK-style (e.g., .NET Framework).
+
+Closes #699.
+
+Signed-off-by: MTsfoni &lt;mibau89@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15f7f60</div>
+                                        <div class="message">build(deps): bump actions/setup-dotnet from 3.0.3 to 4.3.1 (#937)
+
+Bumps [actions/setup-dotnet](https://github.com/actions/setup-dotnet) from 3.0.3 to 4.3.1.
+- [Release notes](https://github.com/actions/setup-dotnet/releases)
+- [Commits](https://github.com/actions/setup-dotnet/compare/v3.0.3...v4.3.1)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-dotnet
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccc14a5</div>
+                                        <div class="message">build(deps): bump actions/checkout from 4.1.2 to 4.2.2 (#927)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4.1.2 to 4.2.2.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v4.1.2...v4.2.2)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6857fbf</div>
+                                        <div class="message">Fix for code scanning alerts: Workflow does not contain permissions (#951)
+
+* chore: add permissions for workflows
+
+Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-security[bot]@users.noreply.github.com&gt;
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;
+
+* Potential fix for code scanning alert no. 3: Workflow does not contain permissions
+
+Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-security[bot]@users.noreply.github.com&gt;
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: Michael Tsfoni &lt;80639729+mtsfoni@users.noreply.github.com&gt;
+Co-authored-by: Copilot Autofix powered by AI &lt;62310815+github-advanced-security[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -96,26 +294,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#dca30fc</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a46c752</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
