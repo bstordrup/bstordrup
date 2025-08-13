@@ -33,12 +33,12 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 🎉 Created a new private repository
+1. 🗑️ Deleted a branch in a private repo
+2. 📝 Committed to a private repo
 3. ➕ Created a new branch in a private repo
-4. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/e0b14e9589c453ad4a4daeddb853eb652abd05ac)
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
+4. 🎉 Created a new private repository
+5. ➕ Created a new branch in a private repo
+6. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/e0b14e9589c453ad4a4daeddb853eb652abd05ac)
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
