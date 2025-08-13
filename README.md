@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 📥 Opened a PR in a private repo
 2. 📝 Committed to a private repo
-3. 🗑️ Deleted a branch in a private repo
+3. ➕ Created a new branch in a private repo
 4. 📝 Committed to a private repo
-5. ➕ Created a new branch in a private repo
-6. 🎉 Created a new private repository
-7. ➕ Created a new branch in a private repo
-8. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/e0b14e9589c453ad4a4daeddb853eb652abd05ac)
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 🗑️ Deleted a branch in a private repo
+7. 📝 Committed to a private repo
+8. ➕ Created a new branch in a private repo
+9. 🎉 Created a new private repository
+10. ➕ Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
