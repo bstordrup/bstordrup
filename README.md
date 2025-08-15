@@ -35,14 +35,14 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/48d6bffd5a8066887b98fe2f26c1d847b7020076)
-4. 🔎 Reviewed a PR in a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. ➕ Created a new branch in a private repo
-7. 📝 Committed to a private repo
-8. 🗑️ Deleted a branch in a private repo
-9. 🔀 Merged a PR in a private repo
-10. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/48d6bffd5a8066887b98fe2f26c1d847b7020076)
+6. 🔎 Reviewed a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. ➕ Created a new branch in a private repo
+9. 📝 Committed to a private repo
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
