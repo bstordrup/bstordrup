@@ -39,9 +39,9 @@ I have been working with software development since I was hired in a Danish comp
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3201927046)
+7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
+9. 🗣 Commented on issue [#13](https://github.com/DinoChiesa/dotnetzip-2025/issues/13) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/13#issuecomment-3201927046)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
