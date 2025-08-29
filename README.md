@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📥 Opened a PR in a private repo
-3. ➕ Created a new branch in a private repo
-4. 🗑️ Deleted a branch in a private repo
+1. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/9f6a01525ae89197b113d5f39a188947ca79101a)
+2. 🗑️ Deleted a branch in a private repo
+3. 📝 Committed to a private repo
+4. 🔀 Merged a PR in a private repo
 5. 📝 Committed to a private repo
-6. 🔀 Merged a PR in a private repo
-7. 📥 Opened a PR in a private repo
-8. 🍴 Forked [bstollnitz/old-wpf-blog](https://github.com/bstollnitz/old-wpf-blog)
-9. ⭐ Starred [bstollnitz/old-wpf-blog](https://github.com/bstollnitz/old-wpf-blog)
-10. 📝 Committed to a private repo
+6. 📥 Opened a PR in a private repo
+7. ➕ Created a new branch in a private repo
+8. 🗑️ Deleted a branch in a private repo
+9. 📝 Committed to a private repo
+10. 🔀 Merged a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
