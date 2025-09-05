@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="668" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="669" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#33580 Can't install tool with version containing a capital letter on Linux</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by svick in <span class="repo">dotnet/sdk</span></div>
+                                    <div class="comment">
+                                        @Forgind, I know it is a late comment, but what is the actual path in the file system that it throws the exception on? If the
+                                        <code>Capital</code>
+                                        part of the filename is generated in the file system with the exact content of
+                                        <code>VersionSuffix</code>
+                                        tag, then the filename would be
+                                        <code>microsoft.botsay.2.1.8-Capital.nupkg</code>
+                                        .
+Searching for the filename
+                                        <code>microsoft.botsay.2.1.8-capital.nupkg</code>
+                                        will then fail because Linux file system is case sensitive.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -397,23 +425,6 @@ https://github.com/dotnet/runtime/commit/d4f8b8845b7bd03b307e6fdf0e4afa465a7d8b3
                                         <div class="sha">#df5f069</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5868 Update danish</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bstordrup in <span class="repo">Zettlr/Zettlr</span></div>
-                                    <div class="comment">@nathanlesage, Found and fixed the issue. An ending quote was missing on line 931.</div>
                                 </div>
                             </section>
                         </div>
