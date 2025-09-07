@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#38172](https://github.com/dotnet/sdk/issues/38172) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/38172#issuecomment-3255130422)
-2. 🗣 Commented on issue [#33580](https://github.com/dotnet/sdk/issues/33580) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/33580#issuecomment-3254966565)
-3. 🍴 Forked [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp)
-4. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3240956854)
-5. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/60ebb089c535c09a1ecc71bb025242b0ba7e6fad)
-6. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3237524187)
-7. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/ea1f4d07bf044e7fba356a0d4982802d4612b8b2)
-8. 📥 Opened [PR #5868](https://github.com/Zettlr/Zettlr/pull/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
-9. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/9f6a01525ae89197b113d5f39a188947ca79101a)
-10. 🗑️ Deleted a branch in a private repo
+1. 🍴 Forked [ghisler/WLX-SDK](https://github.com/ghisler/WLX-SDK)
+2. 🗣 Commented on issue [#38172](https://github.com/dotnet/sdk/issues/38172) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/38172#issuecomment-3255130422)
+3. 🗣 Commented on issue [#33580](https://github.com/dotnet/sdk/issues/33580) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/33580#issuecomment-3254966565)
+4. 🍴 Forked [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp)
+5. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3240956854)
+6. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/60ebb089c535c09a1ecc71bb025242b0ba7e6fad)
+7. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3237524187)
+8. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/ea1f4d07bf044e7fba356a0d4982802d4612b8b2)
+9. 📥 Opened [PR #5868](https://github.com/Zettlr/Zettlr/pull/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
+10. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/9f6a01525ae89197b113d5f39a188947ca79101a)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
