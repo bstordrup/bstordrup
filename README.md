@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch in a private repo
-2. 🎉 Created a new private repository
-3. 🍴 Forked [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)
-4. 🍴 Forked [ghisler/WLX-SDK](https://github.com/ghisler/WLX-SDK)
-5. 🗣 Commented on issue [#38172](https://github.com/dotnet/sdk/issues/38172) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/38172#issuecomment-3255130422)
-6. 🗣 Commented on issue [#33580](https://github.com/dotnet/sdk/issues/33580) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/33580#issuecomment-3254966565)
-7. 🍴 Forked [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp)
-8. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3240956854)
-9. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/60ebb089c535c09a1ecc71bb025242b0ba7e6fad)
-10. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3237524187)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. ➕ Created a new branch in a private repo
+4. 🎉 Created a new private repository
+5. 🍴 Forked [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)
+6. 🍴 Forked [ghisler/WLX-SDK](https://github.com/ghisler/WLX-SDK)
+7. 🗣 Commented on issue [#38172](https://github.com/dotnet/sdk/issues/38172) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/38172#issuecomment-3255130422)
+8. 🗣 Commented on issue [#33580](https://github.com/dotnet/sdk/issues/33580) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/33580#issuecomment-3254966565)
+9. 🍴 Forked [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp)
+10. 🗣 Commented on issue [#5868](https://github.com/Zettlr/Zettlr/issues/5868) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): [View Comment](https://github.com/Zettlr/Zettlr/issues/5868#issuecomment-3240956854)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
