@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/5cd29dd7fcec5a939b25562526a7c0edf0c76ea0)
-2. 🗑️ Deleted a branch `UpdateDanish` in [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr)
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. ➕ Created a new branch in a private repo
-6. 🎉 Created a new private repository
-7. 🍴 Forked [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)
-8. 🍴 Forked [ghisler/WLX-SDK](https://github.com/ghisler/WLX-SDK)
-9. 🗣 Commented on issue [#38172](https://github.com/dotnet/sdk/issues/38172) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/38172#issuecomment-3255130422)
-10. 🗣 Commented on issue [#33580](https://github.com/dotnet/sdk/issues/33580) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/33580#issuecomment-3254966565)
+1. 📝 Committed to a private repo
+2. 🎉 Created a new private repository
+3. ➕ Created a new branch in a private repo
+4. 📝 Committed to [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr/commit/5cd29dd7fcec5a939b25562526a7c0edf0c76ea0)
+5. 🗑️ Deleted a branch `UpdateDanish` in [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr)
+6. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. ➕ Created a new branch in a private repo
+9. 🎉 Created a new private repository
+10. 🍴 Forked [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
