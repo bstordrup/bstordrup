@@ -35,14 +35,14 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. 🎉 Created a new private repository
-4. ➕ Created a new branch in a private repo
-5. 🗑️ Deleted a branch `UpdateDanish` in [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr)
-6. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 🎉 Created a new private repository
+5. ➕ Created a new branch in a private repo
+6. 🗑️ Deleted a branch `UpdateDanish` in [bstordrup/Zettlr](https://github.com/bstordrup/Zettlr)
 7. 📝 Committed to a private repo
-8. ➕ Created a new branch in a private repo
-9. 🎉 Created a new private repository
-10. 🍴 Forked [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)
+8. 📝 Committed to a private repo
+9. ➕ Created a new branch in a private repo
+10. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
