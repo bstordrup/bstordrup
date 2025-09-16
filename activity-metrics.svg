@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,129 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 192 commits in
+                                        <span class="repo">bstordrup/dotnet_sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cc678ea</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/templating build 20250817.11
+
+Microsoft.TemplateEngine.Abstractions , Microsoft.TemplateEngine.Mocks
+ From Version 9.0.305 -&gt; To Version 9.0.305</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f72040</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/templating build 20250817.10
+
+Microsoft.SourceBuild.Intermediate.templating , Microsoft.TemplateEngine.Abstractions , Microsoft.TemplateEngine.Mocks
+ From Version 9.0.110-servicing.25417.7 -&gt; To Version 9.0.110-servicing.25417.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#092978d</div>
+                                        <div class="message">[release/9.0.1xx] Update dependencies from dotnet/templating (#50320)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e117163</div>
+                                        <div class="message">[release/9.0.3xx] Update dependencies from dotnet/templating (#50319)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abff57c</div>
+                                        <div class="message">[release/9.0.1xx] Update dependencies from dotnet/arcade (#50304)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fbe75d</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/templating build 20250817.7
+
+Microsoft.SourceBuild.Intermediate.templating , Microsoft.TemplateEngine.Abstractions , Microsoft.TemplateEngine.Mocks
+ From Version 9.0.110-servicing.25414.5 -&gt; To Version 9.0.110-servicing.25417.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cb5fd8</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/templating build 20250817.3
+
+Microsoft.TemplateEngine.Abstractions , Microsoft.TemplateEngine.Mocks
+ From Version 9.0.305 -&gt; To Version 9.0.305</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6652eed</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/arcade build 20250815.3
+
+Microsoft.SourceBuild.Intermediate.arcade , Microsoft.DotNet.Arcade.Sdk , Microsoft.DotNet.Build.Tasks.Installers , Microsoft.DotNet.Helix.Sdk , Microsoft.DotNet.SignTool , Microsoft.DotNet.XliffTasks , Microsoft.DotNet.XUnitExtensions
+ From Version 9.0.0-beta.25407.2 -&gt; To Version 9.0.0-beta.25415.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8357c5f</div>
+                                        <div class="message">[release/9.0.1xx] Update dependencies from dotnet/templating (#50281)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9808b79</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/templating build 20250814.5
+
+Microsoft.SourceBuild.Intermediate.templating , Microsoft.TemplateEngine.Abstractions , Microsoft.TemplateEngine.Mocks
+ From Version 9.0.110-servicing.25407.6 -&gt; To Version 9.0.110-servicing.25414.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f3e0a1</div>
+                                        <div class="message">[automated] Merge branch 'release/8.0.4xx' =&gt; 'release/9.0.1xx' (#50268)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a84c421</div>
+                                        <div class="message">Merge branch 'release/9.0.1xx' of https://github.com/dotnet/sdk into merge/release/8.0.4xx-to-release/9.0.1xx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1c4f32</div>
+                                        <div class="message">[release/8.0.4xx] Update dependencies from dotnet/msbuild (#50229)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45a2e42</div>
+                                        <div class="message">Merge branch 'release/8.0.4xx' of https://github.com/dotnet/sdk into darc-release/8.0.4xx-537b7f62-edbe-49c8-b71a-bad0cfe8d10d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3db4511</div>
+                                        <div class="message">Update dependencies from https://github.com/dotnet/msbuild build 20250812.5
+
+Microsoft.SourceBuild.Intermediate.msbuild , Microsoft.Build , Microsoft.Build.Localization
+ From Version 17.11.40-servicing-25405-01 -&gt; To Version 17.11.41-servicing-25412-05</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#718fcd1</div>
+                                        <div class="message">Move the env setting to the sdk build yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#526ba67</div>
+                                        <div class="message">Try the explicit SHA1 signature env variable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0db8ef</div>
+                                        <div class="message">Try setting a few env variables suggested by copilot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e89632d</div>
+                                        <div class="message">Update to net9 image for azurelinux
+
+Co-authored-by: Matt Thalman &lt;mthalman@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e00c29</div>
+                                        <div class="message">Update our container images to newer ones that are in support similar to https://github.com/dotnet/installer/pull/20512/files.
+
+Update alpine 3.19 to 3.22
+Update clb-mariner 2.0 to azurelinux 3.0
+Update fedora 39 to fedora 41</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -90,26 +213,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#9f1d3e7</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#742d9ac</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
