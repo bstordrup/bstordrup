@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="684" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,365 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 497 commits in
+                                        <span class="repo">bstordrup/dotnet_runtime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bb71812</div>
+                                        <div class="message">Update host to use the optional localPath property when resolving assets (#118297)
+
+Currently, when resolving RID-agnostic assets from an application itself (that is, those in the app's .deps.json), any subdirectory specified in the file path is ignored. We just take the file name and expect it to be next to the .deps.json.
+
+https://github.com/dotnet/runtime/issues/117682 added an optional `localPath` property for assets. If set, this represents the path on disk relative to the .deps.json. This change updates the host to consume that property. When resolving assets from an application itself:
+1. `localPath` property is set: use `&lt;deps_dir&gt;/&lt;localPath&gt;`
+2. asset is from a runtimepack: use `&lt;deps_dir&gt;/&lt;file_path&gt;`
+    - runtimepack assets are always generated with the actual destination path in the file path
+3. otherwise (this is the existing behaviour):
+    - RID-specific assets: use `&lt;deps_dir&gt;/&lt;file_path&gt;`
+    - RID-agnostic assets:
+      - runtime: take only the file name, use `&lt;deps_dir&gt;/&lt;file_name&gt;`
+      - resources: take parent directory name of the file path, use `&lt;deps_dir&gt;/&lt;dir_name&gt;/&lt;file_name&gt;`
+
+With this change, usage of app-relative .NET search, and some msbuild hackery, it is possible to publish a self-contained application and stick the runtimepack in a subdirectory:
+```xml
+&lt;PropertyGroup&gt;
+  &lt;AppHostRelativeDotNet&gt;runtimepack&lt;/AppHostRelativeDotNet&gt;
+&lt;/PropertyGroup&gt;
+&lt;Target Name="UpdateRuntimePackAssets" AfterTargets="ResolveRuntimePackAssets"&gt;
+  &lt;ItemGroup&gt;
+    &lt;RuntimePackAsset Update="@(RuntimePackAsset)-&gt;WithMetadataValue('CopyLocal', 'true')"
+      DestinationSubPath="$(AppHostRelativeDotNet)\%(FileName)%(Extension)"
+      DestinationSubDirectory="$(AppHostRelativeDotNet)\" /&gt;
+    &lt;ReferenceCopyLocalPaths Remove="@(RuntimePackAsset)" /&gt;
+    &lt;ReferenceCopyLocalPaths Include="@(RuntimePackAsset)" /&gt;
+  &lt;/ItemGroup&gt;
+&lt;/Target&gt;
+```
+
+Once we have the corresponding change on the SDK side to include the localPath property, references can be put in a subdirectory as well (also with some msbuild hackery)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a693af3</div>
+                                        <div class="message">Fix using obsolete WebHostBuilder in wasm DevServer/DebugProxy (#118679)
+
+It was obsoleted in https://github.com/dotnet/aspnetcore/pull/62785
+
+Switch to `new HostBuilder().ConfigureWebHost` instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e749b39</div>
+                                        <div class="message">[PQC] Update tests for latest Win11 Insiders (#118612)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29bbab4</div>
+                                        <div class="message">Add intrinsic test for new Type.GetMethod overload (#118003)
+
+Add test for a new Type.GetMethod overload with genericParameterCount,
+BindingFlags, and Type[] which was already covered by the existing
+intrinsics logic.
+
+---------
+
+Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
+Co-authored-by: sbomer &lt;787361+sbomer@users.noreply.github.com&gt;
+Co-authored-by: Sven Boemer &lt;sbomer@gmail.com&gt;
+Co-authored-by: Jackson Schuster &lt;36744439+jtschuster@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bc502f</div>
+                                        <div class="message">Update Composite ML-DSA import/export APIs (#118600)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bc40a5</div>
+                                        <div class="message">Improve OpenSSL digest performance
+
+In OpenSSL 1.x, hash algorithm functions like EVP_sha256 are basically static variable lookups to a function table, making them fairly efficient.
+
+OpenSSL 3 however, has a different model for this. OpenSSL 3 instead has a fetch mechanism using EVP_fetch which is the preferred mechanism for "get me an EVP_MD". This is called an explicit fetch. For compatibility, the old OpenSSL 1.x functions were kept, however instead of EVP_sha256 being a simple "get me this variable's value" it returns a shim that does EVP_sha256 for you, ever time it is used. This is called an implicit fetch.
+
+The OpenSSL documentation recommends using explicit fetching, and memoizing the value yourself. https://docs.openssl.org/master/man7/ossl-guide-libcrypto-introduction/#performance
+
+This has worthwhile performance benefits. For "single block" inputs in to the hash algorithm, this reduces the call time by 200-300ns. That can be anywhere from a 25% to 33% reduction for empty and a couple of blocks of input data.
+
+Even though we memoize the value over on the managed side in the HashAlgorithmDispenser, this memorization only really avoids the p/invoke boundary. What is actually getting memoized is a lookup function (more or less)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cc92aa</div>
+                                        <div class="message"> [browser] Override boot config only when the content changes (#118637)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38aa769</div>
+                                        <div class="message">Avoid some `Unsafe.As` (#118655)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed9a505</div>
+                                        <div class="message">JIT: Do not remove type changing casts in lowering optimization (#118636)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b86266d</div>
+                                        <div class="message">Revert backflow and re-apply VMR build (#118657)
+
+* Revert "[main] Source code updates from dotnet/dotnet (#118514)"
+
+This reverts commit 2f54ba358770062a67e709dbef69d36eceff6dd1.
+
+* Revert incorrect change and re-apply build 278938
+
+* Revert eng/Version.Details change</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#282b9e6</div>
+                                        <div class="message">[browser] Generate source maps as hidden in Release configuration (#118635)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4faabd3</div>
+                                        <div class="message">Flip logic for enabling VXSort in the GC (#118633)
+
+For native AOT we [document](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/optimizing) three build modes: a blended default, optimized for size, and optimized for speed.
+
+Typically, optimize for speed is needed to get as closed as possible to CoreCLR-JIT performance (e.g. optimize for speed is the only mode that enables Tier-1 inliner in the JIT). The blended default gets close, but this gives an extra percent or two in throughput at the cost of more size.
+
+The VXSort code and table costs 115,712 bytes.
+
+We currently compile with VXSort enabled in blended mode and optimize for speed. We link out VXSort when optimizing for size. Maybe this is not something that should be part of the blended default.
+
+* When you do `dotnet new console --aot` and `dotnet publish` the hello world, 11% of the output binary is VXSort (!)
+* Even in more significant apps (e.g. a simple Kestrel host), VxSort is still a single-digit percentage of the app.
+* I was not able to measure improvement with VxSort on real world apps that I tried (native AOT compiled ILC, benchmarks we use in ASP.NET labs).
+
+I'm leaning towards disabling this on blended builds.
+
+Our default guidance if someone is not happy with native AOT TP is to switch to Speed optimized builds, so if there's a problem because of this being off, our default guidance would resolve this right away without even having to profile and root cause the problem to sorting. I think using VxSort in the Speed optimization mode only is the right default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a90f7ab</div>
+                                        <div class="message">Expose the extension operators for Tensor, TensorSpan, and ROTensorSpan (#117997)
+
+* Ensure the DynamicallyAccessedMembersAnalyzer doesn't crash for new language features
+
+* Adding the extensions for operator + and operator +=
+
+* Adding the extensions for operator / and operator /=
+
+* Adding the extensions for operator * and operator *=
+
+* Adding the extensions for operator - and operator -=
+
+* Adding the extensions for operator &amp; and operator &amp;=
+
+* Adding the extensions for operator | and operator |=
+
+* Adding the extensions for operator ^ and operator ^=
+
+* Adding the extensions for operator ~
+
+* Adding the extensions for operator - (unary)
+
+* Adding the extensions for operator + (unary)
+
+* Adding the extensions for operator &lt;&lt; and operator &lt;&lt;=
+
+* Adding the extensions for operator &gt;&gt; and operator &gt;&gt;=
+
+* Adding the extensions for operator &gt;&gt;&gt; and operator &gt;&gt;&gt;=
+
+* Adding the extensions for operator ++
+
+* Adding the extensions for operator --
+
+* Ensure the extension member order in the ref matches the impl
+
+* Update CompatibilitySuppressions for a fixed parameter name in an experimental API
+
+* Change TrimAnalysisVisitor.VisitParameterReference to skip parameters that are not on methods so the analyzer doesn't throw
+
+* Apply suggestions from code review
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fa82a2</div>
+                                        <div class="message">[RuntimeAsync] Follow up for unboxing and instantiating stubs. (#118301)
+
+* Support continuation arg in the portable arg shuffler
+
+* Unboxing stubs in IL
+
+* Instantiating stubs in IL
+
+* fix for x86
+
+* keep the modreq
+
+* TOKEN_ILSTUB_TARGET_SIG_ASYNC
+
+* Insert null continuation arg on VM side
+
+* undo unnecessary test changes
+
+* typo fix lost in rebase
+
+---------
+
+Co-authored-by: Jakob Botsch Nielsen &lt;jakob.botsch.nielsen@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc1bffe</div>
+                                        <div class="message">Improve TypeBuilderInstantiation error messages to guide users to TypeBuilder static methods (#118638)
+
+Fixes #118506
+
+Co-authored-by: jkotas &lt;6668460+jkotas@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#718c776</div>
+                                        <div class="message">Serialization reenable tests (#118507)
+
+* Turn 'em on - lets see what is still a problem.
+
+* Remove commented 'ActiveIssues' for tests that are confirmed passing now.
+
+* Re-disable one WASM test that still fails.
+
+* Cleanup more commented [ActiveIssue] attributes.
+
+* Disable on wasm
+
+* Fix platform detection for skipping test.
+
+* Remove commented [ActiveIssue] attributes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#549abf4</div>
+                                        <div class="message">Re-enabling Canonicalization Tests. (#118322)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#507f50e</div>
+                                        <div class="message">Fix issue #114504 by not emitting empty gcrefmaps in R2R (#118594)
+
+* Add important comment so it's possible to find the source of AuxiliaryDataRva
+* Skip emitting an RVA for the GCRefMap if it contains no methods</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f54ba3</div>
+                                        <div class="message">[main] Source code updates from dotnet/dotnet (#118514)
+
+* Backflow from https://github.com/dotnet/dotnet / b7ad826 build 278405
+
+[[ commit created by automation ]]
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278405
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25406.102 -&gt; 5.0.0-2.25407.105)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25406.102 -&gt; 10.0.0-preview.25407.105)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25406.102 -&gt; 10.0.100-rc.1.25407.105)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25406.102 -&gt; 10.0.0-beta.25407.105)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25406.102 -&gt; 0.11.5-alpha.25407.105)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25406.102 -&gt; 2.9.3-beta.25407.105)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25406.102 -&gt; 10.0.0-rc.1.25407.105)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.102 -&gt; 7.0.0-preview.1.105)
+System.CommandLine (Version 2.0.0-rc.1.25406.102 -&gt; 2.0.0-rc.1.25407.105)
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278512
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25407.105 -&gt; 5.0.0-2.25407.104)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25407.105 -&gt; 10.0.0-preview.25407.104)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25407.105 -&gt; 10.0.100-rc.1.25407.104)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25407.105 -&gt; 10.0.0-beta.25407.104)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25407.105 -&gt; 0.11.5-alpha.25407.104)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25407.105 -&gt; 2.9.3-beta.25407.104)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25407.105 -&gt; 10.0.0-rc.1.25407.104)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.105 -&gt; 7.0.0-preview.1.104)
+System.CommandLine (Version 2.0.0-rc.1.25407.105 -&gt; 2.0.0-rc.1.25407.104)
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278626
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25407.104 -&gt; 5.0.0-2.25409.103)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25407.104 -&gt; 10.0.0-preview.25409.103)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25407.104 -&gt; 10.0.100-rc.1.25409.103)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25407.104 -&gt; 10.0.0-beta.25409.103)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25407.104 -&gt; 0.11.5-alpha.25409.103)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25407.104 -&gt; 2.9.3-beta.25409.103)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25407.104 -&gt; 10.0.0-rc.1.25409.103)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.104 -&gt; 7.0.0-preview.1.603)
+System.CommandLine (Version 2.0.0-rc.1.25407.104 -&gt; 2.0.0-rc.1.25409.103)
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278647
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25409.103 -&gt; 5.0.0-2.25410.101)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25409.103 -&gt; 10.0.0-preview.25410.101)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25409.103 -&gt; 10.0.100-rc.1.25410.101)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25409.103 -&gt; 10.0.0-beta.25410.101)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25409.103 -&gt; 0.11.5-alpha.25410.101)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25409.103 -&gt; 2.9.3-beta.25410.101)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25409.103 -&gt; 10.0.0-rc.1.25410.101)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.603 -&gt; 7.0.0-preview.1.601)
+System.CommandLine (Version 2.0.0-rc.1.25409.103 -&gt; 2.0.0-rc.1.25410.101)
+
+* Backflow from https://github.com/dotnet/dotnet / c583c44 build 278837
+
+[[ commit created by automation ]]
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278837
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25410.101 -&gt; 5.0.0-2.25411.106)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25410.101 -&gt; 10.0.0-preview.25411.106)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25410.101 -&gt; 10.0.100-rc.1.25411.106)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25410.101 -&gt; 10.0.0-beta.25411.106)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25410.101 -&gt; 0.11.5-alpha.25411.106)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25410.101 -&gt; 2.9.3-beta.25411.106)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25410.101 -&gt; 10.0.0-rc.1.25411.106)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.601 -&gt; 7.0.0-preview.1.606)
+System.CommandLine (Version 2.0.0-rc.1.25410.101 -&gt; 2.0.0-rc.1.25411.106)
+Microsoft.DotNet.XHarness.TestRunners.Common, Microsoft.DotNet.XHarness.TestRunners.Xunit, Microsoft.DotNet.XHarness.CLI (Version 10.0.0-prerelease.25405.1 -&gt; 10.0.0-prerelease.25405.1)
+
+* Backflow from https://github.com/dotnet/dotnet / ca3dd2c build 278938
+
+[[ commit created by automation ]]
+
+* Update dependencies from https://github.com/dotnet/dotnet build 278938
+Updated Dependencies:
+Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.Analyzers, Microsoft.CodeAnalysis.CSharp, Microsoft.Net.Compilers.Toolset (Version 5.0.0-2.25411.106 -&gt; 5.0.0-2.25412.102)
+Microsoft.CodeAnalysis.NetAnalyzers (Version 10.0.0-preview.25411.106 -&gt; 10.0.0-preview.25412.102)
+Microsoft.DotNet.ApiCompat.Task, Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100.Transport (Version 10.0.100-rc.1.25411.106 -&gt; 10.0.100-rc.1.25412.102)
+Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Archives, Microsoft.DotNet.Build.Tasks.Feed, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Packaging, Microsoft.DotNet.Build.Tasks.TargetFramework, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.CodeAnalysis, Microsoft.DotNet.GenAPI, Microsoft.DotNet.GenFacades, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.PackageTesting, Microsoft.DotNet.RemoteExecutor, Microsoft.DotNet.SharedFramework.Sdk, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 10.0.0-beta.25411.106 -&gt; 10.0.0-beta.25412.102)
+Microsoft.DotNet.Cecil (Version 0.11.5-alpha.25411.106 -&gt; 0.11.5-alpha.25412.102)
+Microsoft.DotNet.XUnitAssert, Microsoft.DotNet.XUnitConsoleRunner (Version 2.9.3-beta.25411.106 -&gt; 2.9.3-beta.25412.102)
+Microsoft.NET.Sdk.IL, Microsoft.NETCore.App.Ref, Microsoft.NETCore.ILAsm, runtime.native.System.IO.Ports, System.Reflection.Metadata, System.Reflection.MetadataLoadContext, System.Text.Json (Version 10.0.0-rc.1.25411.106 -&gt; 10.0.0-rc.1.25412.102)
+NuGet.Frameworks, NuGet.Packaging, NuGet.ProjectModel, NuGet.Versioning (Version 7.0.0-preview.1.606 -&gt; 7.0.0-preview.1.602)
+System.CommandLine (Version 2.0.0-rc.1.25411.106 -&gt; 2.0.0-rc.1.25412.102)
+Microsoft.DotNet.XHarness.TestRunners.Common, Microsoft.DotNet.XHarness.TestRunners.Xunit, Microsoft.DotNet.XHarness.CLI (Version 10.0.0-prerelease.25405.1 -&gt; 10.0.0-prerelease.25405.1)
+
+---------
+
+Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#170ed47</div>
+                                        <div class="message">Adding GetThreadStaticBaseAddress cDAC API (#118411)
+
+* Adding GetThreadStaticBaseAddress cDAC API
+
+Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
+---------</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -87,26 +446,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#22ba895</div>
-                                        <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bstordrup/bstordrup</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6a0c19</div>
                                         <div class="message">Update README.md with latest activity</div>
                                     </div>
                                 </div>
