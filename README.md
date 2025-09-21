@@ -33,11 +33,11 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/80fb00f580f5b2353ff3a8aa78c5b5fd3f275a34)
-2. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-3316068564)
-3. 📝 Committed to a private repo
-4. 📝 Committed to [bstordrup/dotnet_sdk](https://github.com/bstordrup/dotnet_sdk/commit/c2af67bab39a7cf806544f5ddd67409ef51328ea)
-5. 📝 Committed to a private repo
+1. 📝 Committed to [bstordrup/dotnet_sdk](https://github.com/bstordrup/dotnet_sdk/commit/3ca6812fb99705086857daf374a444ca1b275f93)
+2. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/80fb00f580f5b2353ff3a8aa78c5b5fd3f275a34)
+3. 🗣 Commented on issue [#3](https://github.com/DinoChiesa/dotnetzip-2025/issues/3) in [DinoChiesa/dotnetzip-2025](https://github.com/DinoChiesa/dotnetzip-2025): [View Comment](https://github.com/DinoChiesa/dotnetzip-2025/issues/3#issuecomment-3316068564)
+4. 📝 Committed to a private repo
+5. 📝 Committed to [bstordrup/dotnet_sdk](https://github.com/bstordrup/dotnet_sdk/commit/c2af67bab39a7cf806544f5ddd67409ef51328ea)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
