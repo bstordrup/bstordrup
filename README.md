@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/NuGet.Client](https://github.com/bstordrup/NuGet.Client/commit/594fe417f2b3c7adfd970a91986f50d46780c8d9)
+1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
+4. 📝 Committed to [bstordrup/NuGet.Client](https://github.com/bstordrup/NuGet.Client/commit/594fe417f2b3c7adfd970a91986f50d46780c8d9)
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. 📝 Committed to [bstordrup/dotnet_sdk](https://github.com/bstordrup/dotnet_sdk/commit/3ca6812fb99705086857daf374a444ca1b275f93)
-10. 📝 Committed to [bstordrup/dotnet_runtime](https://github.com/bstordrup/dotnet_runtime/commit/80fb00f580f5b2353ff3a8aa78c5b5fd3f275a34)
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
