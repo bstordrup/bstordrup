@@ -37,8 +37,8 @@ I have been working with software development since I was hired in a Danish comp
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
-5. 📝 Committed to [bstordrup/NuGet.Client](https://github.com/bstordrup/NuGet.Client/commit/594fe417f2b3c7adfd970a91986f50d46780c8d9)
-6. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to [bstordrup/NuGet.Client](https://github.com/bstordrup/NuGet.Client/commit/594fe417f2b3c7adfd970a91986f50d46780c8d9)
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
