@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fbfd3d6</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -222,102 +242,6 @@ if we hit an error condition.</div>
                                     <div class="commit">
                                         <div class="sha">#016e843</div>
                                         <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 313 commits in
-                                        <span class="repo">bstordrup/dotnet_sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6e227a</div>
-                                        <div class="message">Update '_WarnForCsWinRT3_0PreviewFeatureEnabled'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba90d36</div>
-                                        <div class="message">Update targeting pack selection logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa2210e</div>
-                                        <div class="message">Update 'TargetPlatformVersion' parsing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4821072</div>
-                                        <div class="message">Run 'msbuild /t:UpdateXlf'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c256006</div>
-                                        <div class="message">Add test for new preview warning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ad9302</div>
-                                        <div class="message">Add 'UsingPreviewCsWinRT3_0Feature' warning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fa8f16</div>
-                                        <div class="message">Support '1.' TFM for CsWinRT 3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56048f8</div>
-                                        <div class="message">Merge commit 'fffbe68733493aaae97f2d903dba633ba2903c6b'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d0a24a</div>
-                                        <div class="message">Merge commit '7eeb5534c574c206a5a8d01c6c03ebc8ba74ba36'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e05fc1</div>
-                                        <div class="message">Merge commit '62e86e22154e3b51a351ed4df0c38b5c867ded5d'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#218f6df</div>
-                                        <div class="message">Merge commit '1484a05e018c2883586aac620a3d67d9a022f234'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d2d6a3</div>
-                                        <div class="message">Merge commit '41d0a200c11132eaa1eb5a0c7659baec43d52316'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e80994</div>
-                                        <div class="message">Merge commit '9220e6d0f38b7721db77f6a112293ec71df91929'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f410512</div>
-                                        <div class="message">Merge commit 'bc0c174af20f76ff9e9b01e90160b484ef1c4893'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3709d3</div>
-                                        <div class="message">Merge commit 'ef5ca90084b7b79fbd3c8e4780dad205d2e064aa'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#092ab08</div>
-                                        <div class="message">Merge commit '1aa18fb890666d92961deed9c8c3ba30fc43f7c9'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d598b98</div>
-                                        <div class="message">Merge commit '01874aec82f25e5b42e3c98854a8899a6ed2dfe7'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0f0821</div>
-                                        <div class="message">Merge commit 'edc2381da10a491d219d09c235957fdd41d72a15'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a4862c</div>
-                                        <div class="message">Merge commit '4fdb55f9832663275d195ff0c907b8b096c33aa1'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ebd213</div>
-                                        <div class="message">Merge commit 'b58daa76e94ef390808e6b2ff390a5da01f917b1'</div>
                                     </div>
                                 </div>
                             </section>
