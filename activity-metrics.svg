@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c4f891</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -91,157 +111,6 @@
                                     <div class="commit">
                                         <div class="sha">#fbfd3d6</div>
                                         <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 667 commits in
-                                        <span class="repo">bstordrup/NuGet.Client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#035d451</div>
-                                        <div class="message">Run source build in CI pipeline (#5868)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9db78fb</div>
-                                        <div class="message">Remove NuGet.Packaging.Core (#5870)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1d2e26</div>
-                                        <div class="message">Defer LockFileItem.Properties dictionary construction until needed (#5861)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7eb532</div>
-                                        <div class="message">Change the project template for test cases using IOS to Maui (#5865)
-
-* Change IOSLibraryApp to MauiClassLibrary
-
-* add NetCrossPlat workload
-
-* add Component.Android.SDK.MAUI
-
-* add create package
-
-* Update test/NuGet.Tests.Apex/NuGet.Tests.Apex.Daily/NuGetConsoleTestCase.cs
-
-Fix spelling mistakes
-
-Co-authored-by: Donnie Goodson &lt;49205731+donnie-msft@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Donnie Goodson &lt;49205731+donnie-msft@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79e6e48</div>
-                                        <div class="message">Fix narrator issue (#5863)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5191db7</div>
-                                        <div class="message">Revert "deprecate non https sources: Promote warning to Error (#5858)" (#5864)
-
-This reverts commit 66161fc472b2801a807529ff42105bb0fd45c741.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a79a26a</div>
-                                        <div class="message">Reduce allocations in GetPackageInfo by conditionally calling GetNupkgMetadataPath (#5859)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66161fc</div>
-                                        <div class="message">deprecate non https sources: Promote warning to Error (#5858)
-
-* Deprecate http usage: `nuget search` promote warning to error for http sources (#5693)
-
-* Deprecate http usage: `nuget list` promote warning to error for http sources (#5698)
-
-* Deprecate http usage: `nuget push` promote warning to error for http sources (#5705)
-
-* Deprecate http usage: `delete` operations, promote warning to error for http sources (#5703)
-
-* Add `allowinsecureconnections` option (#5742)
-
-* remove integration test for now (#5758)
-
-* Deprecate http: Promote from warning to error in VS Options NuGet Package Manager (#5732)
-
-* Deprecate http usage: `source` commands, promote warning to error for http sources (#5702)
-
-* Deprecate http usage: `restore` scenarios promote warning to error for http sources (#5731)
-
-* use `--allow-insecure-connections` for dotnet nuget add command (#5853)
-
-* tests
-
-* clean up
-
-* clean up
-
-* white space
-
-* tests
-
-* comment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e65445e</div>
-                                        <div class="message">'dotnet nuget why' works for directory inputs for the 'Path' argument (#5846)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7d24bd</div>
-                                        <div class="message">Re-enabled dotnet integration tests for the frameworks option for 'dotnet nuget why' (#5860)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe981e9</div>
-                                        <div class="message">Add EULA command to NuGet.exe (#5850)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20f0543</div>
-                                        <div class="message">Simplify NuGet.Client PSM config and restore BAR packages on private builds (#5855)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05625c5</div>
-                                        <div class="message">NuGet IntelliCode Package Suggestions show Author in packages list (#5843)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a12103</div>
-                                        <div class="message">Bump VisualStudio dependencies to the 17.10 versions (#5844)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50e3006</div>
-                                        <div class="message">Dispose certificates on failure in SignatureUtility.GetCertificates (#5848)
-
-If we get a non-null IX509CertificateChain instance, call Dispose on it
-if we hit an error condition.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d5d51d</div>
-                                        <div class="message">Skip failing dotnet integration tests for the framework option for 'dotnet nuget why' (#5852)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9985c40</div>
-                                        <div class="message">Update Apex and MSTest package versions (#5849)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3431770</div>
-                                        <div class="message">Show help output for parsing errors only in 'dotnet' commands (#5839)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8eca3d</div>
-                                        <div class="message">Configure ProcDumpCollector to attach dumps to test results (#5847)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#073a073</div>
-                                        <div class="message">Make NuGetAuditMode default to all with .NET 9 SDK (#5680)</div>
                                     </div>
                                 </div>
                             </section>
