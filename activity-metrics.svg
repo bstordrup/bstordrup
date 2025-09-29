@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1afff02</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -91,90 +111,6 @@
                                     <div class="commit">
                                         <div class="sha">#872bb4b</div>
                                         <div class="message">Update README.md with latest activity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">bstordrup/command-line-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2464766</div>
-                                        <div class="message">Merge pull request #2679 from dotnet/add-package-readme
-
-[release/10.0] Add package readme for the core System.CommandLine package</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18a0a54</div>
-                                        <div class="message">Augment and correct the Option.HelpName API docs (#2687)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fab13a3</div>
-                                        <div class="message">Re-add default value on ProcessTerminationTimeout (#2672)
-
-Co-authored-by: Michael Atkisson &lt;mpatkisson@triptacular.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4494d98</div>
-                                        <div class="message">[main] Source code updates from dotnet/dotnet (#2663)
-
-* Update dependencies from https://github.com/dotnet/dotnet build 279079
-Updated Dependencies:
-Microsoft.DotNet.Arcade.Sdk (Version 9.0.0-beta.25407.2 -&gt; 9.0.0-beta.25407.2)
-
-* Update dependencies from https://github.com/dotnet/dotnet build 279336
-Updated Dependencies:
-Microsoft.DotNet.Arcade.Sdk (Version 9.0.0-beta.25407.2 -&gt; 9.0.0-beta.25380.1)
-
-* Backflow from https://github.com/dotnet/dotnet / 5c3434d build 279843
-
-[[ commit created by automation ]]
-
-* Update dependencies from https://github.com/dotnet/dotnet build 279843
-Updated Dependencies:
-Microsoft.DotNet.Arcade.Sdk (Version 9.0.0-beta.25380.1 -&gt; 9.0.0-beta.25407.2)
-
----------
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e292617</div>
-                                        <div class="message">Fix #2128 (#2656)
-
-* improve preaction testing
-
-* fix #2128</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1045e6c</div>
-                                        <div class="message">Update dependencies from https://github.com/dotnet/arcade build 20250807.2 (#2653)
-
-Microsoft.DotNet.Arcade.Sdk
- From Version 9.0.0-beta.25380.1 -&gt; To Version 9.0.0-beta.25407.2
-
-Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec61e86</div>
-                                        <div class="message">Reduce Reflection usage (#2662)
-
-* remove ArgumentBuilder and OptionBuilder that use reflection a lot and are used only by the unit test project
-
-* move the logic responsible for getting executable version from RootCommand to VersionOption:
-
-- make it clear when Reflection is used
-- don't load and compile Assembly type when RootCommand is used for the first time</div>
                                     </div>
                                 </div>
                             </section>
