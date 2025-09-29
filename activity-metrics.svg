@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="778" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bstordrup/bstordrup</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09ecdb3</div>
+                                        <div class="message">Update README.md with latest activity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -155,145 +175,6 @@ Co-authored-by: dotnet-maestro[bot] &lt;dotnet-maestro[bot]@users.noreply.github
 
 - make it clear when Reflection is used
 - don't load and compile Assembly type when RootCommand is used for the first time</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">bstordrup/dotnet_sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b24e09</div>
-                                        <div class="message">Backflow from https://github.com/dotnet/dotnet / a0ca1b9 build 284548
-
-[[ commit created by automation ]]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#830e654</div>
-                                        <div class="message">Update dependencies from https://github.com/microsoft/testfx build 20250924.1
-On relative base path root
-Microsoft.Testing.Platform From Version 1.9.0-preview.25470.1 -&gt; To Version 1.9.0-preview.25474.1
-MSTest From Version 3.11.0-preview.25470.1 -&gt; To Version 3.11.0-preview.25474.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec550ce</div>
-                                        <div class="message">[main] Source code updates from dotnet/dotnet (#50928)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80c3890</div>
-                                        <div class="message">Update CSC arguments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c17f61d</div>
-                                        <div class="message">Merge branch 'main' into darc-main-9120e3d3-21ba-42fb-86ad-3bdff34b1bfc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0814ab8</div>
-                                        <div class="message">Merge branch 'main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e3139e</div>
-                                        <div class="message">Update Stale GH Action to include PRs (#50905)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#564a23b</div>
-                                        <div class="message">Added ClearsParseErrors set to true.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fc7f3b</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/dotnet/sdk into darc-main-9120e3d3-21ba-42fb-86ad-3bdff34b1bfc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3581345</div>
-                                        <div class="message">[main] Update dependencies from microsoft/testfx (#50947)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c8db3e</div>
-                                        <div class="message">Update dependencies from https://github.com/microsoft/testfx build 20250920.1
-On relative base path root
-Microsoft.Testing.Platform From Version 1.9.0-preview.25467.1 -&gt; To Version 1.9.0-preview.25470.1
-MSTest From Version 3.11.0-preview.25467.1 -&gt; To Version 3.11.0-preview.25470.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cba27bf</div>
-                                        <div class="message">Merge branch 'main' into darc-main-9120e3d3-21ba-42fb-86ad-3bdff34b1bfc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad793e1</div>
-                                        <div class="message">Update dependencies from https://github.com/dotnet/dotnet build 284039
-Updated Dependencies:
-dotnet-dev-certs, dotnet-user-jwts, dotnet-user-secrets, Microsoft.AspNetCore.Analyzers, Microsoft.AspNetCore.App.Ref, Microsoft.AspNetCore.App.Ref.Internal, Microsoft.AspNetCore.Authentication.Facebook, Microsoft.AspNetCore.Authentication.Google, Microsoft.AspNetCore.Authentication.MicrosoftAccount, Microsoft.AspNetCore.Authorization, Microsoft.AspNetCore.Components, Microsoft.AspNetCore.Components.Analyzers, Microsoft.AspNetCore.Components.Forms, Microsoft.AspNetCore.Components.SdkAnalyzers, Microsoft.AspNetCore.Components.Web, Microsoft.AspNetCore.Components.WebAssembly, Microsoft.AspNetCore.Components.WebAssembly.Server, Microsoft.AspNetCore.Components.WebView, Microsoft.AspNetCore.DeveloperCertificates.XPlat, Microsoft.AspNetCore.Metadata, Microsoft.AspNetCore.Mvc.Analyzers, Microsoft.AspNetCore.Mvc.Api.Analyzers, Microsoft.AspNetCore.TestHost, Microsoft.Bcl.AsyncInterfaces, Microsoft.DotNet.Web.ItemTemplates.10.0, Microsoft.DotNet.Web.ProjectTemplates.10.0, Microsoft.Extensions.Configuration.Ini, Microsoft.Extensions.DependencyModel, Microsoft.Extensions.FileProviders.Abstractions, Microsoft.Extensions.FileProviders.Embedded, Microsoft.Extensions.FileSystemGlobbing, Microsoft.Extensions.Logging, Microsoft.Extensions.Logging.Abstractions, Microsoft.Extensions.Logging.Console, Microsoft.Extensions.ObjectPool, Microsoft.JSInterop, Microsoft.NET.HostModel, Microsoft.NET.ILLink.Tasks, Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-x64, Microsoft.NET.Sdk.WindowsDesktop, Microsoft.NETCore.App.Ref, Microsoft.NETCore.Platforms, Microsoft.Win32.SystemEvents, Microsoft.WindowsDesktop.App.Internal, Microsoft.WindowsDesktop.App.Ref, System.CodeDom, System.ComponentModel.Composition, System.Composition.AttributedModel, System.Composition.Convention, System.Composition.Hosting, System.Composition.Runtime, System.Composition.TypedParts, System.Configuration.ConfigurationManager, System.Diagnostics.DiagnosticSource, System.Formats.Asn1, System.IO.Hashing, System.Reflection.MetadataLoadContext, System.Resources.Extensions, System.Security.Cryptography.Pkcs, System.Security.Cryptography.ProtectedData, System.Security.Cryptography.Xml, System.Security.Permissions, System.ServiceProcess.ServiceController, System.Text.Encoding.CodePages, System.Text.Json, System.Windows.Extensions (Version 10.0.0-rc.1.25468.107 -&gt; 10.0.0-rc.1.25469.103)
-Microsoft.AspNetCore.Mvc.Razor.Extensions.Tooling.Internal, Microsoft.CodeAnalysis.Razor.Tooling.Internal, Microsoft.NET.Sdk.Razor.SourceGenerators.Transport (Version 10.0.0-preview.25468.107 -&gt; 10.0.0-preview.25469.103)
-Microsoft.Build, Microsoft.Build.Localization, Microsoft.NET.Test.Sdk, Microsoft.TestPlatform.Build, Microsoft.TestPlatform.CLI (Version 18.0.0-preview-25468-107 -&gt; 18.0.0-preview-25469-103)
-Microsoft.Build.NuGetSdkResolver, NuGet.Build.Tasks, NuGet.Build.Tasks.Console, NuGet.Build.Tasks.Pack, NuGet.CommandLine.XPlat, NuGet.Commands, NuGet.Common, NuGet.Configuration, NuGet.Credentials, NuGet.DependencyResolver.Core, NuGet.Frameworks, NuGet.LibraryModel, NuGet.Localization, NuGet.Packaging, NuGet.ProjectModel, NuGet.Protocol, NuGet.Versioning (Version 7.0.0-preview.1.46907 -&gt; 7.0.0-preview.1.47003)
-Microsoft.Build.Tasks.Git, Microsoft.SourceLink.AzureRepos.Git, Microsoft.SourceLink.Bitbucket.Git, Microsoft.SourceLink.Common, Microsoft.SourceLink.GitHub, Microsoft.SourceLink.GitLab (Version 10.0.0-beta.25468.107 -&gt; 10.0.0-beta.25469.103)
-Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.BuildClient, Microsoft.CodeAnalysis.CSharp, Microsoft.CodeAnalysis.CSharp.CodeStyle, Microsoft.CodeAnalysis.CSharp.Features, Microsoft.CodeAnalysis.CSharp.Workspaces, Microsoft.CodeAnalysis.PublicApiAnalyzers, Microsoft.CodeAnalysis.Workspaces.Common, Microsoft.CodeAnalysis.Workspaces.MSBuild, Microsoft.Net.Compilers.Toolset, Microsoft.Net.Compilers.Toolset.Framework (Version 5.0.0-2.25468.107 -&gt; 5.0.0-2.25469.103)
-Microsoft.Deployment.DotNet.Releases (Version 2.0.0-preview.1.25468.107 -&gt; 2.0.0-preview.1.25469.103)
-Microsoft.DiaSymReader (Version 2.2.0-beta.25468.107 -&gt; 2.2.0-beta.25469.103)
-Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.SignTool, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 11.0.0-beta.25468.107 -&gt; 11.0.0-beta.25469.103)
-Microsoft.FSharp.Compiler (Version 14.0.100-rc2.25468.107 -&gt; 14.0.100-rc2.25469.103)
-Microsoft.TemplateEngine.Abstractions, Microsoft.TemplateEngine.Authoring.TemplateVerifier, Microsoft.TemplateEngine.Edge, Microsoft.TemplateEngine.Mocks, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Microsoft.TemplateEngine.TestHelper, Microsoft.TemplateEngine.Utils, Microsoft.TemplateSearch.Common, Microsoft.TemplateSearch.TemplateDiscovery (Version 11.0.100-alpha.1.25468.107 -&gt; 11.0.100-alpha.1.25469.103)
-Microsoft.Web.Xdt (Version 3.2.0-preview.25468.107 -&gt; 3.2.0-preview.25469.103)
-System.CommandLine (Version 2.0.0-rc.1.25468.107 -&gt; 2.0.0-rc.1.25469.103)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31f3635</div>
-                                        <div class="message">Revert GenerateBundledVersions and ProcessFrameworkReferences</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73e9c82</div>
-                                        <div class="message">Fix override</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a31640f</div>
-                                        <div class="message">Add nuget 11 feeds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a320c99</div>
-                                        <div class="message">Update dependencies from https://github.com/dotnet/dotnet build 283922
-Updated Dependencies:
-dotnet-dev-certs, dotnet-user-jwts, dotnet-user-secrets, Microsoft.AspNetCore.Analyzers, Microsoft.AspNetCore.App.Ref, Microsoft.AspNetCore.App.Ref.Internal, Microsoft.AspNetCore.Authentication.Facebook, Microsoft.AspNetCore.Authentication.Google, Microsoft.AspNetCore.Authentication.MicrosoftAccount, Microsoft.AspNetCore.Authorization, Microsoft.AspNetCore.Components, Microsoft.AspNetCore.Components.Analyzers, Microsoft.AspNetCore.Components.Forms, Microsoft.AspNetCore.Components.SdkAnalyzers, Microsoft.AspNetCore.Components.Web, Microsoft.AspNetCore.Components.WebAssembly, Microsoft.AspNetCore.Components.WebAssembly.Server, Microsoft.AspNetCore.Components.WebView, Microsoft.AspNetCore.DeveloperCertificates.XPlat, Microsoft.AspNetCore.Metadata, Microsoft.AspNetCore.Mvc.Analyzers, Microsoft.AspNetCore.Mvc.Api.Analyzers, Microsoft.AspNetCore.TestHost, Microsoft.Bcl.AsyncInterfaces, Microsoft.DotNet.Web.ItemTemplates.10.0, Microsoft.DotNet.Web.ProjectTemplates.10.0, Microsoft.Extensions.Configuration.Ini, Microsoft.Extensions.DependencyModel, Microsoft.Extensions.FileProviders.Abstractions, Microsoft.Extensions.FileProviders.Embedded, Microsoft.Extensions.FileSystemGlobbing, Microsoft.Extensions.Logging, Microsoft.Extensions.Logging.Abstractions, Microsoft.Extensions.Logging.Console, Microsoft.Extensions.ObjectPool, Microsoft.JSInterop, Microsoft.NET.HostModel, Microsoft.NET.ILLink.Tasks, Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-x64, Microsoft.NET.Sdk.WindowsDesktop, Microsoft.NETCore.App.Ref, Microsoft.NETCore.Platforms, Microsoft.Win32.SystemEvents, Microsoft.WindowsDesktop.App.Internal, Microsoft.WindowsDesktop.App.Ref, System.CodeDom, System.ComponentModel.Composition, System.Composition.AttributedModel, System.Composition.Convention, System.Composition.Hosting, System.Composition.Runtime, System.Composition.TypedParts, System.Configuration.ConfigurationManager, System.Diagnostics.DiagnosticSource, System.Formats.Asn1, System.IO.Hashing, System.Reflection.MetadataLoadContext, System.Resources.Extensions, System.Security.Cryptography.Pkcs, System.Security.Cryptography.ProtectedData, System.Security.Cryptography.Xml, System.Security.Permissions, System.ServiceProcess.ServiceController, System.Text.Encoding.CodePages, System.Text.Json, System.Windows.Extensions (Version 10.0.0-rc.1.25461.111 -&gt; 10.0.0-rc.1.25468.107)
-Microsoft.AspNetCore.Mvc.Razor.Extensions.Tooling.Internal, Microsoft.CodeAnalysis.Razor.Tooling.Internal, Microsoft.NET.Sdk.Razor.SourceGenerators.Transport (Version 10.0.0-preview.25461.111 -&gt; 10.0.0-preview.25468.107)
-Microsoft.Build, Microsoft.Build.Localization (Version 17.15.0-preview-25461-111 -&gt; 18.0.0-preview-25468-107)
-Microsoft.Build.NuGetSdkResolver, NuGet.Build.Tasks, NuGet.Build.Tasks.Console, NuGet.Build.Tasks.Pack, NuGet.CommandLine.XPlat, NuGet.Commands, NuGet.Common, NuGet.Configuration, NuGet.Credentials, NuGet.DependencyResolver.Core, NuGet.Frameworks, NuGet.LibraryModel, NuGet.Localization, NuGet.Packaging, NuGet.ProjectModel, NuGet.Protocol, NuGet.Versioning (Version 7.0.0-preview.1.46211 -&gt; 7.0.0-preview.1.46907)
-Microsoft.Build.Tasks.Git, Microsoft.SourceLink.AzureRepos.Git, Microsoft.SourceLink.Bitbucket.Git, Microsoft.SourceLink.Common, Microsoft.SourceLink.GitHub, Microsoft.SourceLink.GitLab (Version 10.0.0-beta.25461.111 -&gt; 10.0.0-beta.25468.107)
-Microsoft.CodeAnalysis, Microsoft.CodeAnalysis.BuildClient, Microsoft.CodeAnalysis.CSharp, Microsoft.CodeAnalysis.CSharp.CodeStyle, Microsoft.CodeAnalysis.CSharp.Features, Microsoft.CodeAnalysis.CSharp.Workspaces, Microsoft.CodeAnalysis.PublicApiAnalyzers, Microsoft.CodeAnalysis.Workspaces.Common, Microsoft.CodeAnalysis.Workspaces.MSBuild, Microsoft.Net.Compilers.Toolset, Microsoft.Net.Compilers.Toolset.Framework (Version 5.0.0-2.25461.111 -&gt; 5.0.0-2.25468.107)
-Microsoft.Deployment.DotNet.Releases (Version 2.0.0-preview.1.25461.111 -&gt; 2.0.0-preview.1.25468.107)
-Microsoft.DiaSymReader (Version 2.2.0-beta.25461.111 -&gt; 2.2.0-beta.25468.107)
-Microsoft.DotNet.Arcade.Sdk, Microsoft.DotNet.Build.Tasks.Installers, Microsoft.DotNet.Build.Tasks.Templating, Microsoft.DotNet.Build.Tasks.Workloads, Microsoft.DotNet.Helix.Sdk, Microsoft.DotNet.SignTool, Microsoft.DotNet.XliffTasks, Microsoft.DotNet.XUnitExtensions (Version 11.0.0-beta.25461.111 -&gt; 11.0.0-beta.25468.107)
-Microsoft.FSharp.Compiler (Version 14.0.100-rc2.25461.111 -&gt; 14.0.100-rc2.25468.107)
-Microsoft.NET.Test.Sdk, Microsoft.TestPlatform.Build, Microsoft.TestPlatform.CLI (Version 18.0.0-preview-25461-111 -&gt; 18.0.0-preview-25468-107)
-Microsoft.TemplateEngine.Abstractions, Microsoft.TemplateEngine.Authoring.TemplateVerifier, Microsoft.TemplateEngine.Edge, Microsoft.TemplateEngine.Mocks, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Microsoft.TemplateEngine.TestHelper, Microsoft.TemplateEngine.Utils, Microsoft.TemplateSearch.Common, Microsoft.TemplateSearch.TemplateDiscovery (Version 10.0.100-rc.1.25461.111 -&gt; 11.0.100-alpha.1.25468.107)
-Microsoft.Web.Xdt (Version 3.2.0-preview.25461.111 -&gt; 3.2.0-preview.25468.107)
-System.CommandLine (Version 2.0.0-rc.1.25461.111 -&gt; 2.0.0-rc.1.25468.107)
-Microsoft.Testing.Platform (Version 1.9.0-preview.25467.1 -&gt; 1.9.0-preview.25466.1)
-MSTest (Version 3.11.0-preview.25467.1 -&gt; 3.11.0-preview.25466.1)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22b0288</div>
-                                        <div class="message">Merge main into darc-main-9120e3d3-21ba-42fb-86ad-3bdff34b1bfc
-Auto-resolved conflicts:
-- src/Cli/dotnet/Parser.cs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0190c26</div>
-                                        <div class="message">Backflow from https://github.com/dotnet/dotnet / 0498b76 build 283922
-
-[[ commit created by automation ]]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9cf091</div>
-                                        <div class="message">Allow charset to be `unset`</div>
                                     </div>
                                 </div>
                             </section>
