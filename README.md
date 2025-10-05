@@ -33,7 +33,7 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 🍴 Forked [mono/gtk-sharp](https://github.com/mono/gtk-sharp)
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
