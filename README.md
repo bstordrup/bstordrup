@@ -33,9 +33,9 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/forenings_medlemmer](https://github.com/bstordrup/forenings_medlemmer/commit/ba9895be6eb1b41e45c7a7199a00ad4ebdeba677)
-2. 🍴 Forked [mono/gtk-sharp](https://github.com/mono/gtk-sharp)
-3. 📝 Committed to a private repo
+1. 🍴 Forked [MauiGtk/maui-linux](https://github.com/MauiGtk/maui-linux)
+2. 📝 Committed to [bstordrup/forenings_medlemmer](https://github.com/bstordrup/forenings_medlemmer/commit/ba9895be6eb1b41e45c7a7199a00ad4ebdeba677)
+3. 🍴 Forked [mono/gtk-sharp](https://github.com/mono/gtk-sharp)
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
