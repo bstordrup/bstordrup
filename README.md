@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [MauiGtk/maui-linux](https://github.com/MauiGtk/maui-linux)
-2. 📝 Committed to [bstordrup/forenings_medlemmer](https://github.com/bstordrup/forenings_medlemmer/commit/ba9895be6eb1b41e45c7a7199a00ad4ebdeba677)
-3. 🍴 Forked [mono/gtk-sharp](https://github.com/mono/gtk-sharp)
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 🔎 Reviewed a PR in a private repo
+2. 🗣 Commented on a review of a PR in a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 🗣 Commented on a review of a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. 🗣 Commented on a review of a PR in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. 🍴 Forked [MauiGtk/maui-linux](https://github.com/MauiGtk/maui-linux)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
