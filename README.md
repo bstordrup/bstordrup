@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
-2. 🗑️ Deleted a branch in a private repo
-3. 📝 Committed to a private repo
-4. 📥 Opened a PR in a private repo
-5. 🎉 Created a new branch in a private repo
-6. 🗣 Commented on issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/51238#issuecomment-3402931485)
-7. 🍴 Forked [bstordrup/dotnet-sdk-enterprise-cloud](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud)
-8. 🆕 Opened an issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk)
-9. 📝 Committed to [bstordrup/NuspecDependenciesTest](https://github.com/bstordrup/NuspecDependenciesTest/commit/1770c18a09c9da5892771c43234ff133cf6a8d00)
-10. 🎉 Created a new branch [`main`](https://github.com/bstordrup/NuspecDependenciesTest/tree/main) in [bstordrup/NuspecDependenciesTest](https://github.com/bstordrup/NuspecDependenciesTest)
+1. 📝 Committed to a private repo
+2. 🎉 Created a new branch in a private repo
+3. 🗑️ Deleted a branch in a private repo
+4. 📝 Committed to a private repo
+5. 📥 Opened a PR in a private repo
+6. 🎉 Created a new branch in a private repo
+7. 🗣 Commented on issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/51238#issuecomment-3402931485)
+8. 🍴 Forked [bstordrup/dotnet-sdk-enterprise-cloud](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud)
+9. 🆕 Opened an issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk)
+10. 📝 Committed to [bstordrup/NuspecDependenciesTest](https://github.com/bstordrup/NuspecDependenciesTest/commit/1770c18a09c9da5892771c43234ff133cf6a8d00)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
