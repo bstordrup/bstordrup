@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [bstordrup/kiota-dotnet](https://github.com/bstordrup/kiota-dotnet)
-2. 🍴 Forked [bstordrup/kiota](https://github.com/bstordrup/kiota)
-3. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/7a5ab9e32c4a8a66b925b9380408a6847e3fd098)
-4. 📥 Opened [PR #5](https://github.com/PeterHuberSg/MasterGrab/pull/5) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
-5. 🆕 Opened an issue [#4](https://github.com/PeterHuberSg/MasterGrab/issues/4) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
-6. 🎉 Created a new branch [`FixReleaseBuildCompilationError`](https://github.com/bstordrup/MasterGrab/tree/FixReleaseBuildCompilationError) in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
-7. 🔎 Reviewed a PR in a private repo
-8. 📝 Committed to a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on a review of a PR in a private repo
+1. 📝 Committed to a private repo
+2. 🍴 Forked [bstordrup/kiota-dotnet](https://github.com/bstordrup/kiota-dotnet)
+3. 🍴 Forked [bstordrup/kiota](https://github.com/bstordrup/kiota)
+4. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/7a5ab9e32c4a8a66b925b9380408a6847e3fd098)
+5. 📥 Opened [PR #5](https://github.com/PeterHuberSg/MasterGrab/pull/5) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
+6. 🆕 Opened an issue [#4](https://github.com/PeterHuberSg/MasterGrab/issues/4) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
+7. 🎉 Created a new branch [`FixReleaseBuildCompilationError`](https://github.com/bstordrup/MasterGrab/tree/FixReleaseBuildCompilationError) in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
+8. 🔎 Reviewed a PR in a private repo
+9. 📝 Committed to a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
