@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🎉 Created a new branch [`AttemptToImplementNavigationHandlingFromResponseHeaders`](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud/tree/AttemptToImplementNavigationHandlingFromResponseHeaders) in [bstordrup/dotnet-sdk-enterprise-cloud](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud)
-3. 📝 Committed to a private repo
-4. 🎉 Created a new branch in a private repo
-5. 🗑️ Deleted a branch in a private repo
-6. 📝 Committed to a private repo
-7. 📥 Opened a PR in a private repo
-8. 🎉 Created a new branch in a private repo
-9. 🗣 Commented on issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/51238#issuecomment-3402931485)
-10. 🍴 Forked [bstordrup/dotnet-sdk-enterprise-cloud](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud)
+1. 🔎 Reviewed a PR in a private repo
+2. 📝 Committed to a private repo
+3. 🎉 Created a new branch [`AttemptToImplementNavigationHandlingFromResponseHeaders`](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud/tree/AttemptToImplementNavigationHandlingFromResponseHeaders) in [bstordrup/dotnet-sdk-enterprise-cloud](https://github.com/bstordrup/dotnet-sdk-enterprise-cloud)
+4. 📝 Committed to a private repo
+5. 🎉 Created a new branch in a private repo
+6. 🗑️ Deleted a branch in a private repo
+7. 📝 Committed to a private repo
+8. 📥 Opened a PR in a private repo
+9. 🎉 Created a new branch in a private repo
+10. 🗣 Commented on issue [#51238](https://github.com/dotnet/sdk/issues/51238) in [dotnet/sdk](https://github.com/dotnet/sdk): [View Comment](https://github.com/dotnet/sdk/issues/51238#issuecomment-3402931485)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
