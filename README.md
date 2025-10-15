@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#4](https://github.com/PeterHuberSg/MasterGrab/issues/4) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
-2. 🎉 Created a new branch [`FixReleaseBuildCompilationError`](https://github.com/bstordrup/MasterGrab/tree/FixReleaseBuildCompilationError) in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
-3. 🔎 Reviewed a PR in a private repo
-4. 📝 Committed to a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on a review of a PR in a private repo
-7. 🔎 Reviewed a PR in a private repo
-8. 🗣 Commented on a review of a PR in a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 📝 Committed to [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab/commit/0e1b4eea52b7a53ef7a6bf807a83587eac4b4744)
+1. 📥 Opened [PR #5](https://github.com/PeterHuberSg/MasterGrab/pull/5) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
+2. 🆕 Opened an issue [#4](https://github.com/PeterHuberSg/MasterGrab/issues/4) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
+3. 🎉 Created a new branch [`FixReleaseBuildCompilationError`](https://github.com/bstordrup/MasterGrab/tree/FixReleaseBuildCompilationError) in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
+4. 🔎 Reviewed a PR in a private repo
+5. 📝 Committed to a private repo
+6. 🔎 Reviewed a PR in a private repo
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
+10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
