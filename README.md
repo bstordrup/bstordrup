@@ -36,13 +36,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 🎉 Created a new branch in a private repo
-5. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 🎉 Created a new branch in a private repo
 6. 📝 Committed to a private repo
-7. 🍴 Forked [bstordrup/kiota-dotnet](https://github.com/bstordrup/kiota-dotnet)
-8. 🍴 Forked [bstordrup/kiota](https://github.com/bstordrup/kiota)
-9. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/7a5ab9e32c4a8a66b925b9380408a6847e3fd098)
-10. 📥 Opened [PR #5](https://github.com/PeterHuberSg/MasterGrab/pull/5) in [PeterHuberSg/MasterGrab](https://github.com/PeterHuberSg/MasterGrab)
+7. 📝 Committed to a private repo
+8. 🍴 Forked [bstordrup/kiota-dotnet](https://github.com/bstordrup/kiota-dotnet)
+9. 🍴 Forked [bstordrup/kiota](https://github.com/bstordrup/kiota)
+10. 📝 Committed to [bstordrup/command-line-api](https://github.com/bstordrup/command-line-api/commit/7a5ab9e32c4a8a66b925b9380408a6847e3fd098)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
