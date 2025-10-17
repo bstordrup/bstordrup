@@ -33,14 +33,14 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [bstordrup/kiota](https://github.com/bstordrup/kiota/commit/779461ceeb322b9cf8f403d14a8dd8c97af4add4)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab/commit/de3d01bcd70b224823d65b8cc7a03313ac932a2a)
-5. 🗑️ Deleted a branch `FixReleaseBuildCompilationError` in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
+1. 🏷️ Added a label to an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
+2. 🏷️ Added a label to an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
+3. 🆕 Opened an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
+4. 📝 Committed to [bstordrup/kiota](https://github.com/bstordrup/kiota/commit/779461ceeb322b9cf8f403d14a8dd8c97af4add4)
+5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
+7. 📝 Committed to [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab/commit/de3d01bcd70b224823d65b8cc7a03313ac932a2a)
+8. 🗑️ Deleted a branch `FixReleaseBuildCompilationError` in [bstordrup/MasterGrab](https://github.com/bstordrup/MasterGrab)
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
