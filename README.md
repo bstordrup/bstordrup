@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 🗣 Commented on a review of a PR in a private repo
-3. 📥 Opened a PR in a private repo
-4. 🎉 Created a new branch in a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 🏷️ Added a label to an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
-8. 🏷️ Added a label to an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
-9. 🆕 Opened an issue [#7017](https://github.com/microsoft/kiota/issues/7017) in [microsoft/kiota](https://github.com/microsoft/kiota)
-10. 📝 Committed to [bstordrup/kiota](https://github.com/bstordrup/kiota/commit/779461ceeb322b9cf8f403d14a8dd8c97af4add4)
+1. 🗑️ Deleted a branch in a private repo
+2. 📝 Committed to a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 🗣 Commented on a review of a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 📥 Opened a PR in a private repo
+8. 🎉 Created a new branch in a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
