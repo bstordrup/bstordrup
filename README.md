@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🗑️ Deleted a branch in a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📥 Opened a PR in a private repo
+1. 🍴 Forked [bstordrup/source-generator](https://github.com/bstordrup/source-generator)
+2. 🏷️ Added a label to an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
+3. 🏷️ Added a label to an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
+4. 🆕 Opened an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
+5. 🗑️ Deleted a branch in a private repo
+6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
-9. 🎉 Created a new branch in a private repo
-10. 🗑️ Deleted a branch in a private repo
+9. 📝 Committed to a private repo
+10. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
