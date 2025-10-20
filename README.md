@@ -38,8 +38,8 @@ I have been working with software development since I was hired in a Danish comp
 3. 🏷️ Added a label to an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
 4. 🏷️ Added a label to an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
 5. 🆕 Opened an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
+6. 🗑️ Deleted a branch in a private repo
+7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
