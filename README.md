@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repo
-2. 📝 Committed to a private repo
-3. 🎉 Created a new branch in a private repo
-4. 📥 Opened a PR in a private repo
-5. 🎉 Created a new branch in a private repo
-6. 🗑️ Deleted a branch in a private repo
-7. 📝 Committed to a private repo
+1. 🔎 Reviewed a PR in a private repo
+2. 🗣 Commented on a review of a PR in a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 🗣 Commented on a review of a PR in a private repo
+5. 🗑️ Deleted a branch in a private repo
+6. 📝 Committed to a private repo
+7. 🎉 Created a new branch in a private repo
 8. 📥 Opened a PR in a private repo
-9. 🍴 Forked [bstordrup/source-generator](https://github.com/bstordrup/source-generator)
-10. 🏷️ Added a label to an issue [#41](https://github.com/octokit/dotnet-sdk-enterprise-cloud/issues/41) in [octokit/dotnet-sdk-enterprise-cloud](https://github.com/octokit/dotnet-sdk-enterprise-cloud)
+9. 🎉 Created a new branch in a private repo
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
