@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
-2. 📝 Committed to a private repo
-3. 🗑️ Deleted a branch in a private repo
-4. 📝 Committed to a private repo
+1. 🔎 Reviewed a PR in a private repo
+2. 🎉 Created a new branch in a private repo
+3. 📝 Committed to a private repo
+4. 🗑️ Deleted a branch in a private repo
 5. 📝 Committed to a private repo
-6. 🔎 Reviewed a PR in a private repo
-7. 🗣 Commented on a review of a PR in a private repo
-8. 📝 Committed to a private repo
-9. 📥 Opened a PR in a private repo
-10. 🎉 Created a new branch in a private repo
+6. 📝 Committed to a private repo
+7. 🔎 Reviewed a PR in a private repo
+8. 🗣 Commented on a review of a PR in a private repo
+9. 📝 Committed to a private repo
+10. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
