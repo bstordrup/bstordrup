@@ -36,13 +36,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 🔎 Reviewed a PR in a private repo
 2. 📝 Committed to a private repo
 3. 🗑️ Deleted a branch in a private repo
-4. 📝 Committed to a private repo
-5. 📥 Opened a PR in a private repo
-6. 🎉 Created a new branch in a private repo
-7. 🚀 Published release in a private repo
-8. 🗑️ Deleted a branch in a private repo
-9. 📝 Committed to a private repo
-10. 📥 Opened a PR in a private repo
+4. 🔀 Merged a PR in a private repo
+5. 📝 Committed to a private repo
+6. 📥 Opened a PR in a private repo
+7. 🎉 Created a new branch in a private repo
+8. 🚀 Published release in a private repo
+9. 🔀 Merged a PR in a private repo
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
