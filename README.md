@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🗑️ Deleted a branch in a private repo
-2. 🔀 Merged a PR in a private repo
-3. 📝 Committed to a private repo
-4. 📥 Opened a PR in a private repo
-5. 🎉 Created a new branch in a private repo
-6. 📥 Opened a PR in a private repo
-7. 🎉 Created a new branch in a private repo
-8. 🔎 Reviewed a PR in a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+2. 🗣 Commented on an issue in a private repo
+3. ❌ Closed a PR in a private repo
+4. 🗑️ Deleted a branch in a private repo
+5. 🔀 Merged a PR in a private repo
+6. 📝 Committed to a private repo
+7. 📥 Opened a PR in a private repo
+8. 🎉 Created a new branch in a private repo
+9. 📥 Opened a PR in a private repo
+10. 🎉 Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
