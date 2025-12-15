@@ -33,9 +33,9 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repo
-2. ⭐ Starred [block/goose](https://github.com/block/goose)
-3. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 🎉 Created a new branch in a private repo
+3. ⭐ Starred [block/goose](https://github.com/block/goose)
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
