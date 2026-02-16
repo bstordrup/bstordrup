@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. 🎉 Created a new branch in a private repo
+1. 🗑️ Deleted a branch in a private repo
+2. 🔀 Merged a PR in a private repo
 3. 📝 Committed to a private repo
-4. ⭐ Starred [milanm/AutoGrad-Engine](https://github.com/milanm/AutoGrad-Engine)
-5. 📝 Committed to a private repo
-6. ⭐ Starred [DavidWittman/csrgenerator.com](https://github.com/DavidWittman/csrgenerator.com)
+4. 🏷️ Added a label to a PR in a private repo
+5. 📥 Opened a PR in a private repo
+6. 🎉 Created a new branch in a private repo
 7. 📝 Committed to a private repo
-8. 🎉 Created a new branch in a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🗣 Commented on a review of a PR in a private repo
+8. ⭐ Starred [milanm/AutoGrad-Engine](https://github.com/milanm/AutoGrad-Engine)
+9. 📝 Committed to a private repo
+10. ⭐ Starred [DavidWittman/csrgenerator.com](https://github.com/DavidWittman/csrgenerator.com)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
