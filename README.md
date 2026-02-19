@@ -33,14 +33,14 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🗑️ Deleted a branch in a private repo
-3. 🔀 Merged a PR in a private repo
-4. 📝 Committed to a private repo
+1. 🍴 Forked [CoreWCF/samples](https://github.com/CoreWCF/samples)
+2. 📝 Committed to a private repo
+3. 🗑️ Deleted a branch in a private repo
+4. 🔀 Merged a PR in a private repo
 5. 📝 Committed to a private repo
-6. ⭐ Starred [CoreWCF/samples](https://github.com/CoreWCF/samples)
-7. 🍴 Forked [github/awesome-copilot](https://github.com/github/awesome-copilot)
-8. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. ⭐ Starred [CoreWCF/samples](https://github.com/CoreWCF/samples)
+8. 🍴 Forked [github/awesome-copilot](https://github.com/github/awesome-copilot)
 9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
