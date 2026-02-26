@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🔎 Reviewed a PR in a private repo
-2. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-3. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
-4. 🗣 Commented on issue [#13948](https://github.com/microsoft/WSL/issues/13948) in [microsoft/WSL](https://github.com/microsoft/WSL): [View Comment](https://github.com/microsoft/WSL/issues/13948#issuecomment-3958692272)
-5. 🍴 Forked [CoreWCF/samples](https://github.com/CoreWCF/samples)
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
-8. 🔀 Merged a PR in a private repo
+2. 🔎 Reviewed a PR in a private repo
+3. 🗣 Commented on a review of a PR in a private repo
+4. 🔎 Reviewed a PR in a private repo
+5. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+6. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
+7. 🗣 Commented on issue [#13948](https://github.com/microsoft/WSL/issues/13948) in [microsoft/WSL](https://github.com/microsoft/WSL): [View Comment](https://github.com/microsoft/WSL/issues/13948#issuecomment-3958692272)
+8. 🍴 Forked [CoreWCF/samples](https://github.com/CoreWCF/samples)
 9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
