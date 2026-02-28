@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
-2. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-3. 🔎 Reviewed a PR in a private repo
-4. 🔎 Reviewed a PR in a private repo
-5. 🗣 Commented on a review of a PR in a private repo
+1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+2. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+3. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
+4. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+5. 🔎 Reviewed a PR in a private repo
 6. 🔎 Reviewed a PR in a private repo
-7. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-8. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
-9. 🗣 Commented on issue [#13948](https://github.com/microsoft/WSL/issues/13948) in [microsoft/WSL](https://github.com/microsoft/WSL): [View Comment](https://github.com/microsoft/WSL/issues/13948#issuecomment-3958692272)
-10. 🍴 Forked [CoreWCF/samples](https://github.com/CoreWCF/samples)
+7. 🗣 Commented on a review of a PR in a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+10. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
