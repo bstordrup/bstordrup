@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-2. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-3. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
-4. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-5. 🔎 Reviewed a PR in a private repo
+1. ⭐ Starred [cporter202/social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis)
+2. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+3. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+4. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
+5. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 6. 🔎 Reviewed a PR in a private repo
-7. 🗣 Commented on a review of a PR in a private repo
-8. 🔎 Reviewed a PR in a private repo
-9. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-10. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
+7. 🔎 Reviewed a PR in a private repo
+8. 🗣 Commented on a review of a PR in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. ⭐ Starred [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
