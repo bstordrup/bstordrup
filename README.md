@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
-2. ⭐ Starred [madbob/awesome-linux-dev](https://github.com/madbob/awesome-linux-dev)
-3. ⭐ Starred [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
-4. ⭐ Starred [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl)
-5. ⭐ Starred [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
-6. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-7. ⭐ Starred [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux)
-8. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-9. ⭐ Starred [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-10. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)
+1. 🔎 Reviewed a PR in a private repo
+2. ⭐ Starred [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
+3. ⭐ Starred [madbob/awesome-linux-dev](https://github.com/madbob/awesome-linux-dev)
+4. ⭐ Starred [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
+5. ⭐ Starred [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl)
+6. ⭐ Starred [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
+7. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+8. ⭐ Starred [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux)
+9. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+10. ⭐ Starred [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
