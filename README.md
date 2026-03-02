@@ -33,12 +33,12 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch [`FixRemotesListing`](https://github.com/bstordrup/Rclone_Gui_IA/tree/FixRemotesListing) in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
+1. 📥 Opened [PR #4](https://github.com/xtremevice/Rclone_Gui_IA/pull/4) in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA)
+2. 🆕 Opened an issue [#3](https://github.com/xtremevice/Rclone_Gui_IA/issues/3) in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA)
+3. 🎉 Created a new branch [`FixRemotesListing`](https://github.com/bstordrup/Rclone_Gui_IA/tree/FixRemotesListing) in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA)
 4. 📝 Committed to a private repo
-5. 🔎 Reviewed a PR in a private repo
-6. 🗣 Commented on a review of a PR in a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
 7. 🔎 Reviewed a PR in a private repo
 8. 🗣 Commented on a review of a PR in a private repo
 9. 🔎 Reviewed a PR in a private repo
