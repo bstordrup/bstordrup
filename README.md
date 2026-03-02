@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📥 Opened a PR in a private repo
-3. 🎉 Created a new branch in a private repo
-4. 🔎 Reviewed a PR in a private repo
-5. ⭐ Starred [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
-6. ⭐ Starred [madbob/awesome-linux-dev](https://github.com/madbob/awesome-linux-dev)
-7. ⭐ Starred [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
-8. ⭐ Starred [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl)
-9. ⭐ Starred [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
-10. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 🍴 Forked [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA)
+6. 📝 Committed to a private repo
+7. 📥 Opened a PR in a private repo
+8. 🎉 Created a new branch in a private repo
+9. 🔎 Reviewed a PR in a private repo
+10. ⭐ Starred [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
