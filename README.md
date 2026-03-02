@@ -35,14 +35,14 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 🔎 Reviewed a PR in a private repo
 2. 🗣 Commented on a review of a PR in a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 🍴 Forked [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA)
-8. 📝 Committed to a private repo
-9. 📥 Opened a PR in a private repo
-10. 🎉 Created a new branch in a private repo
+3. 🔎 Reviewed a PR in a private repo
+4. 🗣 Commented on a review of a PR in a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 📝 Committed to a private repo
+8. 🔎 Reviewed a PR in a private repo
+9. 🗣 Commented on a review of a PR in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
