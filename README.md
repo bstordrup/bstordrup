@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 🗑️ Deleted a branch in a private repo
-3. 📝 Committed to a private repo
-4. 🔀 Merged a PR in a private repo
-5. 🗣 Commented on an issue in a private repo
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch in a private repo
+1. 🆕 Opened an issue [#6138](https://github.com/microsoft/STL/issues/6138) in [microsoft/STL](https://github.com/microsoft/STL)
+2. 📝 Committed to [bstordrup/STL](https://github.com/bstordrup/STL/commit/117ca965fe2f7157540edd9df5a62b0e42d7ece2)
+3. 🔎 Reviewed a PR in a private repo
+4. 🗑️ Deleted a branch in a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
+7. 🗣 Commented on an issue in a private repo
 8. 📝 Committed to a private repo
-9. 🔎 Reviewed a PR in a private repo
-10. 🔎 Reviewed a PR in a private repo
+9. 🗑️ Deleted a branch in a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
