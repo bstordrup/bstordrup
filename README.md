@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-2. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
-3. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
-4. 🗑️ Deleted a branch in a private repo
-5. 📝 Committed to a private repo
-6. 🔀 Merged a PR in a private repo
-7. 📝 Committed to a private repo
-8. 📥 Opened a PR in a private repo
-9. 🎉 Created a new branch in a private repo
-10. 🗑️ Deleted a branch in a private repo
+1. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+2. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+3. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+4. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+5. 🗑️ Deleted a branch in a private repo
+6. 📝 Committed to a private repo
+7. 🔀 Merged a PR in a private repo
+8. 📝 Committed to a private repo
+9. 📥 Opened a PR in a private repo
+10. 🎉 Created a new branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
