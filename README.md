@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Reviewed a PR in a private repo
-2. 🗣 Commented on a review of a PR in a private repo
-3. 📝 Committed to a private repo
-4. 📥 Opened a PR in a private repo
-5. 🎉 Created a new branch in a private repo
-6. 🔎 Reviewed a PR in a private repo
+1. 📝 Committed to a private repo
+2. 🔎 Reviewed a PR in a private repo
+3. 🗣 Commented on a review of a PR in a private repo
+4. 📝 Committed to a private repo
+5. 📥 Opened a PR in a private repo
+6. 🎉 Created a new branch in a private repo
 7. 🔎 Reviewed a PR in a private repo
-8. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
-9. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-10. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+8. 🔎 Reviewed a PR in a private repo
+9. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+10. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
