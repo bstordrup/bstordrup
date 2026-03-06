@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
-2. 📝 Committed to a private repo
+1. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+2. ⭐ Starred [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
 3. 📝 Committed to a private repo
-4. 🔎 Reviewed a PR in a private repo
-5. 🗣 Commented on a review of a PR in a private repo
-6. 📝 Committed to a private repo
-7. 📥 Opened a PR in a private repo
-8. 🎉 Created a new branch in a private repo
-9. 🔎 Reviewed a PR in a private repo
+4. 📝 Committed to a private repo
+5. 🔎 Reviewed a PR in a private repo
+6. 🗣 Commented on a review of a PR in a private repo
+7. 📝 Committed to a private repo
+8. 📥 Opened a PR in a private repo
+9. 🎉 Created a new branch in a private repo
 10. 🔎 Reviewed a PR in a private repo
 <!--END_SECTION:activity-->
 
