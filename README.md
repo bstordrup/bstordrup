@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. 🎉 Created a new branch in a private repo
+1. 🗑️ Deleted a branch in a private repo
+2. 🔀 Merged a PR in a private repo
 3. 📝 Committed to a private repo
-4. 🗑️ Deleted a branch in a private repo
-5. 🔀 Merged a PR in a private repo
-6. 📥 Opened a PR in a private repo
-7. 🎉 Created a new branch in a private repo
-8. 🗣 Commented on issue [#4](https://github.com/xtremevice/Rclone_Gui_IA/issues/4) in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA): [View Comment](https://github.com/xtremevice/Rclone_Gui_IA/issues/4#issuecomment-4023793909)
-9. 🗑️ Deleted a branch in a private repo
-10. ❌ Closed a PR in a private repo
+4. 📥 Opened a PR in a private repo
+5. 📝 Committed to a private repo
+6. 🎉 Created a new branch in a private repo
+7. 📥 Opened a PR in a private repo
+8. 🎉 Created a new branch in a private repo
+9. 📝 Committed to a private repo
+10. 🗑️ Deleted a branch in a private repo
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
