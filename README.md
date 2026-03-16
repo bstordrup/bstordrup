@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repository
-2. 🔀 Merged PR in a private repository
-3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
+3. 🔎 Created PR in a private repository
+4. 🗣 Commented on a review of PR in a private repository
 5. 🔎 Created PR in a private repository
-6. 📝 Committed to in a private repository
+6. 🗣 Commented on a review of PR in a private repository
 7. 🔎 Created PR in a private repository
-8. 🔎 Dismissed review for PR in a private repository
-9. 📝 Committed to in a private repository
-10. ⭐ Starred [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)
+8. 🗣 Commented on a review of PR in a private repository
+9. 🗑️ Deleted a branch in a private repository
+10. 🔀 Merged PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
