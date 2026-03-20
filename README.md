@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
+1. ⭐ Starred [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)
 2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
-4. 🗣 Commented on a review of PR in a private repository
-5. 🔎 Created PR in a private repository
-6. 📝 Committed to in a private repository
+4. 📝 Committed to in a private repository
+5. 🗣 Commented on a review of PR in a private repository
+6. 🔎 Created PR in a private repository
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
 9. 📝 Committed to in a private repository
-10. 📥 Opened PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
