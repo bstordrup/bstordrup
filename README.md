@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
-2. ⭐ Starred [4gray/iptvnator](https://github.com/4gray/iptvnator)
-3. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
-4. ⭐ Starred [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)
-5. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-6. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-7. ⭐ Starred [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player)
-8. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
-9. ⭐ Starred [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)
-10. 📝 Committed to in a private repository
+1. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+2. ⭐ Starred [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
+3. ⭐ Starred [4gray/iptvnator](https://github.com/4gray/iptvnator)
+4. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+5. ⭐ Starred [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)
+6. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+7. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
+8. ⭐ Starred [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player)
+9. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+10. ⭐ Starred [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
