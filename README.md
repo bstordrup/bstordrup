@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)
-2. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-3. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-4. ⭐ Starred [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player)
-5. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
-6. ⭐ Starred [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)
-7. 📝 Committed to in a private repository
+1. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+2. ⭐ Starred [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)
+3. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+4. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
+5. ⭐ Starred [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player)
+6. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+7. ⭐ Starred [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list)
 8. 📝 Committed to in a private repository
 9. 📝 Committed to in a private repository
-10. 🗣 Commented on a review of PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
