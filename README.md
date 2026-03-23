@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 🗣 Commented on PR in a private repository
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
 3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch in a private repository
-6. ⭐ Starred [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)
-7. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
-8. ⭐ Starred [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
-9. ⭐ Starred [4gray/iptvnator](https://github.com/4gray/iptvnator)
-10. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+4. 🗣 Commented on PR in a private repository
+5. 📝 Committed to in a private repository
+6. 🗣 Commented on PR in a private repository
+7. 📝 Committed to in a private repository
+8. 📝 Committed to in a private repository
+9. 🎉 Created a new branch in a private repository
+10. ⭐ Starred [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
