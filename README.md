@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)
-2. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
-3. ⭐ Starred [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
-4. ⭐ Starred [4gray/iptvnator](https://github.com/4gray/iptvnator)
-5. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
-6. ⭐ Starred [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)
-7. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-8. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-9. ⭐ Starred [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player)
-10. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+1. 📝 Committed to in a private repository
+2. 🗣 Commented on PR in a private repository
+3. 📝 Committed to in a private repository
+4. 📝 Committed to in a private repository
+5. 🎉 Created a new branch in a private repository
+6. ⭐ Starred [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)
+7. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+8. ⭐ Starred [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
+9. ⭐ Starred [4gray/iptvnator](https://github.com/4gray/iptvnator)
+10. ⭐ Starred [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
