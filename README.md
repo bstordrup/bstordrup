@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 🆕 Opened issue in a private repository
-3. 👤 Assigned issue in a private repository
-4. 📝 Committed to in a private repository
-5. ⭐ Starred [hkdb/aerion](https://github.com/hkdb/aerion)
-6. 🔎 Created PR in a private repository
-7. 🗣 Commented on a review of PR in a private repository
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
+3. 📝 Committed to in a private repository
+4. 🆕 Opened issue in a private repository
+5. 👤 Assigned issue in a private repository
+6. 📝 Committed to in a private repository
+7. ⭐ Starred [hkdb/aerion](https://github.com/hkdb/aerion)
 8. 🔎 Created PR in a private repository
 9. 🗣 Commented on a review of PR in a private repository
-10. 📝 Committed to in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
