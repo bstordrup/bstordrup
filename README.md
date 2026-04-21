@@ -33,13 +33,13 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-2. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-3. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)
-4. 🔎 Created PR in a private repository
-5. 🗣 Commented on a review of PR in a private repository
-6. 📝 Committed to in a private repository
-7. 📝 Committed to in a private repository
+1. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+2. 📝 Committed to in a private repository
+3. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+4. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+5. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)
+6. 🔎 Created PR in a private repository
+7. 🗣 Commented on a review of PR in a private repository
 8. 📝 Committed to in a private repository
 9. 📝 Committed to in a private repository
 10. 📝 Committed to in a private repository
