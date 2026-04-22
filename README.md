@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+1. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+2. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+3. ⭐ Starred [TheRealSeanDonahoe/ijfw](https://github.com/TheRealSeanDonahoe/ijfw)
 4. 📝 Committed to in a private repository
-5. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-6. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-7. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)
-8. 🔎 Created PR in a private repository
-9. 🗣 Commented on a review of PR in a private repository
-10. 📝 Committed to in a private repository
+5. 📝 Committed to in a private repository
+6. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+7. 📝 Committed to in a private repository
+8. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+9. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+10. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
