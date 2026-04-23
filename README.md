@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [marcus/sidecar](https://github.com/marcus/sidecar)
-2. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-3. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-4. ⭐ Starred [TheRealSeanDonahoe/ijfw](https://github.com/TheRealSeanDonahoe/ijfw)
-5. 📝 Committed to in a private repository
-6. 📝 Committed to in a private repository
-7. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
+3. 📝 Committed to in a private repository
+4. ⭐ Starred [marcus/sidecar](https://github.com/marcus/sidecar)
+5. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+6. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+7. ⭐ Starred [TheRealSeanDonahoe/ijfw](https://github.com/TheRealSeanDonahoe/ijfw)
 8. 📝 Committed to in a private repository
-9. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-10. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+9. 📝 Committed to in a private repository
+10. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
