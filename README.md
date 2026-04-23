@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🔎 Created PR in a private repository
-2. 🗣 Commented on a review of PR in a private repository
+2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
-4. ⭐ Starred [marcus/sidecar](https://github.com/marcus/sidecar)
-5. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-6. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-7. ⭐ Starred [TheRealSeanDonahoe/ijfw](https://github.com/TheRealSeanDonahoe/ijfw)
-8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+4. 🔎 Created PR in a private repository
+5. 🗣 Commented on a review of PR in a private repository
+6. 📝 Committed to in a private repository
+7. ⭐ Starred [marcus/sidecar](https://github.com/marcus/sidecar)
+8. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+9. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+10. ⭐ Starred [TheRealSeanDonahoe/ijfw](https://github.com/TheRealSeanDonahoe/ijfw)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
