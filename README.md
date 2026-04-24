@@ -35,14 +35,14 @@ I have been working with software development since I was hired in a Danish comp
 <!--START_SECTION:activity-->
 1. 🔎 Created PR in a private repository
 2. 🗣 Commented on a review of PR in a private repository
-3. 🗣 Commented on a review of PR in a private repository
-4. 🔎 Created PR in a private repository
-5. 📝 Committed to in a private repository
-6. 📝 Committed to in a private repository
-7. 🔎 Created PR in a private repository
-8. 🗣 Commented on a review of PR in a private repository
-9. 📝 Committed to in a private repository
-10. ⭐ Starred [marcus/sidecar](https://github.com/marcus/sidecar)
+3. 🔎 Created PR in a private repository
+4. 🗣 Commented on a review of PR in a private repository
+5. 🗣 Commented on a review of PR in a private repository
+6. 🔎 Created PR in a private repository
+7. 📝 Committed to in a private repository
+8. 📝 Committed to in a private repository
+9. 🔎 Created PR in a private repository
+10. 🗣 Commented on a review of PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
