@@ -33,9 +33,9 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR in a private repository
-2. 🗣 Commented on a review of PR in a private repository
-3. 📝 Committed to in a private repository
+1. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+2. 🔎 Created PR in a private repository
+3. 🗣 Commented on a review of PR in a private repository
 4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
 6. 📝 Committed to in a private repository
