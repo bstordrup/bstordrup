@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [shawnpetros/salazar](https://github.com/shawnpetros/salazar)
-2. ⭐ Starred [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro)
-3. 🔀 Merged PR #4 in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA/pull/4)
-4. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
-7. 📝 Committed to in a private repository
-8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. 📝 Committed to in a private repository
+1. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+2. ⭐ Starred [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+3. ⭐ Starred [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+4. ⭐ Starred [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
+5. ⭐ Starred [NullCodeLabs/Human2ai-intent-codec](https://github.com/NullCodeLabs/Human2ai-intent-codec)
+6. ⭐ Starred [shawnpetros/salazar](https://github.com/shawnpetros/salazar)
+7. ⭐ Starred [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro)
+8. 🔀 Merged PR #4 in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA/pull/4)
+9. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
