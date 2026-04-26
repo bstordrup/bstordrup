@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-2. ⭐ Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
-3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-4. ⭐ Starred [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
-5. ⭐ Starred [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-6. ⭐ Starred [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
-7. ⭐ Starred [NullCodeLabs/Human2ai-intent-codec](https://github.com/NullCodeLabs/Human2ai-intent-codec)
-8. ⭐ Starred [shawnpetros/salazar](https://github.com/shawnpetros/salazar)
-9. ⭐ Starred [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro)
-10. 🔀 Merged PR #4 in [xtremevice/Rclone_Gui_IA](https://github.com/xtremevice/Rclone_Gui_IA/pull/4)
+1. ⭐ Starred [gryszzz/OpenThymos](https://github.com/gryszzz/OpenThymos)
+2. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+3. ⭐ Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+5. ⭐ Starred [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
+6. ⭐ Starred [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
+7. ⭐ Starred [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
+8. ⭐ Starred [NullCodeLabs/Human2ai-intent-codec](https://github.com/NullCodeLabs/Human2ai-intent-codec)
+9. ⭐ Starred [shawnpetros/salazar](https://github.com/shawnpetros/salazar)
+10. ⭐ Starred [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
