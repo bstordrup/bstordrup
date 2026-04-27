@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. 🎉 Created a new branch in a private repository
-4. ⭐ Starred [gryszzz/OpenThymos](https://github.com/gryszzz/OpenThymos)
-5. ⭐ Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-6. ⭐ Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
-7. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-8. ⭐ Starred [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library)
-9. ⭐ Starred [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet)
-10. ⭐ Starred [PowerShell/PSResourceGet](https://github.com/PowerShell/PSResourceGet)
+2. 🔎 Created PR in a private repository
+3. 🗣 Commented on a review of PR in a private repository
+4. 📝 Committed to in a private repository
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on a review of PR in a private repository
+7. 🔎 Created PR in a private repository
+8. 🗣 Commented on a review of PR in a private repository
+9. 🔎 Created PR in a private repository
+10. 🗣 Commented on a review of PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
