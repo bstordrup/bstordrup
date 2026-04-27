@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA/commit/62f90302c2134360cf5514a71babe3dda06c427c)
-2. 🗑️ Deleted a branch FixRemotesListing in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA)
-3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
-7. 📝 Committed to in a private repository
-8. 🔎 Created PR in a private repository
-9. 🗣 Commented on a review of PR in a private repository
+1. 📝 Committed to in a private repository
+2. 📝 Committed to in a private repository
+3. 📝 Committed to main in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA/commit/62f90302c2134360cf5514a71babe3dda06c427c)
+4. 🗑️ Deleted a branch FixRemotesListing in [bstordrup/Rclone_Gui_IA](https://github.com/bstordrup/Rclone_Gui_IA)
+5. 📝 Committed to in a private repository
+6. 📝 Committed to in a private repository
+7. 🔎 Created PR in a private repository
+8. 🗣 Commented on a review of PR in a private repository
+9. 📝 Committed to in a private repository
 10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
