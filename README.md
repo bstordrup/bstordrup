@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to main in [bstordrup/SqlClient](https://github.com/bstordrup/SqlClient/commit/86324fd11c1800d7a6e8e97edffdca869f984235)
-3. 🔎 Created PR in a private repository
-4. 🗣 Commented on a review of PR in a private repository
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+2. 📝 Committed to in a private repository
+3. 📝 Committed to main in [bstordrup/SqlClient](https://github.com/bstordrup/SqlClient/commit/86324fd11c1800d7a6e8e97edffdca869f984235)
+4. 🔎 Created PR in a private repository
+5. 🗣 Commented on a review of PR in a private repository
+6. 🔎 Created PR in a private repository
 7. 🗣 Commented on a review of PR in a private repository
-8. 🔎 Created PR in a private repository
+8. 🗣 Commented on a review of PR in a private repository
 9. 🔎 Created PR in a private repository
-10. 🗣 Commented on a review of PR in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
