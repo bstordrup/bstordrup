@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR in a private repository
-2. 🗣 Commented on a review of PR in a private repository
-3. 🔎 Created PR in a private repository
-4. 🗣 Commented on a review of PR in a private repository
-5. 🗣 Commented on a review of PR in a private repository
-6. 🔎 Created PR in a private repository
+1. 📝 Committed to main in [bstordrup/UniGetUI](https://github.com/bstordrup/UniGetUI/commit/c8368d1e1a2fecb2107fd0f4620365d729fdc568)
+2. 📝 Committed to in a private repository
+3. 📝 Committed to in a private repository
+4. 🗣 Commented on PR in a private repository
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on a review of PR in a private repository
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
-9. 🔎 Created PR in a private repository
-10. 🗣 Commented on a review of PR in a private repository
+9. 📝 Committed to in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
