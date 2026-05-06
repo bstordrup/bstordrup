@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 🍴 Forked [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-3. 🏷️ Added a label to issue #253 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/253)
-4. 🆕 Opened issue #253 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/253)
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
-7. 📝 Committed to in a private repository
-8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. 📝 Committed to in a private repository
+1. ❌ Closed issue in a private repository
+2. 🗑️ Deleted a branch in a private repository
+3. 📝 Committed to in a private repository
+4. 🔀 Merged PR in a private repository
+5. 📝 Committed to in a private repository
+6. 🍴 Forked [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+7. 🏷️ Added a label to issue #253 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/253)
+8. 🆕 Opened issue #253 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/253)
+9. 🔎 Created PR in a private repository
+10. 🗣 Commented on a review of PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
