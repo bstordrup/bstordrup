@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
+2. 🗣 Commented on PR in a private repository
 3. 📝 Committed to in a private repository
-4. 🎉 Created a new branch in a private repository
-5. 📝 Committed to in a private repository
-6. 📥 Opened PR #254 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/pull/254)
-7. 🎉 Created a new branch Issue-253_Support_10x in [bstordrup/dotnet-core](https://github.com/bstordrup/dotnet-core/tree/Issue-253_Support_10x)
-8. ❌ Closed issue in a private repository
-9. 🗑️ Deleted a branch in a private repository
-10. 📝 Committed to in a private repository
+4. 🗣 Commented on PR in a private repository
+5. 🔎 Dismissed review for PR in a private repository
+6. 📝 Committed to in a private repository
+7. 📝 Committed to in a private repository
+8. 📝 Committed to in a private repository
+9. 📝 Committed to in a private repository
+10. 🎉 Created a new branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
