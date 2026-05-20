@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. 🗑️ Deleted a branch in a private repository
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
+3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
-5. 🔀 Merged PR in a private repository
-6. 📥 Opened PR in a private repository
-7. 🎉 Created a new branch in a private repository
-8. 🗣 Commented on PR #254 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/254#issuecomment-4460575063)
-9. 🔀 Merged PR #254 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/pull/254)
-10. 📝 Committed to in a private repository
+5. 🗑️ Deleted a branch in a private repository
+6. 📝 Committed to in a private repository
+7. 🔀 Merged PR in a private repository
+8. 📥 Opened PR in a private repository
+9. 🎉 Created a new branch in a private repository
+10. 🗣 Commented on PR #254 in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core/issues/254#issuecomment-4460575063)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
