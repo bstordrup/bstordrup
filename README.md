@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #146 in [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer/pull/146)
+1. 📝 Committed to in a private repository
 2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
+4. 🔀 Merged PR #146 in [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer/pull/146)
 5. 📝 Committed to in a private repository
-6. 🚀 Published release in a private repository
+6. 📝 Committed to in a private repository
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. 🚀 Published release in a private repository
+9. 🚀 Published release in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
