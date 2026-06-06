@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR in a private repository
-2. 📝 Committed to in a private repository
+1. ⭐ Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
+2. 📥 Opened PR in a private repository
 3. 📝 Committed to in a private repository
-4. 🎉 Created a new branch in a private repository
+4. 📝 Committed to in a private repository
 5. 🎉 Created a new branch in a private repository
-6. 📥 Opened PR in a private repository
-7. 🎉 Created a new branch in a private repository
-8. ⭐ Starred [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
-9. ⭐ Starred [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-10. ⭐ Starred [dotnet/skills](https://github.com/dotnet/skills)
+6. 🎉 Created a new branch in a private repository
+7. 📥 Opened PR in a private repository
+8. 🎉 Created a new branch in a private repository
+9. ⭐ Starred [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
+10. ⭐ Starred [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
