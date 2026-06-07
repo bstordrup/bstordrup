@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
-2. ⭐ Starred [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
-3. ⭐ Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
-4. 📥 Opened PR in a private repository
-5. 📝 Committed to in a private repository
+1. 🎉 Created a new branch SupportSlnx in [bstordrup/nuget-workbench-vscode](https://github.com/bstordrup/nuget-workbench-vscode/tree/SupportSlnx)
+2. 🍴 Forked [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
+3. ⭐ Starred [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
+4. ⭐ Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
+5. 📥 Opened PR in a private repository
 6. 📝 Committed to in a private repository
-7. 🎉 Created a new branch in a private repository
+7. 📝 Committed to in a private repository
 8. 🎉 Created a new branch in a private repository
-9. 📥 Opened PR in a private repository
-10. 🎉 Created a new branch in a private repository
+9. 🎉 Created a new branch in a private repository
+10. 📥 Opened PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
