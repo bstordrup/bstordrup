@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
-2. 📥 Opened PR in a private repository
-3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch in a private repository
-6. 🎉 Created a new branch in a private repository
-7. 📥 Opened PR in a private repository
+1. 🍴 Forked [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
+2. ⭐ Starred [nuget-workbench/nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode)
+3. ⭐ Starred [microsoft/azurelinux](https://github.com/microsoft/azurelinux)
+4. 📥 Opened PR in a private repository
+5. 📝 Committed to in a private repository
+6. 📝 Committed to in a private repository
+7. 🎉 Created a new branch in a private repository
 8. 🎉 Created a new branch in a private repository
-9. ⭐ Starred [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
-10. ⭐ Starred [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+9. 📥 Opened PR in a private repository
+10. 🎉 Created a new branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
