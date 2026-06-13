@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
-2. 📝 Committed to in a private repository
-3. 🗑️ Deleted a branch in a private repository
-4. 🔀 Merged PR in a private repository
-5. 📝 Committed to in a private repository
-6. 🔎 Created PR in a private repository
-7. 🗣 Commented on a review of PR in a private repository
-8. 📝 Committed to in a private repository
-9. 📥 Opened PR in a private repository
-10. 🎉 Created a new branch in a private repository
+1. ⭐ Starred [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
+2. ⭐ Starred [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
+3. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
+4. 📝 Committed to in a private repository
+5. 🗑️ Deleted a branch in a private repository
+6. 🔀 Merged PR in a private repository
+7. 📝 Committed to in a private repository
+8. 🔎 Created PR in a private repository
+9. 🗣 Commented on a review of PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
