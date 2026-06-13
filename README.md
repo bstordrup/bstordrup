@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)
-2. ⭐ Starred [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
-3. ⭐ Starred [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
-4. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
-5. 📝 Committed to in a private repository
-6. 🗑️ Deleted a branch in a private repository
-7. 🔀 Merged PR in a private repository
-8. 📝 Committed to in a private repository
-9. 🔎 Created PR in a private repository
-10. 🗣 Commented on a review of PR in a private repository
+1. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+2. ⭐ Starred [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+3. ⭐ Starred [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)
+4. ⭐ Starred [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
+5. ⭐ Starred [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
+6. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
+7. 📝 Committed to in a private repository
+8. 🗑️ Deleted a branch in a private repository
+9. 🔀 Merged PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
