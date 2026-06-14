@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [bstordrup/windows](https://github.com/bstordrup/windows/commit/c768ba894d100996bf58d050c41065dac3370e02)
-2. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-3. ⭐ Starred [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
-4. ⭐ Starred [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)
-5. ⭐ Starred [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
-6. ⭐ Starred [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
-7. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
-8. 📝 Committed to in a private repository
-9. 🗑️ Deleted a branch in a private repository
-10. 🔀 Merged PR in a private repository
+1. 🍴 Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+2. 🗣 Commented on issue #1975 in [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues/1975#issuecomment-4702237953)
+3. 📝 Committed to master in [bstordrup/windows](https://github.com/bstordrup/windows/commit/c768ba894d100996bf58d050c41065dac3370e02)
+4. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+5. ⭐ Starred [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+6. ⭐ Starred [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity)
+7. ⭐ Starred [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol)
+8. ⭐ Starred [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo)
+9. 🍴 Forked [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager)
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
