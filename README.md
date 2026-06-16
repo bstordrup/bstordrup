@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
-2. 🍴 Forked [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
-3. 🗣 Commented on PR in a private repository
-4. 📝 Committed to in a private repository
-5. 🗣 Commented on issue #1975 in [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues/1975#issuecomment-4705364176)
-6. 📝 Committed to in a private repository
-7. 🍴 Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-8. 🗣 Commented on issue #1975 in [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues/1975#issuecomment-4702237953)
-9. 📝 Committed to master in [bstordrup/windows](https://github.com/bstordrup/windows/commit/c768ba894d100996bf58d050c41065dac3370e02)
-10. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+1. 🗑️ Deleted a branch in a private repository
+2. 🔀 Merged PR in a private repository
+3. 📝 Committed to in a private repository
+4. ⭐ Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
+5. 🍴 Forked [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
+6. 🗣 Commented on PR in a private repository
+7. 📝 Committed to in a private repository
+8. 🗣 Commented on issue #1975 in [rtk-ai/rtk](https://github.com/rtk-ai/rtk/issues/1975#issuecomment-4705364176)
+9. 📝 Committed to in a private repository
+10. 🍴 Forked [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
