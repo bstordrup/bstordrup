@@ -33,11 +33,11 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
-2. 📝 Committed to in a private repository
-3. 🎉 Created a new branch in a private repository
-4. ⭐ Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
-5. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. ⭐ Starred [f/prompts.chat](https://github.com/f/prompts.chat)
+3. 📝 Committed to in a private repository
+4. 🎉 Created a new branch in a private repository
+5. ⭐ Starred [imputnet/cobalt](https://github.com/imputnet/cobalt)
 6. 📝 Committed to in a private repository
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
