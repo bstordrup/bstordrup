@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
+1. ⭐ Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
 2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
-5. 📥 Opened PR in a private repository
-6. 📝 Committed to in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. 📝 Committed to in a private repository
-9. 🔀 Merged PR in a private repository
-10. 🔎 Created PR in a private repository
+5. 📝 Committed to in a private repository
+6. 📥 Opened PR in a private repository
+7. 📝 Committed to in a private repository
+8. 🗑️ Deleted a branch in a private repository
+9. 📝 Committed to in a private repository
+10. 🔀 Merged PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
