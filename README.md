@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-2. ⭐ Starred [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)
-3. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-4. ⭐ Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
-5. 🔎 Created PR in a private repository
+1. 🔎 Created PR in a private repository
+2. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+3. ⭐ Starred [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)
+4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+5. ⭐ Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 6. 🔎 Created PR in a private repository
-7. 🗣 Commented on a review of PR in a private repository
+7. 🔎 Created PR in a private repository
 8. 🗣 Commented on a review of PR in a private repository
-9. 🔎 Created PR in a private repository
-10. ⭐ Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+9. 🗣 Commented on a review of PR in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
