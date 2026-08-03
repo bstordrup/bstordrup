@@ -33,10 +33,10 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
+1. 🆕 Opened issue in a private repository
+2. 🆕 Opened issue in a private repository
+3. 🆕 Opened issue in a private repository
+4. 🍴 Forked [WixEdit/WixEdit](https://github.com/WixEdit/WixEdit)
 5. 📝 Committed to in a private repository
 6. 📝 Committed to in a private repository
 7. 📝 Committed to in a private repository
