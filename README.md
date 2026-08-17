@@ -39,10 +39,10 @@ I have been working with software development since I was hired in a Danish comp
 4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
 6. 📝 Committed to in a private repository
-7. 🗑️ Deleted a branch in a private repository
+7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
-9. 🎉 Created a new branch in a private repository
-10. 🎉 Created a new branch in a private repository
+9. 🗑️ Deleted a branch in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
