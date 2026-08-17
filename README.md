@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 🏷️ Added a label to PR in a private repository
+1. 🏷️ Added a label to PR in a private repository
+2. 📝 Committed to in a private repository
 3. 🏷️ Added a label to PR in a private repository
-4. 📝 Committed to in a private repository
-5. 🏷️ Added a label to PR in a private repository
-6. 📝 Committed to in a private repository
+4. 🏷️ Added a label to PR in a private repository
+5. 📝 Committed to in a private repository
+6. 🏷️ Added a label to PR in a private repository
 7. 🏷️ Added a label to PR in a private repository
 8. 📝 Committed to in a private repository
-9. 🔎 Dismissed review for PR in a private repository
-10. 🏷️ Added a label to PR in a private repository
+9. 🏷️ Added a label to PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
