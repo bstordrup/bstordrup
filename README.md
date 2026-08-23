@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
-2. 🎉 Created a new branch in a private repository
-3. 🗑️ Deleted a branch in a private repository
-4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch in a private repository
-6. 🔀 Merged PR in a private repository
-7. 📥 Opened PR in a private repository
-8. ⭐ Starred [Kuberwastaken/hp-laser-1008a-macos](https://github.com/Kuberwastaken/hp-laser-1008a-macos)
-9. 🔎 Created PR in a private repository
-10. 🎉 Created a new branch in a private repository
+1. ⭐ Starred [only-cli/oc](https://github.com/only-cli/oc)
+2. ⭐ Starred [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
+3. 🎉 Created a new branch in a private repository
+4. 🗑️ Deleted a branch in a private repository
+5. 📝 Committed to in a private repository
+6. 🎉 Created a new branch in a private repository
+7. 🔀 Merged PR in a private repository
+8. 📥 Opened PR in a private repository
+9. ⭐ Starred [Kuberwastaken/hp-laser-1008a-macos](https://github.com/Kuberwastaken/hp-laser-1008a-macos)
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
