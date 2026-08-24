@@ -37,12 +37,12 @@ I have been working with software development since I was hired in a Danish comp
 2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
-5. ⭐ Starred [only-cli/oc](https://github.com/only-cli/oc)
-6. ⭐ Starred [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
-7. 🎉 Created a new branch in a private repository
-8. 🗑️ Deleted a branch in a private repository
-9. 📝 Committed to in a private repository
-10. 🎉 Created a new branch in a private repository
+5. 📝 Committed to in a private repository
+6. ⭐ Starred [only-cli/oc](https://github.com/only-cli/oc)
+7. ⭐ Starred [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
+8. 🎉 Created a new branch in a private repository
+9. 🗑️ Deleted a branch in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
