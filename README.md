@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR in a private repository
-2. 🍴 Forked [xoofx/markdig](https://github.com/xoofx/markdig)
-3. 🆕 Opened issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946)
-4. 🔎 Created PR in a private repository
-5. 🗣 Commented on a review of PR in a private repository
-6. 🔎 Created PR in a private repository
-7. 🗣 Commented on a review of PR in a private repository
-8. 🔎 Created PR in a private repository
-9. 🗣 Commented on a review of PR in a private repository
-10. 🔎 Created PR in a private repository
+1. 🗣 Commented on issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946#issuecomment-5408373452)
+2. 🔎 Created PR in a private repository
+3. 🍴 Forked [xoofx/markdig](https://github.com/xoofx/markdig)
+4. 🆕 Opened issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946)
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on a review of PR in a private repository
+7. 🔎 Created PR in a private repository
+8. 🗣 Commented on a review of PR in a private repository
+9. 🔎 Created PR in a private repository
+10. 🗣 Commented on a review of PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
