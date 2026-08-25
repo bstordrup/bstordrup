@@ -36,13 +36,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 📝 Committed to in a private repository
 2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
-4. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5415136178)
+4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
-6. 📥 Opened PR in a private repository
-7. 📥 Opened PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947)
-8. 🗣 Commented on issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946#issuecomment-5411533777)
-9. 🗣 Commented on issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946#issuecomment-5408373452)
-10. 🔎 Created PR in a private repository
+6. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5415136178)
+7. 📝 Committed to in a private repository
+8. 📥 Opened PR in a private repository
+9. 📥 Opened PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947)
+10. 🗣 Commented on issue #946 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/946#issuecomment-5411533777)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
