@@ -33,12 +33,12 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repository
-2. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. 🎉 Created a new branch in a private repository
 3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/tree/fix/issue946_WrongEmojiRendering)
-6. 📝 Committed to in a private repository
+5. 📝 Committed to in a private repository
+6. 🎉 Created a new branch fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/tree/fix/issue946_WrongEmojiRendering)
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
 9. 📝 Committed to in a private repository
