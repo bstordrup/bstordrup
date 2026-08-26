@@ -41,7 +41,7 @@ I have been working with software development since I was hired in a Danish comp
 6. 📝 Committed to in a private repository
 7. 📝 Committed to in a private repository
 8. 📝 Committed to in a private repository
-9. 🎉 Created a new branch in a private repository
+9. 📝 Committed to in a private repository
 10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
