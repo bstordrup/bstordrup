@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 🔎 Created PR in a private repository
-3. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052604443)
-4. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881885048)
-5. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881755192)
-6. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052455398)
-7. 🗑️ Deleted a branch in a private repository
-8. 📝 Committed to in a private repository
+1. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
+2. 📝 Committed to in a private repository
+3. 🔎 Created PR in a private repository
+4. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052604443)
+5. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881885048)
+6. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881755192)
+7. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052455398)
+8. 🗑️ Deleted a branch in a private repository
 9. 📝 Committed to in a private repository
-10. 🎉 Created a new branch in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
