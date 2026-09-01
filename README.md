@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
-2. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-3. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/5cf829cda2db03c6fdcd2cd89786acecf24edce3)
-4. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
-5. 📝 Committed to in a private repository
-6. 🔎 Created PR in a private repository
-7. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052604443)
-8. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881885048)
-9. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881755192)
-10. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052455398)
+1. 🔎 Created PR in a private repository
+2. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
+3. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+4. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/5cf829cda2db03c6fdcd2cd89786acecf24edce3)
+5. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
+6. 📝 Committed to in a private repository
+7. 🔎 Created PR in a private repository
+8. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052604443)
+9. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881885048)
+10. 🗣 Commented on a review of PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreviewcomment-3881755192)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
