@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
+1. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5522283322)
 2. 📝 Committed to in a private repository
-3. 🔎 Created PR in a private repository
-4. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
-5. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-6. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/5cf829cda2db03c6fdcd2cd89786acecf24edce3)
-7. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
-8. 📝 Committed to in a private repository
-9. 🔎 Created PR in a private repository
-10. 🔎 Created PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947#pullrequestreview-5052604443)
+3. 📝 Committed to in a private repository
+4. 🔎 Created PR in a private repository
+5. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
+6. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+7. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/5cf829cda2db03c6fdcd2cd89786acecf24edce3)
+8. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
+9. 📝 Committed to in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
