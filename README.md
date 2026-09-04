@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR in a private repository
-2. 📝 Committed to in a private repository
-3. 📝 Committed to in a private repository
-4. 📝 Committed to in a private repository
-5. 📝 Committed to in a private repository
-6. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5522283322)
-7. 📝 Committed to in a private repository
+1. 🔎 Created PR in a private repository
+2. 🗣 Commented on a review of PR in a private repository
+3. 🔎 Created PR in a private repository
+4. 🗣 Commented on a review of PR in a private repository
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on a review of PR in a private repository
+7. 📥 Opened PR in a private repository
 8. 📝 Committed to in a private repository
-9. 🔎 Created PR in a private repository
-10. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
+9. 📝 Committed to in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
