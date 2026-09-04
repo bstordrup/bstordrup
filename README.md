@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
+1. 📥 Opened PR in a private repository
 2. 📝 Committed to in a private repository
-3. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5522283322)
+3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
-6. 🔎 Created PR in a private repository
-7. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
-8. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-9. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/5cf829cda2db03c6fdcd2cd89786acecf24edce3)
-10. 📝 Committed to fix/issue946_WrongEmojiRendering in [bstordrup/markdig](https://github.com/bstordrup/markdig/commit/0fb119d02c8b63999d34db864a61f61ac01a7e00)
+6. 🗣 Commented on PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/issues/947#issuecomment-5522283322)
+7. 📝 Committed to in a private repository
+8. 📝 Committed to in a private repository
+9. 🔎 Created PR in a private repository
+10. ⭐ Starred [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
