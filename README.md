@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. 🔀 Merged PR in a private repository
+1. 🎉 Created a new branch in a private repository
+2. 📥 Opened PR in a private repository
+3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
-5. 📥 Opened PR in a private repository
+5. 🔀 Merged PR in a private repository
 6. 📝 Committed to in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. 🔀 Merged PR in a private repository
-9. 📝 Committed to in a private repository
-10. 🍴 Forked [AvaloniaUI/Avalonia.Controls.WebView](https://github.com/AvaloniaUI/Avalonia.Controls.WebView)
+7. 📥 Opened PR in a private repository
+8. 📝 Committed to in a private repository
+9. 🗑️ Deleted a branch in a private repository
+10. 🔀 Merged PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
