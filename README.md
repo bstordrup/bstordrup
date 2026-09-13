@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch in a private repository
-2. 📝 Committed to in a private repository
-3. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. 🗑️ Deleted a branch in a private repository
+3. 🎉 Created a new branch in a private repository
 4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch in a private repository
-6. ⭐ Starred [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
-7. 📝 Committed to in a private repository
-8. 🗑️ Deleted a branch in a private repository
-9. 🔀 Merged PR in a private repository
-10. 🔎 Created PR in a private repository
+5. 📝 Committed to in a private repository
+6. 📝 Committed to in a private repository
+7. 🎉 Created a new branch in a private repository
+8. ⭐ Starred [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
+9. 📝 Committed to in a private repository
+10. 🗑️ Deleted a branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
