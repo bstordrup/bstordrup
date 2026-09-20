@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947)
-2. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. 🔀 Merged PR #947 in [xoofx/markdig](https://github.com/xoofx/markdig/pull/947)
 3. 📝 Committed to in a private repository
 4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
 6. 📝 Committed to in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. ⭐ Starred [actions/runner](https://github.com/actions/runner)
-9. 🗑️ Deleted a branch in a private repository
-10. 📝 Committed to in a private repository
+7. 📝 Committed to in a private repository
+8. 🗑️ Deleted a branch in a private repository
+9. ⭐ Starred [actions/runner](https://github.com/actions/runner)
+10. 🗑️ Deleted a branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
