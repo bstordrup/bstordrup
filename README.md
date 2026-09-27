@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [FareedKhan-dev/claude-code-staff-engineer](https://github.com/FareedKhan-dev/claude-code-staff-engineer)
-2. ⭐ Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-3. 📝 Committed to in a private repository
-4. 🗑️ Deleted a branch in a private repository
-5. 🎉 Created a new branch in a private repository
+1. ⭐ Starred [FareedKhan-dev/optimize-ai-agent-memory](https://github.com/FareedKhan-dev/optimize-ai-agent-memory)
+2. ⭐ Starred [FareedKhan-dev/claude-code-staff-engineer](https://github.com/FareedKhan-dev/claude-code-staff-engineer)
+3. ⭐ Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+4. 📝 Committed to in a private repository
+5. 🗑️ Deleted a branch in a private repository
 6. 🎉 Created a new branch in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. 📝 Committed to in a private repository
+7. 🎉 Created a new branch in a private repository
+8. 🗑️ Deleted a branch in a private repository
 9. 📝 Committed to in a private repository
-10. 🗑️ Deleted a branch in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
