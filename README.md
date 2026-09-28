@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in a private repository
-2. 📝 Committed to in a private repository
-3. 📝 Committed to master in [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/962da56e99ff7ab706c3c6f0aeb24e4af91a0d4f)
-4. 🗑️ Deleted a branch in a private repository
-5. 🔀 Merged PR in a private repository
-6. 📝 Committed to in a private repository
-7. 📝 Committed to in a private repository
-8. 📝 Committed to in a private repository
+1. ⭐ Starred [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+2. ⭐ Starred [adamralph/simple-exec](https://github.com/adamralph/simple-exec)
+3. 📝 Committed to in a private repository
+4. 📝 Committed to in a private repository
+5. 📝 Committed to in a private repository
+6. 📝 Committed to master in [bstordrup/BenchmarkDotNet](https://github.com/bstordrup/BenchmarkDotNet/commit/962da56e99ff7ab706c3c6f0aeb24e4af91a0d4f)
+7. 🗑️ Deleted a branch in a private repository
+8. 🔀 Merged PR in a private repository
 9. 📝 Committed to in a private repository
-10. 📥 Opened PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
