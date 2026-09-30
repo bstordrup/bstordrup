@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release in a private repository
-2. 📝 Committed to in a private repository
-3. 🗣 Commented on issue in a private repository
-4. ❌ Closed issue in a private repository
-5. 🗣 Commented on issue in a private repository
-6. ❌ Closed issue in a private repository
-7. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. 🚀 Published release in a private repository
+3. 📝 Committed to in a private repository
+4. 🗣 Commented on issue in a private repository
+5. ❌ Closed issue in a private repository
+6. 🗣 Commented on issue in a private repository
+7. ❌ Closed issue in a private repository
 8. 📝 Committed to in a private repository
-9. ⭐ Starred [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-10. ⭐ Starred [adamralph/simple-exec](https://github.com/adamralph/simple-exec)
+9. 📝 Committed to in a private repository
+10. ⭐ Starred [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
