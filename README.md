@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to in a private repository
-2. 🚀 Published release in a private repository
+2. 📝 Committed to in a private repository
 3. 📝 Committed to in a private repository
-4. 🗣 Commented on issue in a private repository
-5. ❌ Closed issue in a private repository
+4. 🚀 Published release in a private repository
+5. 📝 Committed to in a private repository
 6. 🗣 Commented on issue in a private repository
 7. ❌ Closed issue in a private repository
-8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. ⭐ Starred [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+8. 🗣 Commented on issue in a private repository
+9. ❌ Closed issue in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
