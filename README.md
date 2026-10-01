@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [fulldiagnose/antigravity-fixer](https://github.com/fulldiagnose/antigravity-fixer)
-2. ⭐ Starred [ZhangYu-zjut/awesome-Antigravity](https://github.com/ZhangYu-zjut/awesome-Antigravity)
-3. 📝 Committed to in a private repository
+1. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)
+2. ⭐ Starred [fulldiagnose/antigravity-fixer](https://github.com/fulldiagnose/antigravity-fixer)
+3. ⭐ Starred [ZhangYu-zjut/awesome-Antigravity](https://github.com/ZhangYu-zjut/awesome-Antigravity)
 4. 📝 Committed to in a private repository
 5. 📝 Committed to in a private repository
-6. 🚀 Published release in a private repository
-7. 📝 Committed to in a private repository
-8. 🗣 Commented on issue in a private repository
-9. ❌ Closed issue in a private repository
-10. 🗣 Commented on issue in a private repository
+6. 📝 Committed to in a private repository
+7. 🚀 Published release in a private repository
+8. 📝 Committed to in a private repository
+9. 🗣 Commented on issue in a private repository
+10. ❌ Closed issue in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
