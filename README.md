@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR in a private repository
+1. 🗑️ Deleted a branch in a private repository
 2. 📝 Committed to in a private repository
 3. 🔀 Merged PR in a private repository
-4. 📝 Committed to in a private repository
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
-7. 📥 Opened PR in a private repository
-8. 🗣 Commented on issue #7266 in [github/rest-api-description](https://github.com/github/rest-api-description/issues/7266#issuecomment-5926848455)
-9. Created [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory)
-10. 🆕 Opened issue #7266 in [github/rest-api-description](https://github.com/github/rest-api-description/issues/7266)
+4. 📥 Opened PR in a private repository
+5. 📝 Committed to in a private repository
+6. 🔀 Merged PR in a private repository
+7. 📝 Committed to in a private repository
+8. 🔎 Created PR in a private repository
+9. 🗣 Commented on a review of PR in a private repository
+10. 📥 Opened PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
