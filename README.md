@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia)
-2. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
-3. ⭐ Starred [mehdihadeli/blog-samples](https://github.com/mehdihadeli/blog-samples)
-4. 📝 Committed to in a private repository
-5. 🎉 Created a new branch in a private repository
-6. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
-7. 🎉 Created a new branch in a private repository
-8. 📝 Committed to in a private repository
-9. 🗑️ Deleted a branch in a private repository
-10. 📝 Committed to in a private repository
+1. 🎉 Created a new branch in a private repository
+2. ⭐ Starred [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia)
+3. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
+4. ⭐ Starred [mehdihadeli/blog-samples](https://github.com/mehdihadeli/blog-samples)
+5. 📝 Committed to in a private repository
+6. 🎉 Created a new branch in a private repository
+7. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+8. 🎉 Created a new branch in a private repository
+9. 📝 Committed to in a private repository
+10. 🗑️ Deleted a branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
