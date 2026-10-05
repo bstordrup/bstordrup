@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to in a private repository
-2. 🗑️ Deleted a branch in a private repository
-3. 📝 Committed to in a private repository
-4. 🎉 Created a new branch in a private repository
-5. ⭐ Starred [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia)
-6. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
-7. ⭐ Starred [mehdihadeli/blog-samples](https://github.com/mehdihadeli/blog-samples)
-8. 📝 Committed to in a private repository
-9. 🎉 Created a new branch in a private repository
-10. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+2. 📝 Committed to in a private repository
+3. 🗑️ Deleted a branch in a private repository
+4. 📝 Committed to in a private repository
+5. 🍴 Forked [coding-pirates-hillerod/python-game-gym-kids](https://github.com/coding-pirates-hillerod/python-game-gym-kids)
+6. 🎉 Created a new branch in a private repository
+7. 📝 Committed to in a private repository
+8. 🔎 Created PR in a private repository
+9. 🔎 Created PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
