@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR in a private repository
-2. 📥 Opened PR in a private repository
-3. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
-4. ⭐ Starred [rtk-ai/rtk-gain-mod](https://github.com/rtk-ai/rtk-gain-mod)
-5. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-6. ⭐ Starred [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-7. ⭐ Starred [wieslawsoltes/ThemeManager.Avalonia](https://github.com/wieslawsoltes/ThemeManager.Avalonia)
-8. ⭐ Starred [linuxdevel/Avalonia-skills](https://github.com/linuxdevel/Avalonia-skills)
-9. ⭐ Starred [hoyho/iTimeSlot](https://github.com/hoyho/iTimeSlot)
-10. ⭐ Starred [MahApps/IconPacks.Avalonia](https://github.com/MahApps/IconPacks.Avalonia)
+1. 🆕 Opened issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17)
+2. 🔀 Merged PR in a private repository
+3. 📥 Opened PR in a private repository
+4. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+5. ⭐ Starred [rtk-ai/rtk-gain-mod](https://github.com/rtk-ai/rtk-gain-mod)
+6. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+7. ⭐ Starred [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+8. ⭐ Starred [wieslawsoltes/ThemeManager.Avalonia](https://github.com/wieslawsoltes/ThemeManager.Avalonia)
+9. ⭐ Starred [linuxdevel/Avalonia-skills](https://github.com/linuxdevel/Avalonia-skills)
+10. ⭐ Starred [hoyho/iTimeSlot](https://github.com/hoyho/iTimeSlot)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
