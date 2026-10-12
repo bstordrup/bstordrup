@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [wieslawsoltes/ThemeManager.Avalonia](https://github.com/wieslawsoltes/ThemeManager.Avalonia)
-2. ⭐ Starred [linuxdevel/Avalonia-skills](https://github.com/linuxdevel/Avalonia-skills)
-3. ⭐ Starred [hoyho/iTimeSlot](https://github.com/hoyho/iTimeSlot)
-4. ⭐ Starred [MahApps/IconPacks.Avalonia](https://github.com/MahApps/IconPacks.Avalonia)
-5. ⭐ Starred [Splitwirez/aero-theme-for-avalonia](https://github.com/Splitwirez/aero-theme-for-avalonia)
-6. ⭐ Starred [Voyonic-Systems/Echoes](https://github.com/Voyonic-Systems/Echoes)
-7. ⭐ Starred [mameolan/Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit)
-8. ⭐ Starred [AvaloniaUI/Avalonia.HtmlRenderer](https://github.com/AvaloniaUI/Avalonia.HtmlRenderer)
-9. ⭐ Starred [AvaloniaUI/Avalonia.Controls.DataGrid](https://github.com/AvaloniaUI/Avalonia.Controls.DataGrid)
-10. ⭐ Starred [AvaloniaUI/AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit)
+1. 🔀 Merged PR in a private repository
+2. 📥 Opened PR in a private repository
+3. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+4. ⭐ Starred [rtk-ai/rtk-gain-mod](https://github.com/rtk-ai/rtk-gain-mod)
+5. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+6. ⭐ Starred [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+7. ⭐ Starred [wieslawsoltes/ThemeManager.Avalonia](https://github.com/wieslawsoltes/ThemeManager.Avalonia)
+8. ⭐ Starred [linuxdevel/Avalonia-skills](https://github.com/linuxdevel/Avalonia-skills)
+9. ⭐ Starred [hoyho/iTimeSlot](https://github.com/hoyho/iTimeSlot)
+10. ⭐ Starred [MahApps/IconPacks.Avalonia](https://github.com/MahApps/IconPacks.Avalonia)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
