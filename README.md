@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26)
-2. ⭐ Starred [scarif-labs/horus](https://github.com/scarif-labs/horus)
-3. 🗑️ Deleted a branch in a private repository
-4. 🆕 Opened issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17)
-5. 🔀 Merged PR in a private repository
-6. 📥 Opened PR in a private repository
-7. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
-8. ⭐ Starred [rtk-ai/rtk-gain-mod](https://github.com/rtk-ai/rtk-gain-mod)
-9. ⭐ Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-10. ⭐ Starred [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+1. 🗣 Commented on issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26#issuecomment-6164234979)
+2. 🗣 Commented on issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17#issuecomment-6163912727)
+3. 🆕 Opened issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26)
+4. ⭐ Starred [scarif-labs/horus](https://github.com/scarif-labs/horus)
+5. 🗑️ Deleted a branch in a private repository
+6. 🆕 Opened issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17)
+7. 🔀 Merged PR in a private repository
+8. 📥 Opened PR in a private repository
+9. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+10. ⭐ Starred [rtk-ai/rtk-gain-mod](https://github.com/rtk-ai/rtk-gain-mod)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
