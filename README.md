@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR in a private repository
-2. 📥 Opened PR in a private repository
-3. 🔎 Created PR in a private repository
+1. 📝 Committed to in a private repository
+2. 🔀 Merged PR in a private repository
+3. 📥 Opened PR in a private repository
 4. 🔎 Created PR in a private repository
-5. 🗣 Commented on issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26#issuecomment-6164234979)
-6. 🗣 Commented on issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17#issuecomment-6163912727)
-7. 🆕 Opened issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26)
-8. ⭐ Starred [scarif-labs/horus](https://github.com/scarif-labs/horus)
-9. 🗑️ Deleted a branch in a private repository
-10. 🆕 Opened issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17)
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26#issuecomment-6164234979)
+7. 🗣 Commented on issue #17 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/17#issuecomment-6163912727)
+8. 🆕 Opened issue #26 in [scarif-labs/horus](https://github.com/scarif-labs/horus/issues/26)
+9. ⭐ Starred [scarif-labs/horus](https://github.com/scarif-labs/horus)
+10. 🗑️ Deleted a branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
