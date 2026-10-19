@@ -36,13 +36,13 @@ I have been working with software development since I was hired in a Danish comp
 1. 🗣 Commented on PR in a private repository
 2. 🗣 Commented on PR in a private repository
 3. 🗣 Commented on PR in a private repository
-4. 🗣 Commented on PR in a private repository
-5. 🗣 Commented on PR in a private repository
+4. 📝 Committed to in a private repository
+5. 📝 Committed to in a private repository
 6. 🗣 Commented on PR in a private repository
 7. 🗣 Commented on PR in a private repository
 8. 🗣 Commented on PR in a private repository
 9. 🗣 Commented on PR in a private repository
-10. 🔎 Created PR in a private repository
+10. 🗣 Commented on PR in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
