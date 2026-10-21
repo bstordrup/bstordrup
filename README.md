@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened issue #403 in [wieslawsoltes/Xaml.Behaviors](https://github.com/wieslawsoltes/Xaml.Behaviors/issues/403)
-2. 🎉 Created a new branch in a private repository
+1. 📝 Committed to in a private repository
+2. 🆕 Opened issue #403 in [wieslawsoltes/Xaml.Behaviors](https://github.com/wieslawsoltes/Xaml.Behaviors/issues/403)
 3. 🎉 Created a new branch in a private repository
-4. 🍴 Forked [wieslawsoltes/Xaml.Behaviors](https://github.com/wieslawsoltes/Xaml.Behaviors)
-5. 📝 Committed to in a private repository
+4. 🎉 Created a new branch in a private repository
+5. 🍴 Forked [wieslawsoltes/Xaml.Behaviors](https://github.com/wieslawsoltes/Xaml.Behaviors)
 6. 📝 Committed to in a private repository
-7. 🎉 Created a new branch in a private repository
+7. 📝 Committed to in a private repository
 8. 🎉 Created a new branch in a private repository
 9. 🎉 Created a new branch in a private repository
-10. 📝 Committed to in a private repository
+10. 🎉 Created a new branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
