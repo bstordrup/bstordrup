@@ -34,15 +34,15 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 🔀 Merged PR in a private repository
-2. 📥 Opened PR in a private repository
+2. 🆕 Opened issue #702 in [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia/issues/702)
 3. 📥 Opened PR in a private repository
 4. 🔀 Merged PR in a private repository
 5. 📥 Opened PR in a private repository
-6. 🎉 Created a new branch in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. 📝 Committed to in a private repository
-9. 📝 Committed to in a private repository
-10. 📝 Committed to in a private repository
+6. 📥 Opened PR in a private repository
+7. 🔀 Merged PR in a private repository
+8. 📥 Opened PR in a private repository
+9. 🎉 Created a new branch in a private repository
+10. 🗑️ Deleted a branch in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
