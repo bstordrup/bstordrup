@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repository
-2. 📝 Committed to main in [bstordrup/Consolonia](https://github.com/bstordrup/Consolonia/commit/6e5ed61ce20d37a4777e08c70e6d0bc13ebc3c5b)
-3. 🎉 Created a new branch in a private repository
-4. 🗣 Commented on a review of PR in a private repository
-5. 🗑️ Deleted a branch in a private repository
-6. 📝 Committed to in a private repository
-7. 🎉 Created a new branch in a private repository
-8. 🔎 Created PR in a private repository
-9. 🔀 Merged PR in a private repository
-10. 🔀 Merged PR in a private repository
+1. 🔀 Merged PR in a private repository
+2. 🗑️ Deleted a branch in a private repository
+3. 📝 Committed to in a private repository
+4. 🔀 Merged PR in a private repository
+5. 📥 Opened PR in a private repository
+6. 🔀 Merged PR in a private repository
+7. 📥 Opened PR in a private repository
+8. 🎉 Created a new branch in a private repository
+9. 🗑️ Deleted a branch in a private repository
+10. 📝 Committed to main in [bstordrup/Consolonia](https://github.com/bstordrup/Consolonia/commit/6e5ed61ce20d37a4777e08c70e6d0bc13ebc3c5b)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
