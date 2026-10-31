@@ -33,14 +33,14 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [prabanta-dev/janas](https://github.com/prabanta-dev/janas)
-2. 🗑️ Deleted a branch in a private repository
-3. 📝 Committed to in a private repository
+1. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+2. ⭐ Starred [dboyliao/C_Cpp](https://github.com/dboyliao/C_Cpp)
+3. ⭐ Starred [prabanta-dev/janas](https://github.com/prabanta-dev/janas)
 4. 🗑️ Deleted a branch in a private repository
 5. 📝 Committed to in a private repository
 6. 🗑️ Deleted a branch in a private repository
 7. 📝 Committed to in a private repository
-8. 📝 Committed to in a private repository
+8. 🗑️ Deleted a branch in a private repository
 9. 📝 Committed to in a private repository
 10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
