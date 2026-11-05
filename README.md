@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch in a private repository
-2. 🔎 Created PR in a private repository
-3. ⭐ Starred [pkasarda/oh-my-tabs](https://github.com/pkasarda/oh-my-tabs)
-4. 📝 Committed to in a private repository
-5. 📝 Committed to in a private repository
+1. 🆕 Opened issue #31 in [pkasarda/oh-my-tabs](https://github.com/pkasarda/oh-my-tabs/issues/31)
+2. 📝 Committed to in a private repository
+3. 📝 Committed to in a private repository
+4. 🗣 Commented on a review of PR in a private repository
+5. 🔎 Created PR in a private repository
 6. 📝 Committed to in a private repository
-7. 📝 Committed to in a private repository
-8. 📝 Committed to in a private repository
-9. 🎉 Created a new branch in a private repository
+7. 🗑️ Deleted a branch in a private repository
+8. 🔎 Created PR in a private repository
+9. ⭐ Starred [pkasarda/oh-my-tabs](https://github.com/pkasarda/oh-my-tabs)
 10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
