@@ -33,16 +33,16 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔎 Created PR in a private repository
-2. 🗣 Commented on a review of PR in a private repository
-3. ⭐ Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-4. 🎉 Created a new branch in a private repository
-5. ⭐ Starred [zainudinnoori/gitmanual](https://github.com/zainudinnoori/gitmanual)
-6. 📥 Opened PR in a private repository
-7. 🗑️ Deleted a branch in a private repository
-8. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-9. 📝 Committed to in a private repository
-10. 🗑️ Deleted a branch in a private repository
+1. 📝 Committed to in a private repository
+2. 🍴 Forked [coding-pirates-hillerod/python-show-iss-position-on-map](https://github.com/coding-pirates-hillerod/python-show-iss-position-on-map)
+3. 🍴 Forked [coding-pirates-hillerod/aula-space-invaders](https://github.com/coding-pirates-hillerod/aula-space-invaders)
+4. 🍴 Forked [coding-pirates-hillerod/python-projects-collection](https://github.com/coding-pirates-hillerod/python-projects-collection)
+5. 🍴 Forked [coding-pirates-hillerod/python-game-gym-kids](https://github.com/coding-pirates-hillerod/python-game-gym-kids)
+6. 📝 Committed to in a private repository
+7. 📝 Committed to in a private repository
+8. 📝 Committed to in a private repository
+9. 🔀 Merged PR in a private repository
+10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
