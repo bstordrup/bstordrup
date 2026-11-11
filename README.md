@@ -33,15 +33,15 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR in a private repository
-2. 🗑️ Deleted a branch in a private repository
-3. 📝 Committed to in a private repository
+1. 📝 Committed to in a private repository
+2. 📥 Opened PR in a private repository
+3. 🗑️ Deleted a branch in a private repository
 4. 📝 Committed to in a private repository
-5. 🍴 Forked [coding-pirates-hillerod/python-show-iss-position-on-map](https://github.com/coding-pirates-hillerod/python-show-iss-position-on-map)
-6. 🍴 Forked [coding-pirates-hillerod/aula-space-invaders](https://github.com/coding-pirates-hillerod/aula-space-invaders)
-7. 🍴 Forked [coding-pirates-hillerod/python-projects-collection](https://github.com/coding-pirates-hillerod/python-projects-collection)
-8. 🍴 Forked [coding-pirates-hillerod/python-game-gym-kids](https://github.com/coding-pirates-hillerod/python-game-gym-kids)
-9. 📝 Committed to in a private repository
+5. 📝 Committed to in a private repository
+6. 🍴 Forked [coding-pirates-hillerod/python-show-iss-position-on-map](https://github.com/coding-pirates-hillerod/python-show-iss-position-on-map)
+7. 🍴 Forked [coding-pirates-hillerod/aula-space-invaders](https://github.com/coding-pirates-hillerod/aula-space-invaders)
+8. 🍴 Forked [coding-pirates-hillerod/python-projects-collection](https://github.com/coding-pirates-hillerod/python-projects-collection)
+9. 🍴 Forked [coding-pirates-hillerod/python-game-gym-kids](https://github.com/coding-pirates-hillerod/python-game-gym-kids)
 10. 📝 Committed to in a private repository
 <!--END_SECTION:activity-->
 
