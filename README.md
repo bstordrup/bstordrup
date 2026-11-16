@@ -33,13 +33,13 @@ I have been working with software development since I was hired in a Danish comp
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
-2. 📝 Committed to in a private repository
-3. 🎉 Created a new branch in a private repository
-4. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-5. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-6. 📥 Opened PR in a private repository
-7. 📝 Committed to in a private repository
+1. 🔎 Created PR in a private repository
+2. ⭐ Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+3. 📝 Committed to in a private repository
+4. 🎉 Created a new branch in a private repository
+5. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+6. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+7. 📥 Opened PR in a private repository
 8. 📝 Committed to in a private repository
 9. 📝 Committed to in a private repository
 10. 📝 Committed to in a private repository
