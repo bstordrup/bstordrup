@@ -34,10 +34,10 @@ I have been working with software development since I was hired in a Danish comp
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to in a private repository
-2. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
-3. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-4. ⭐ Starred [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows)
-5. 🗣 Commented on a review of PR in a private repository
+2. 📝 Committed to in a private repository
+3. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+4. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+5. ⭐ Starred [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows)
 6. 🗣 Commented on a review of PR in a private repository
 7. 🗣 Commented on a review of PR in a private repository
 8. 🗣 Commented on a review of PR in a private repository
